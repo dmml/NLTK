@@ -7,7 +7,6 @@ from nltk.stem.wordnet import WordNetLemmatizer
 f = open('title.txt', encoding="latin-1")
 raw_title = f.read()
 sample = 1700
-# check type
 type(raw_title)
 tokens = word_tokenize(raw_title)
 type(tokens)
