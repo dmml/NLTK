@@ -1,0 +1,136 @@
+*************
+author
+*************
+avg post = 4.871060171919771
+
+max post = 528
+
+min post = 1
+
+median post = 1
+
+***************
+top 10 post author
+
+[('Vincent Granville', 528), ('Michael Walker', 85), ('Mirko Krivanek', 69), ('Don Philip Faithful', 41), ('William Vorhies', 34), ('Bernard Marr', 32), ('derick.jose', 19), ('Venky Rao', 18), ('Michel Bruley', 18), ('Atif Farid Mohammad', 16)]
+***************
+
+
+*****************
+title
+*****************
+
+max data = 975
+
+min embedd = 1
+
+median datastax = 1
+
+avg = 3.6599257119273627
+******************
+
+top 50 words
+[('data', 975), ('big', 356), ('science', 235), ('analytic', 190), ('scientist', 136), ('week', 123), ('digest', 111), ('new', 67), ('top', 62), ('us', 55), ('learn', 54), ('busines', 50), ('predict', 44), ('articl', 42), ('model', 38), ('machine', 37), ('hadoop', 37), ('analysi', 33), ('great', 30), ('job', 28), ('r', 28), ('part', 28), ('intelligence', 28), ('real', 26), ('min', 25), ('market', 24), ('visualization', 24), ('tool', 24), ('manage', 23), ('customer', 23), ('book', 23), ('cloud', 21), ('social', 21), ('best', 20), ('question', 20), ('world', 20), ('problem', 19), ('python', 19), ('get', 18), ('future', 18), ('v', 18), ('use', 18), ('skill', 18), ('solution', 17), ('statistic', 17), ('build', 17), ('project', 17), ('insight', 17), ('ne', 17), ('outlet', 17)]
+
+
+
+********************
+text
+********************
+
+raw-text.collocations()
+
+Big Data; big data; data science; machine learning; social media; data
+scientists; Data Science; data scientist; open source; Data Scientist;
+New York; map reduction; data sets; United States; real time; Business
+Intelligence; make sure; predictive analytics; years ago; time series
+
+
+>>> nltk.Text(nostop_text).collocations()
+
+big data; data science; data scientist; machine learn; social media;
+pay million; open source; busines intelligence; map reduction; time
+ser; deep learn; internet thing; data set; year ago; predict analytic;
+data min; predict model; make sure; neural network; confidence
+interval
+
+
+top 50 words
+
+[('data', 9445), ('us', 1738), ('big', 1686), ('one', 1335), ('analytic', 1317), ('busines', 1251), ('time', 1152), ('new', 1129), ('use', 1116), ('also', 1065), ('like', 1062), ('would', 990), ('many', 961), ('might', 942), ('work', 897), ('people', 897), ('model', 893), ('science', 847), ('ne', 835), ('system', 759), ('make', 759), ('information', 722), ('way', 714), ('analysi', 705), ('market', 705), ('learn', 688), ('number', 684), ('problem', 681), ('organization', 676), ('scientist', 664), ('different', 663), ('real', 644), ('customer', 643), ('even', 642), ('event', 641), ('get', 632), ('understand', 626), ('see', 618), ('help', 617), ('compan', 611), ('mean', 610), ('could', 603), ('look', 584), ('u', 582), ('find', 580), ('result', 572), ('proces', 566), ('much', 558), ('user', 557), ('know', 557)]
+
+
+max data = 9445
+
+min drank = 1
+
+median cor = 2
+
+avg = 20.76207564774277
+
+unique text words = 13933
+
+text words = 289278
+
+
+##############################################
+kd
+####################
+
+
+title
+************
+max data = 1769
+
+min 'sengupta', 1
+
+median 'tapastic', 1
+
+avg = 5.951401869158879
+
+total unique words = 3210
+
+total words title = 19104
+
+lexical_diversity(nostop_title) = 5.951401869158879
+
+collocation title
+
+data analytics  big  top science kdnuggets mining learning tweets interview machine news predictive  may stories free  feb  apr deep  mar  new    r webcasts online highlights upcoming  oct scientist  jan business  day world  dec summit  jun beyond  nov conference  san poll courses text scientists software  sep python analysis innovation  aug  jul 
+
+top 50 title
+
+[('data', 1769), ('analytics', 657), ('big', 623), ('top', 548), ('science', 468), ('kdnuggets', 382), ('mining', 382), ('learning', 293), ('tweets', 261), ('interview', 234), ('machine', 157), ('news', 124), ('predictive', 123), ('may', 118), ('stories', 109), ('free', 107), ('feb', 102), ('apr', 101), ('deep', 100), ('mar', 100), ('new', 96), ('r', 92), ('webcasts', 90), ('online', 84), ('highlights', 82), ('upcoming', 80), ('oct', 79), ('scientist', 79), ('jan', 78), ('business', 77), ('day', 75), ('world', 75), ('dec', 73), ('summit', 73), ('jun', 70), ('beyond', 67), ('nov', 67), ('conference', 65), ('san', 65), ('poll', 65), ('courses', 61), ('text', 59), ('scientists', 58), ('software', 57), ('sep', 56), ('python', 55), ('analysis', 55), ('innovation', 53), ('aug', 53), ('jul', 52)]
+
+*****************
+text
+*******************
+
+before
+
+Big Data; machine learning; big data; data mining; data science; Data
+Science; Gregory Piatetsky; Machine Learning; open source; Data
+Mining; data scientists; data scientist; Data Scientist; social media;
+New York; San Francisco; predictive analytics; Modeling Agency;
+Computer Science; deep learning
+
+after
+
+big data; machine learn; data science; data scientist; data min;
+gregory piatetsky; open source; popular tweet; social media; deep
+learn; san francisco; computer science; predict analytic; neural
+network; new york; upcom webcast; knowledge discovery; part interview;
+use cas; predict model
+
+
+most common 50
+
+[('data', 10172), ('analytic', 2522), ('big', 2331), ('learn', 1649), ('busines', 1381), ('science', 1315), ('model', 1314), ('us', 1311), ('work', 1275), ('also', 1256), ('new', 1209), ('one', 1116), ('use', 961), ('like', 957), ('min', 950), ('scientist', 899), ('time', 897), ('year', 840), ('analysi', 813), ('people', 807), ('many', 795), ('predict', 793), ('research', 786), ('tool', 778), ('see', 773), ('customer', 748), ('machine', 738), ('user', 737), ('information', 730), ('problem', 709), ('interest', 706), ('system', 698), ('application', 676), ('talk', 673), ('understand', 652), ('develop', 629), ('market', 626), ('includ', 626), ('ne', 619), ('help', 618), ('team', 603), ('way', 600), ('get', 597), ('well', 597), ('algorithm', 589), ('project', 582), ('hadoop', 581), ('real', 577), ('insight', 575), ('start', 571)]
+
+max data = 10172
+min comed = 1
+median = ('dataframe', 2)
+avg text = 21.10979294082971
+total text = 286481
+unique text = 13571
+lexical_diversity = 16.31069232521066

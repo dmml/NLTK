@@ -1,0 +1,3414 @@
+title
+Data for Humanity: A Request for Support
+IEEE ICDM 2015 Call For Research and Service Award Nominations
+Statistics Denial Myth: Repackaging Statistics With Straddling Terms
+OpenImpact ?€? solve social problems with your data skills
+Big Data ?€? yes, that?€?s what a latest Sensational Rap Music Video is all about
+Wharton Online: Strategic Value of Customer Relationships, Sep 28 ?€? Nov 22
+CYPHER 2015, Analytics India Summit ?€? 12 Sep, Bangalore, India
+Interview: Ali Vanderveld, Groupon on Vital Ingredients of Analytics-powered Sales Force
+Drag and Drop Visuals in your Interactive Dashboard ?€? Gridster & D3.js
+Top stories for Jul 12-18: 50+ Data Science, Machine Learning Cheat Sheets; Deep Learning Adversarial Examples ?€? Misconceptions
+Stop Hiring Data Scientists Until You?€?re Ready for Data Science
+Interview: Ali Vanderveld, Groupon on How Data Science is Changing the Global E-commerce Marketplace
+Top June stories: Top 20 Python Machine Learning Projects; Which Big Data, Data Mining Tools go together?
+Book: Healthcare Data Analytics
+The missing D in Data Science
+CHEMDNER competition: Chemical and drug name recognition task in patents
+Webinar: Data Mining: Failure to Launch [June 10]
+DataLead ?€? Leading the Way in Big Data, Paris, Nov 5-6
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jun 2 and beyond
+Top 20 Python Machine Learning Open Source Projects
+Big Data Developer Conference, Hyderabad, India, June 19-21
+Top 30 Social Network Analysis and Visualization Tools
+77 upcoming June ?€? December 2015 Meetings in Analytics, Big Data, Data Mining, Data Science
+Top /r/MachineLearning Posts, May: Unreasonable Effectiveness of Recurrent Neural Networks, Time-Lapse Mining
+Interview: Sheridan Hitchens, Auction.com on Data Science Evolution from a Nerdy Hobby to a Strategic Priority
+Data Mining and Predictive Analytics Glossary
+Love, Sex and Predictive Analytics
+Interview: James Taylor, Salesforce on Apache Phoenix ?€? RDBMS for Big Data
+MSc in Data Science/Executive Big Data Analysis in Paris or Nice
+Top KDnuggets tweets, May 26 ?€? Jun 1: Step by Step Guide to Learn #DataScience on R
+Top May stories: Most popular Predictive Analytics, Data Mining, Data Science software; R vs Python
+Top stories for May 31 ?€? Jun 6: Top 20 Python Machine Learning Open Source Projects
+Ontotext: RDF Graph Databases in the Cloud, June 11 Webinar
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jun 9 and beyond
+Interview: James Taylor, Salesforce on Phoenix + HBase ?€? The Future of Big Data
+Best Big Data, Data Science, Data Mining, and Machine Learning podcasts
+Interview: Ranjan Sinha, eBay on Winner Insights from International Sorting Competitions
+May 2015 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Interview: Ranjan Sinha, eBay on Advanced Hadoop Cluster Management through Predictive Modeling
+Top KDnuggets tweets, Jun 2-8: Starting salaries for #DataScientists have gone north of $200,000
+Webinar: Tips & Tricks to Improve Your Logistic Regression, June 25
+TDWI Boston, July 26-31, 2015 ?€? The Analytics Experience
+Big Data Developer Conference and Training, Santa Clara, July 15-17
+Which Big Data, Data Mining, and Data Science Tools go together?
+PAW: Predictive Analytics in the Financial Industry, Boston, Sep 27 ?€? Oct 1
+Interview: Beth Smith, General Manager of the IBM Analytics Platform business, on Analytics, Hadoop, Spark
+Big Data Developer Conference and Training, Boston, Aug 10-12
+Cognitive Computing: Solving the Big Data Problem?
+Is Analytics Career Right for You?
+Scala By the Bay (Aug 13-16) + Big Data Scala (Aug 16-18), Bay Area
+Top KDnuggets tweets, Apr 27 ?€? May 3: Attack of the #BigData Startups; Data Science from Scratch: First Principles with Python
+Try JMP?? free for 30 days
+DrivenData Competition: Keeping Boston Fresh
+How Data Science makes Better Products
+Talking Machine ?€? Deep Learning in Speech Recognition
+How To Become a Data Scientist And Get Hired
+Top stories for Apr 26 ?€? May 2: The Myth of Model Interpretability; How To Become a Data Scientist and Get Hired
+WebDataCommons ?€? the Data and Framework for Web-scale Mining
+Additions to KDnuggets Directory in April
+Interview: Haile Owusu, Mashable on Surviving Imprecision in Digital Media Analytics
+Data Mining Process/Workflow Reproducibility and KNIME
+Strata + Hadoop World 2015, London, May 5-7, Watch Live
+NYC Data Science Academy 12 weeks Bootcamp, Apply by May 15
+NoSQL matters, great fun and tech nerdity, Dublin, June 4
+Guiding Principles to Build a Demand Forecast
+80 upcoming May ?€? November 2015 Meetings in Analytics, Big Data, Data Mining, Data Science
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? May 5 and beyond
+Has your data become overwhelming? Attend PAW Chicago
+Data Scientists Automated and Unemployed by 2025?
+Basketball Predictive Analytics: Will he take the shot?
+The Inconvenient Truth About Data Science
+Deep Learning with Structure ?€? a preview
+KDD 2015 Innovation and Service Awards, nominations due June 5
+Blockspring: Out-run programmers with your spreadsheet
+Additions to KDnuggets Directory in March 2015
+Poll: Machine Learning APIs
+Computing Platforms for Analytics, Data Mining, Data Science
+A Data Scientist Advice to Business Schools
+Big Data for the Common Good ?€?Collider?€?, at Frankfurt / Berkeley
+Gold Mine or Blind Alley? Functional Programming for Big Data & Machine Learning
+Big Data Developer Conference, Santa Clara: Day 1 Highlights
+Hadoop as a Service: 18 Cloud Options
+Interview: Alessandro Gagliardi, Glassdoor on the Indispensable Skills for Data Scientists
+Pacific 1-year MS in Analytics in San Francisco
+Hazy Forecast for Consumer Privacy in the Next Decade
+Text By the Bay conference, San Francisco, Apr 24-25
+Top LinkedIn Groups for Analytics, Big Data, Data Mining, and Data Science ?€? Discussions up, Engagement down
+100+ upcoming April ?€? October 2015 Meetings in Analytics, Big Data, Data Mining, Data Science
+Big Data Developer Conference, Santa Clara: Day 2 Highlights
+Chapter Download from ?€?Data Mining Techniques?€? (3rd edition)
+Top KDnuggets tweets, Mar 30 ?€? Apr 01: Very useful! Data Visualization with ggplot2 CheatSheet
+Forrester Wave(tm) Big Data Predictive Analytics 2015: Gainers and Losers
+Watson Developer Cloud-Visual Recognition
+Interview: Alessandro Gagliardi, Glassdoor on the Fun and Boring Part of Data Scientist Job
+Big Data Developer Conference, Santa Clara: Day 3 Highlights
+Top stories for Mar 29 ?€? Apr 4: Deep Learning, Dimensionality, and Autoencoders; The Grammar of Data Science: Python vs R
+Interview: Beth Diaz, Washington Post on How Dark Social is Shadowing Modern Analytics
+Awesome Public Datasets on GitHub
+WCAI Research Opportunity, Apr 24: He Said, She Bought ?€? User-Generated Reviews and Purchase Behavior
+Wrangling Public Bike Share Data with The Free Trial of Trifacta
+GISCUP: GIS-focused algorithm competition at ACM SIGSPATIAL GIS 2015
+Women Analytics Book Authors ?€? Meta List
+Additions to KDnuggets Directory in February
+Top stories for Feb 22-28: Gartner 2015 MQ for Advanced Analytics: gainers and losers; History of Data Science Infographic
+Strata + Hadoop World 2015 San Jose ?€? Day 1 Highlights
+Interview: Ted Dunning, MapR on The Real Meaning of Real-Time in Big Data
+Top KDnuggets tweets, Feb 26 ?€? Mar 1: Bayes Theorem explained with Lego; 10 Cool #BigData Cartoons
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Mar 3 and beyond
+Chief Data Officer Summit, San Jose, Apr 28-29, 2015
+Poll: What Predictive Analytics, Data Mining, Data Science software/tools you used in the past 12 months?
+Analytics, Data Mining, Data Science professionals well compensated
+All Machine Learning Models Have Flaws
+Top /r/MachineLearning Posts, Feb 22-28: Jurgen Schmidhuber AMA and Machine Learning Done Wrong
+The Elements of Data Analytic Style ?€? checklist
+Best 5 minutes in Data Science, Season 1
+Failing Optimally ?€? Data Science?€?s Measurement Problem
+Interview: Kaiser Fung, NYU on Why Ignoring Data Integrity is a Recipe for Disaster
+Careers in Data Science and Business Analytics ?€? NYU Seminar, Mar 28
+Interview: Ted Dunning, MapR on Apache Mahout & Technology Landscape in ML
+Upcoming March ?€? August 2015 Meetings in Analytics, Big Data, Mining, Data Science
+Top stories in February: 10 things statistics taught about big data; Gartner Analytics MQ: gainers and losers
+Top /r/Machine Learning Posts, February: Automating Tinder, Jurgen Schmidhuber, and Shazam
+Hurwitz: Cognitive Computing and Big Data Analytics
+Online Graduate Certificate in Business Analytics from Penn State
+10 Predictive Analytics Influencers You Need to Know
+Interview: Lei Shi, ChinaHR.com on Analytics behind the Perfect Match
+Interview: Lei Shi, ChinaHR.com on Unraveling Insights from Unstructured Data
+7 common mistakes when doing Machine Learning
+Interview: Kaiser Fung, NYU on Why Statistical Reasoning is more important than Number Crunching
+Juergen Schmidhuber AMA: The Principles of Intelligence and Machine Learning
+Top /r/MachineLearning Posts, Mar 1-7: Stanford Deep Learning for NLP, Machine Learning with Scikit-learn
+Top stories for Mar 1-7: All Machine Learning Models Have Flaws; Analytics, Data Mining, Data Science professionals salary
+Chapter Download from ?€?Data Mining Techniques?€?
+Top KDnuggets tweets, Mar 2-8: 6 categories in the Hadoop Ecosystem; How PayPal uses Deep Learning to fight fraud
+Interview: Slava Akmaev, Berg on Healthcare Transparency &  Effectiveness using Big Data
+Additions to KDnuggets Directory in January
+Comics Recommendations: ?€?Tinder for Comics?€? built with Tapastic and PredictionIO
+Avoiding a Common Mistake with Time Series
+Top stories for Jan 25-31: (Deep Learning Deep Flaws) Deep Flaws; Text Analysis 101: Document Classification
+BigML machine learning platform Winter 2015 Release, Feb 11
+Top KDnuggets tweets, Jan 26 ?€? Feb 1: Good list of Machine Learning Resources; Sample Machine Learning solutions with R
+Interview: Eli Collins, Cloudera on Evolution and Future of Big Data Ecosystem
+Top Big Data Influencers and Brands
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Feb 3 and beyond
+Upcoming Feb ?€? July 2015 Meetings in Analytics, Big Data, Mining, Data Science
+PASS Business Analytics Conference, Santa Clara, Apr 20-22
+Gartner Business Intelligence & Analytics Summit, Las Vegas, Mar 30 ?€? Apr 1
+Interview: Rachel Hawley, SAS on Why Data Science Needs Communication Skills
+Webinar: Data Mining: Failure to Launch [Feb 10]
+Analytics Outsourcing to India: Should or Shouldn?€?t?
+The Post-Hadoop World: New Kid On The Block Technologies
+Top /r/MachineLearning posts, Jan 25-31
+How Many Quants are Changing Jobs?
+Two Most Important Trends in Analytics and Big Data in 2015
+Top KDnuggets tweets, Feb 2-3: Avoiding a Common Mistake with Time Series; A New Year in Data Science, great overview
+How Big Data Pieces, Technology, and Animals fit together
+Interview: Rachel Hawley, SAS on the Quest for Agile Analytics
+Top KDnuggets tweets, Feb 4-5: Clarifai Machine Learning software can understand what is in your videos
+Top stories in January: (Deep Learning Deep Flaws) Deep Flaws; Research Leaders on key trends, papers
+Get practical training at PASS Business Analytics Conference, Santa Clara, April 20-22
+Women in Data: Top Practitioners on Critical Skills, Background, and Education
+Top stories for Feb 1-7: Avoiding a Common Mistake with Time Series; Top Big Data Influencers and Brands
+Facebook Open Sources deep-learning modules for Torch
+Top 30 people in Big Data and Analytics
+Interview: Jason Bloomberg, Intellyx on the Tricky Balance of Optimization and Innovation
+Top KDnuggets tweets, Feb 02-08: 10 things statistics teaches about Big Data analysis; Where is Waldo ruined by Machine Learning
+10 things statistics taught us about big data analysis
+Interview: Phani Nagarjuna, Nuevora on CMO Expectations from Analytics
+Stanford Online Courses: Use data to solve biological, medical problems
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Feb 10 and beyond
+Top /r/MachineLearning posts, Feb 1-7: Music recognition, Text Understanding from scratch
+Analyzing Analysts to Build Better Analysis Software
+Wharton Workshop: Bringing Customer Lifetime Value to Life, Feb 19-20, Philadelphia
+Top KDnuggets tweets, Jan 7-8: Programming languages popularity by US state; Machine Learning best practices from Kaggle competitions
+AI Says Data Scientists Not So Sexy in 2015
+Differential Privacy: How to make Privacy and Data Mining Compatible
+PACE Data Mining Boot Camps, San Diego, Feb 10-11
+Research Leaders on Data Mining, Data Science, and Big Data key trends, top papers
+Interview: Sharmila Mulligan, ClearStory Data on Variety & Velocity to be Big Data Priorities
+2014 in Review: Top KDnuggets tweets in August
+Top stories in December: If programming languages were vehicles; Cartoon: Unexpected Data Science Recommendations
+11 Clever Methods of Overfitting and how to avoid them
+Additions to KDnuggets Directory in December 2014
+Analytics: Five Rules to Cut Through the Hype
+NYC Data Science Academy Bootcamp, Feb 2 ?€? Apr 24
+NYC Open Data Meetups in January
+Data Mining and Text Analytics of World Cup 2014
+Top stories for Dec 28 ?€? Jan 3: What will happen to big data and data science? Analytics: Five Rules to Cut Through the Hype
+Causation vs Correlation: Visualization, Statistics, and Intuition
+Enter a KDD Cup or Kaggle Competition. You don?€?t need to be an expert!
+Top KDnuggets tweets, Dec 29 ?€? Jan 04: A brilliant way to tell causation from correlation; Machine Learning Experts You Need to Know.
+Webinar: Data Mining: Failure to Launch [Jan 15]
+Upcoming Jan ?€? Jun 2015 Meetings in Analytics, Big Data, Data Mining, Data Science, Machine Learning
+Interview: Paul Robbins, STATS on the Potential and Challenges for Sports Analytics
+Agnik Connected Insurance Program powered by Vehicle Analytics
+iMath Cloud Data Science Platform beta
+Big Data Bootcamp, Santa Clara, Jan 16-18
+PAW: 5 Co-Located Analytics Events in San Francisco, March 29 ?€? Apr 2, 2015
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jan 6, 2015 and beyond
+Majority thinks Artificial Intelligence will not be a threat to Humanity
+Top KDnuggets tweets, Jan 5-6: Great post: Deep Learning in a Nutshell; Big Data visualized in so many ways
+PAN Competition 2015: Plagiarism Detection, Author ID, Author Profiling
+Predictive Analytics Innovation Summit, Chicago ?€? Day 1 Highlights
+Learning Data Science and Predictive Modeling at Your Own Pace ?€? A Free Online Video Series
+Interview: Sharmila Mulligan, ClearStory Data on Collaborative StoryBoards for Big Data
+Top stories for Jan 4-10: 11 Clever Methods of Overfitting; Research Leaders on Data Science and Big Data
+Debunking Big Data Myths. Again
+World experts will meet for first Deep Learning Summit in San Francisco, Jan 29-30
+Predictive Analytics Innovation Summit, Chicago ?€? Day 2 Highlights
+Practical Machine Learning for Engineers, New York, Jan 19-21
+Additions to KDnuggets Directory in November
+WordStat 7: Shifting Text Analytics Into High Gear
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Dec 2 and beyond
+Geoffrey Hinton talks about Deep Learning, Google and Everything
+Top KDnuggets tweets, Nov 24-30: How Word Meanings Change; Data wrangling with R: Things I wish I?€?d been told
+Top 10 Big Data Companies by Revenue
+PAW: Predictive Analytics World for Workforce, San Francisco
+KDnuggets 14:n32, On Deep Learning, Google and AI; Top SlideShare on Data Science
+Northwestern Online MS in Predictive Analytics
+Upcoming Dec ?€? May Meetings in Analytics, Big Data, Mining, Data Science
+Sisense 2015 predictions for BI, Big Data
+Top KDnuggets tweets, Dec 1-2: Hilarious: If programming languages were vehicles; How Google Translates Pictures Into Words
+EMC: Big Data, Data Science Courses, up to 57% off
+Top stories in November: 9 Must-Have Skills for a Data Scientist; IBM Watson Analytics replacing a data scientist?
+SlamData Open Source Analytics Tool for MongoDB
+Data Scientist: Owning Up to the Title
+Research Challenge: 2015 ACM India SIGKDD Conference on Data Sciences
+SBP15 Grand Data Challenge
+Interview: Igor Elbert, Gilt on Boosting Sales through Analytics-curated Shopping
+Mode Playbook for Open Source Analytics
+If programming languages were vehicles, what would be R, Python, SAS, and SQL?
+Top stories for Nov 30 ?€? Dec 6:  Hinton on Deep Learning, Google and AI; Top 10 Big Data companies
+Top KDnuggets tweets, Dec 3-4: Google funds Automatic Statistician project; Data Science Ontology, visualized
+Zicari: Big Data: A Data-Driven Society
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Dec 9 and beyond
+Tableau Top 10 Trends in Business Intelligence for 2015
+Simplilearn Big Data and Analytics courses, 30% off
+Free Urban Data ?€? What?€?s It Good For?
+BigData TechCon San Francisco Report: Focus on Spark
+LIONoso, a non-profit tool for Machine Learning and Intelligent Optimization
+Top stories for Oct 26 ?€? Nov 1: Will Deep Learning take over Machine Learning?
+Upcoming Nov ?€? May Meetings in Analytics, Big Data, Mining, Data Science
+Additions to KDnuggets Directory in October
+Top KDnuggets tweets, Oct 31 ?€? Nov 2: Nate Silver on 3 Keys to Great Information Design
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Nov 4 and beyond
+Comprehensive Data Science Training by Salford Systems, Dec 3-5, Online or San Diego
+Forrester Research: It?€?s Time For A User-Driven Enterprise BI Strategy
+DrivenData: Data Science Competitions for Social Good
+Course: Practical Machine Learning for Engineers, New York, Nov 10-12
+Top stories in October: Ebola Analytics and Data Science Lessons; Will Deep Learning take over Machine Learning?
+PAW San Francisco ?€? Four Co-located Analytics Events, March 2015
+KDnuggets 14:n29, Big Data Winter ahead? Wikibon Big Data takeaways; LIONoso
+More Data Mining with Weka
+STRATA + Hadoop World 2014 NYC Report
+Top KDnuggets tweets, Nov 3-4: A population density map of France derived from 1B cellphone call records
+Stanford: Online Certificates in Data Mining and Management
+NTU MSc Data Analytics for Business
+The Future of Analytics: 3 Predictions for BI in 2015
+Why the Fast Data world needs a proven and mature In-Memory Data Fabric?
+Berkeley Michael Jordan says Big Data is transformative, not a delusion
+?€?Magic?€? ?€? Quickest Way to Turn Webpage Into Data
+Top KDnuggets tweets, Nov 5-6: Free access to Microsoft Azure Machine Learning; 2 ways Big Data can make us happier
+Big Data Comic Explains the Current State of Privacy
+October 2014 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+DATA SCIENCE BOOTCAMP in New York City, Jan ?€? Apr 2015
+How Analytics is Shaping HR Role In Business ?€? White Paper
+To Hire Quants, Fix Your Hiring Process
+Mirador, a free tool for visual exploration of complex datasets
+Additions to KDnuggets Directory in September
+One-handed Keystroke Biometric Identification Competition
+SemEval Aspect Based Sentiment Analysis Competition
+Top KDnuggets tweets, Sep 29-30: Machine learning #cheatsheet; Can you find McDonald faster than a computer?
+Text Analytics Summit West, San Francisco, Nov 4-5
+Upcoming Oct ?€? Apr Meetings in Analytics, Big Data, Mining, Data Science
+Mirador Open Data Competition
+Big Data and Humanitarian Efforts
+Top KDnuggets tweets, Oct 1-2: R wizard Hadley Wickham ?€?Advanced R?€? book online
+Data science shows surveys may assess language more than attitudes
+Webcast: Analytically Speaking Featuring Dan Ariely
+KDnuggets Free Pass to Big Data TechCon How-To Conference, Oct 27-29, San Francisco
+Top stories for Sep 28 ?€? Oct 4: Mirador, a free tool for visual exploration of complex datasets
+Interview: Toni Jones, U-Haul on Deriving Business Insights from Social Media
+Analyzing Ebola ?€? Is it spreading at exponential rate?
+Competition: Forecasting social network dynamic graph
+Learn how Sparkling Water brings H2O Deep Learning to Apache Spark, Oct 29 Webinar
+Zingchart Interactive JavaScript Charts for Big Data
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Oct 7 and beyond
+Top KDnuggets tweets, Oct 3-5: Best Programming Languages for Machine Learning; Analyzing Ebola
+Request: Top Business Analytics Journals?
+Top stories in September: Data Science is mainly a Human Science; Hiring Data Scientists: What to look for?
+Webinar: Data Mining: Failure to Launch [Oct 16]
+PAW: Predictive Analytics World London, Oct 29-30
+Making Sense of Public Data ?€? Wrangling Jeopardy
+KDnuggets 14:n26, Analyzing Ebola and World Events; Mirador, a free tool for visual exploration
+Top KDnuggets tweets, Oct 6-7: Great TED talk by @KnCukier ?€?Big Data is better data?€?; Top 10 One-Person Startups
+Big Data & Analytics for Retail Summit 2014 Chicago: Day 1 Highlights
+Perfume, computer programming, and Harvard
+Predictive Analytics Innovation Summit, Chicago, Nov 12-13
+SPOTLIGHT: Can Data Science Save Humanity from Mosquitoes and other Deadly Insects?
+Additions to KDnuggets Directory in August
+Cartoon: Robot Labor Day 2050
+Top KDnuggets tweets, Aug 29-31: Data Analytics vs Predictive Modeling vs ?€?; 100 top machine learning talks
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Sep 2 and beyond
+New Poll: Did you do Data Science for Humans or for Machines?
+SPOTLIGHT: Can Data Science Save Humanity from Mosquitoes and other Deadly Insects? #2
+Age homophily for predicting age of mobile phone customers
+Online Master of Science in Data Science
+Analytical Skills Survey for 2014
+KDD-2014 report, part 2: The Magic Module network and Privacy vs Big Data
+Ontotext text mining, semantic search, and graph database
+PAW: Predictive Analytics World London, October
+BayesiaLab User Conference, Sep 16-24, UCLA
+Webcast ?€? Analytically Speaking Featuring Michael J. A. Berry and Gordon S. Linoff
+Sep 2014 ?€? Mar 2015 Meetings in Analytics, Big Data, Data Mining, and Data Science
+KDnuggets 14:n23, My KDD-2014 Report; Data Science for Humans or Machines? Labor Day 2050
+CoLaboratory: Doing Data Science Collaboratively Like Google Doc
+Shifting CXO crowns and changing Analytics Leadership
+Top KDnuggets tweets, Sep 1-2
+Northwestern Online Master of Science in Predictive Analytics
+SAS Analytics 2014, Las Vegas, October
+Top stories in August: Four main languages for Analytics, Data Mining, Data Science
+August 2014 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Exclusive Interview: Ajay Bhargava, TCS shares the Big Data Mantra: Harness Data and Harvest Value
+Top stories for Aug 31 ?€? Sep 6
+Most Viewed Data Mining Talks at Videolectures
+Hiring Data Scientists: What to look for?
+Exclusive Interview: Ajay Bhargava, TCS on the Ideal Analytics Curriculum at Graduate-level
+Founders of Yahoo! and MySQL Invest in Import.io
+Interview: Joe Otto, Alpine on Why Big Data is all about Empowerment & Collaboration
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Sep 9 and beyond
+MOOC: ?€?Process Mining: Data science in Action?€?
+Most Viewed Big Data Talks at Videolectures
+Customer Analytics Summit 2014 Chicago: Day 1 Highlights
+Exclusive: Dell Management on Analytics, Data Mining, Statistica future
+Interview: Joe Otto, Alpine on Selecting the Right Big Data Vendor
+Most Viewed Machine Learning Talks at Videolectures
+Exclusive Interview: Imran Siddiqi, SAP on the Strategic Value Proposition of Big Data
+Additions to KDnuggets Directory in July
+18 essential Hadoop tools
+Interview: Taylor Phillips, Square on Why Finance Needs Machine Learning and Data Science
+ASE International Conference on Big Data Science 2014: Day 1 Highlights
+Top KDnuggets tweets, Jul 30-31
+ACM SIGKDD 2014 Service Award to Ted Senator
+Book: Data Classification: Algorithms and Applications
+Cartoon: Big Data Visualization and 7-D Printer
+August ?€? January Meetings in Analytics, Big Data, Data Mining, and Data Science
+Top stories for Jul 27 ?€? Aug 2: What does Big Data tell us about Romance
+Interview: Vita Markman, LinkedIn on Practical Solutions for Sentiment Mining Challenges
+ASE International Conference on Big Data Science 2014: Day 2 Highlights
+Interview: Christophe Toum, Talend on Why Big Data Needs Big Governance
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Aug 5 and beyond
+Top KDnuggets tweets, Aug 1-3: Open Source Data Science Masters plan
+Lavastorm Sun Seekers Caribbean Challenge 2
+TEXATA Big Data Analytics World Championships, KDnuggets Discount
+ASE International Conference on Big Data Science 2014: Day 3 Highlights
+BAT: China?€?s Three Big Data Leaders
+Top stories in July: Cartoon: Facebook data science experiment and Cats; Data Mining/Data Science ?€?Nobel Prize?€?
+New Poll: What languages you used for analytics / data mining / data science work in 2014?
+TheWebMiner Price Alert App
+Interview: Vita Markman, LinkedIn on  Discovering Customer Insights through Sentiment Mining
+KDnuggets 14:n20, New Poll: Languages for data mining? Big Data & Romance; Online Degrees; Dell Statistica
+MongoHQ becomes Compose, combines ElasticSearch and MongoDB
+Big Data Innovation Summit 2014 Toronto: Day 1 Highlights
+Becoming a Data Scientist: MS Program, Bootcamp, or MOOCs?
+Cartoon: Facebook data science experiment and Happy Cats
+Top stories for Jun 29 ?€? Jul 5
+Top KDnuggets tweets, Aug 4-5: Ensemble Methods, a brief history; Data Scientist role shifting
+Webinar: Driving business value with text analytics
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? July 8 and beyond
+Top KDnuggets tweets, Jul 4-6: Cartoon: Facebook Data Science and happy cats; plyrmr makes R work seamlessly with Hadoop
+June 2014 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Is ?€?Data Scientist?€? more than ?€?Data Analyst?€? ?
+Additions to KDnuggets Directory in June
+Lavastorm Analytics 2014 survey: usage, trends, and future initiatives
+PAW: Predictive Analytics World Boston, Oct 5-9
+Business Analytics Innovation Summit 2014 Chicago: Day 1 Highlights
+Top KDnuggets tweets, Jun 30 ?€? Jul 1: Is ?€?Data Scientist?€? more than ?€?Data Analyst?€?? Good list of 41 Big Data Influencers
+July-December 2014 Meetings in Analytics, Big Data, Data Mining, and Data Science
+Top stories in June: Does Deep Learning Have Deep Flaws? Cartoon: Big Data and World Cup
+Behind the scenes insights with data mining expert Gordon Linoff
+KDnuggets 14:n17, Need MS to be a Data Scientist? 100 Big Data Companies Analyzed
+When Watson Meets Machine Learning
+Top KDnuggets tweets, Jul 2-3: Tutorial in Gradient boosting; Data Analytics, #BigData Experts to follow
+Interview: Dave Marvit, Innovation Strategy Consultant, Fujitsu on Privacy and Sentiment Analysis challenges
+Big Data Innovation Summit returns to Boston, Sep 25-26
+Webinar: How Can Analytics Improve Business?
+How Xbox, Big Data & Statistical Analysis Can Measure Public Opinion
+Data Mining/Data Science ?€?Nobel Prize?€?: ACM SIGKDD 2014 Innovation Award to Pedro Domingos
+Chief Data Officer Summit 2014 ?€? Day 2 Highlights
+Business Analytics Innovation Summit 2014 Chicago: Day 2 Highlights
+Top stories for Jul 6-12
+Top KDnuggets tweets, Jul 7-10: IBM #Watson Swear Filter; How Birth Year Influences Political Views
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? July 15 and beyond
+BIDMach machine learning toolkit
+Top KDnuggets tweets, Jun 2-3: SAS vs R vs SPSS ?€? Statistical Wars; RDataMining R Refcard for Data Mining
+Manufacturing Analytics Summit 2014 Chicago: Day 1 Highlights
+Interview: Amy Gershkoff, Director of Customer Analytics & Insights, eBay on How to Design Custom In-House BI Tools
+Top stories for May 25-31
+Additions to KDnuggets Directory in May
+Top KDnuggets tweets, May 30 ?€? Jun 1: Guide to Setting Up an R-Hadoop ; 100+ Interesting Data Sets
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jun 2 and beyond
+Interview: Tom Kern, Risk Modeling Manager, Paychex on Risk Analytics and Sales Anticipation Model
+HR & Workforce Analytics Innovation Summit 2014 Chicago: Day 1 Highlights
+OpenNN, An Open Source Library For Neural Networks
+Webcast ?€? Analytically Speaking Featuring Michael Schrage
+Lynn Goldstein, Chief Data Officer, NYU on the Need for Data Governance
+ICON Challenge on Forecasting and Scheduling
+Webinar: Data Mining: Failure to Launch [June 11]
+Jun-Oct 2014 Meetings in Analytics, Big Data, Data Mining, and Data Science
+Lavastorm ?€? Top Rated Analytics Platform ?€? Free Download
+InnovAccer: Simplifying Research and Analysis
+Big Data Assessment ?€? Key Business Drivers, Expected Benefits and Common Challenges
+INFORMS, Uniting Operations Research and Analytics
+Top stories in May: New Poll ?€? Analytics, Data Mining Software; Data Science Cheat Sheets
+HR & Workforce Analytics Innovation Summit 2014 Chicago: Day 2 Highlights
+Big Data Strategy: Datafication
+Exclusive: Raul Valdes-Perez on OnlyBoth, Scientific Discovery, Advice for Winners
+Top KDnuggets tweets, Jun 4-5: ?€?Practical Data Science with R?€? stands out; Top 5 cities for #BigData jobs
+Data Science Last Mile
+Interview: Santhosh Adayikkoth, CEO, BigInfo Labs on Data Relevance and Intel Partnership
+KDnuggets 15th Annual Analytics, Data Mining, Data Science Software Poll: RapidMiner Continues To Lead
+Top stories for Jun 1-7
+Interview: Santhosh Adayikkoth, CEO, BigInfo Labs on Big Data perception and learning Big Data skills
+Data Lakes vs Data Warehouses
+Vendor-Neutral Hands-On Training in Data Mining [Denver-CO, July | Wash-DC, Sep]
+PAW: Predictive Analytics World Boston, Oct 5-9
+Don Zereski, VP, Local Search & Discovery, HERE (Nokia) on Location Analytics and Architecture Evolution
+Interview: Lloyd Tabb, Chairman & CTO, Looker on Front-line Analytics and Data Democratization
+May 2014 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jun 9 and beyond
+Top KDnuggets tweets, Jun 6-8: Statistical-learning tutorial w. scikit-learn; Data science vs the hunch
+Big Data BootCamp Santa Clara: Highlights of talks on Days 1-2
+Deep Learning with H2O, May 21 Webcast
+White House Report on Big Data: Opportunities and Values
+Top stories in April
+Top KDnuggets tweets, Apr 30 ?€? May 1: Chart Cheat Sheet: When to use Bar, Stacked, Donut
+Experfy, Big Data Consulting Marketplace from Harvard
+Interview: Vasanth Kumar, Principal Data Scientist, Live Nation
+Poincare Conjecture, Perelman way,  and Topology of social networks
+Additions to KDnuggets Directory in April
+WCAI Research Opportunity: Using Purchase History to Identify Customer Projects
+3 Key Trends in the DBMS Market
+Data Scientists Not Required: Promises the recently launched Alteryx Analytics 9.0
+Exclusive Interview: Todd Holloway, Data Science Lead, Trulia
+Top stories for Apr 27 ?€? May 3
+Top KDnuggets tweets, May 2-4: Big List of Machine Learning, #DataScience, and Statistics Resources
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? May 5 and beyond
+Stanford Online Courses: Education + Advanced Skills = Awesome Career
+Employee Churn 202: Good and Bad Churn
+May-Sep 2014 Meetings in Analytics, Big Data, Data Mining, and Data Science
+Interview: Michael Brodie on Industry Lessons, Knowledge Discovery, and Future Trends
+Human Dynamics ?€? Data Mining Mobile Phone Usage
+Webinar: Data Mining: Failure to Launch [May 20]
+KDnuggets 14:n11, Poincare, Perelman, and Social networks; Industry Lessons; Experfy
+Top KDnuggets tweets, May 5-6: xkcd looks at Love and Statistics; Analytics job applicants ?€? avoid these mistakes
+PAW: Predictive Analytics World, Manufacturing, Chicago, June
+Interview: Xinghua Lou (Microsoft) on Mining Clinical Notes and Big Data in Healthcare
+JMP White Paper: Advantages of Bootstrap Forest for Yield Analysis
+Did Target Really Predict a Teen?€?s Pregnancy? The Inside Story
+Spotlight: RapidMiner New Predictive Analytics Platform-as-a-Service
+Top KDnuggets tweets, May 7-8: 30 Simple Tools for Data Visualization; Did Target Really Predict Pregnancy?
+ClearStory ?€? The Fastest, Simplest Way to Analyze Data
+Forrester Research: Build Trusted Data with Data Quality
+April 2014 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+April-July 2014 Meetings in Analytics, Big Data, Data Mining, and Data Science
+SAS Competition for Top Data Scientist in UK, Ireland
+MassTLC Big Data Meeting Delivers Insights, Perspective
+Book: Visual Analytics of Movement
+Top KDnuggets tweets, Mar 31 ?€? Apr 1: Experfy marketplace for Data Science projects; Event Recommendation in Python
+Webcast ?€? Analytically Speaking featuring Rob Reul
+Exclusive: Interview with Sriram Sankar ?€? LinkedIn Economic Graph
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? April 3 and beyond
+KDnuggets 14:n08, Is Data Scientist the right career path for you? FiveThirtyEight stumbles
+DataScience Central competition: Automate jackknife regression
+Learning and Teaching Machine Learning: A Personal Journey
+Top stories in March: Machine Learning in 7 Pictures; How Many Data Scientists?
+Madrid Summer School 2014 on Advanced Statistics and Data Mining
+Three ways to extract business value from analytics
+VAST Visual Analytics Challenge 2014: Visualization and Crime-Solving
+CEOWorld Top Big Data Executives and Experts to Follow on Twitter
+Top KDnuggets tweets, Apr 2-3: Data scientists need their GitHub; How to make Data Scientist job less tedious
+Employee Churn 201: Calculating Employee Value
+HP Perspective on Big Data and Analytics: Interview with Mazhar Hussain
+KDnuggets Annual Analytics/Data Science Salary/Income Poll
+March Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Top stories for Mar 30 ?€? Apr 5: Exclusive Interview ?€? LinkedIn Economic Graph
+Online Data Science Certificates: Analytics and Programming for Data Science
+March-June Analytics, Big Data and Data Science Meetings
+Why Predictive Analytics Marketplaces are not taking off, and how to fix it
+The Do?€?s and Don?€?ts of Data Mining
+Wolfram  Breakthrough Knowledge-based Programming Language ?€? what it means for Data Science?
+PAW: Predictive Analytics World Toronto, May 12-15
+Book: Ask, Measure, Learn ?€? Social Media Analytics for Customer Behavior
+Top KDnuggets tweets, Feb 28 ?€? Mar 2: Using R with Twitter ?€? great tutorial; The Dos and Donts of Data Mining
+ACM SIGKDD Innovation and Service Awards ?€? Call for Nominations
+Data Mining Cup 2014 ?€? Student Competition ?€? Starts
+Vendor-Neutral Hands-On Training in Data Mining [ Los Angeles, April | Wash-DC, May ]
+Top stories for Feb 23 ?€? Mar 1: Exclusive Interview with Yann LeCun; Graf.ly; Gartner MQ for Advanced Analytics
+Stanford Data Mining, Finance, and Statistics Courses Online
+etcML Promises to Make Text Classification Easy
+Webinar: Building Predictive Apps with BigML API, March 11
+KDnuggets 14:n05, Exclusive: Yann LeCun interview; New Salary Poll; Gartner Analytics MQ
+Additions to KDnuggets Directory in March
+Top KDnuggets tweets, Mar 3-4: Accenture/MIT data science challenge; Spark graduates, 100x faster than Hadoop
+SIGKDD Data Science/Data Mining Doctoral Dissertation Award Nominations
+Big Data Innovation Summit, Apr 9-10, Santa Clara
+Introduction to Random Forests for Beginners ?€? free ebook
+KDnuggets Exclusive: Part 2 of the interview with Quentin Clark, CVP, Microsoft Data Platform Group
+MS in Data Mining, Analytics, and Knowledge Discovery at University Paris 13
+KDnuggets Exclusive: Interview with Quentin Clark, CVP, Microsoft Data Platform Group
+Top KDnuggets tweets, Mar 5-6: Data Science Backlash begins; Intro to Random Forests for Beginners ?€? free ebook
+Paxata automates Data Preparation for Big Data Analytics
+Future of Consumer Intelligence, May 19-21, KDnuggets Discount
+Top KDnuggets tweets, Mar 7-9: Experiments with Twitter and IPython; Cloudera Data Scientist Solution Kit
+February Analytics, Big Data, Data Mining companies and startups activity
+Dancing Statistics ?€? who says statistics cannot be fun?
+Top stories in February: 3 Ways to test the accuracy; Exclusive Interview with Yann LeCun; One Page R
+Book Review: Data Just Right
+KDnuggets Exclusive: Interview with Paco Nathan,  Chief Scientist at Mesosphere
+Boston AnalyticsWeek: Big Data and Analytics Unconference, March 24-28
+Useful Business Analytics Summit in Boston, June 10-11
+Lipari Summer School on Computational Social Science
+Top KDnuggets tweets, Apr 4-6: Apache Spark ?€? a Fast #BigData Analytics Engine; Facebook #DataScience tools
+Top stories for Mar 2-8: Do?€?s and Don?€?t of Data Mining; Wolfram Breakthtough language
+KDnuggets Exclusive: Part 2 of the interview with Paco Nathan
+Cloudera Data Science Challenge
+Predictive Analytics World Tour
+Sentiment Analysis Symposium Highlights
+LIONbook: Machine Learning + Intelligent Optimization ?€? completed, free personal download
+Upcoming Webcasts on Analytics, Big Data, Data Science
+IBM Big Data & Analytics Heroes: Gregory Piatetsky
+Top KDnuggets tweets, Mar 10-11: Deep Learning overview, free book; Best machine learning interview questions
+FICO: 20+ Years of Analytics Innovations to fight Fraud
+How Many Data Scientists are out there?
+Analyze Data 10X Faster with the Lavastorm Analytics Engine
+Scholarships for first-ever Women in Statistics conference, May 15-17, Cary, NC
+6 things to focus on in 2014 analytics strategy
+Wharton Conference: Successful Applications Of Customer Analytics, May 1
+KDnuggets Twitter Social Network
+Webinar: Best Decision Trees just got better with Angoss KnowledgeSEEKER 9.0, Apr 3
+Top KDnuggets tweets, Mar 12-13: Machine learning explained in 10 pictures; Tutorial: Using Google BigQuery
+KDnuggets Exclusive: Interview with Geoffrey Moore: Crossing the Chasm and Big Data
+Evolution of Fraud Analytics ?€? An Inside Story
+New book: Big Data, Mining, and Analytics: Components of Strategic Decision Making
+Beyond the Science of Data Science
+SciCast Crowdsourcing search for Malaysian Air Flight MH370
+Innocentive: INSTINCT ?€? The IARPA Trustworthiness Challenge
+Trifacta ?€?  Tackling Data Wrangling with Automation and Machine Learning
+Big Data Library on Demand: The Leading Edge of Data Science
+Machine Learning in 7 Pictures
+Top KDnuggets tweets, Mar 14-16: Is Apache Spark the Next Big Thing? R Meta-Book ?€? best CRAN posts assembled
+Top stories for Mar 9-15: How Many Data Scientists?
+Predictive Analytics Marketplaces: Viable Solution to the Data Scientist Shortage Crisis?
+Need more insight into Web analytics and intelligence?
+Alpine Data expects faster, easier Data Science with Spark
+KDnuggets 14:n06, How Many Data Scientists? Crossing the Chasm and Big Data; Trifacta vs Paxata
+Data Mining Best Practices ?€? coming to a city near you!
+Open Analytics Summit ?€? Chicago, March 27 ?€? KDnuggets discount
+How Deep Learning Analytics Mimic the Mind
+Exclusive: Interview with Daniel Tunkelang, Head of Query Understanding at LinkedIn
+Top KDnuggets tweets, Mar 17-18: NSA metadata can find medical/financial conditions; Machine Learning in 7 Pictures
+FICO Livecast: Analytically Powered Applications Driving Success, Mar 27
+Zipfian Academy: Become a Data Scientist in 12 Intense Weeks
+Data Scientists Salary Survey: US, Canada, Australia lead
+Top KDnuggets tweets, Mar 19-20: Bitcoin 101 ?€? everything you need to know; Top IPython Notebooks at #strataconf
+INFORMS: The Business of Big Data Conference, San Jose, June 22-24
+PAW: Predictive Analytics World, Toronto, May 12-15
+Complimentary Chapter ?€? Numbersense: How to Use Big Data to Your Advantage
+Webinar, Apr 3: Best Decision Trees just got better with Angoss KnowledgeSEEKER 9.0
+Dell Buys Statsoft to Fill a Data-Mining Void
+KDnuggets Exclusive: Interview with Anjul Bhambhri, VP of Big Data Products at IBM
+Top KDnuggets tweets, Mar 21-23: Machine Learning in Parallel with SVM; Good Data Sets for Data Science Practice
+Gartner 2014 Magic Quadrant for Advanced Analytics Platforms ?€? view report
+SAS Analytics U to offer free software, MOOCs
+Top stories for Mar 16-22: Machine Learning in 7 Pictures; How Many Data Scientists are out there?
+Additions to KDnuggets Directory in February
+Identity Fraud and Analytics ?€? An Overview
+MMDS 2014: Workshop on Algorithms for Modern Massive Data Sets, Berkeley, June 2014
+Top KDnuggets tweets, Mar 24-25: Is a Data Science Certificate sufficient? Kaggle branches beyond competitions
+KDnuggets 14:n07, Data Scientist Salary; Test your Numbersense; 4 LinkedIn steps
+SciDB: Big Analytics without Big Hassles: In-Database Scalable R and Python, Apr 10
+What is numbersense ?€? test yours
+WCAI: Measuring Skill Level and Optimizing Player-Matching Algorithms in Online Games
+Swiss Analytics Magazine launched
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Mar 27 and beyond
+Fractal Analytics Interview Highlights
+White House-MIT Big Data Privacy Workshop ?€? Top Researcher Reports
+Boston AnalyticsWeek Panel Highlights: Next Big Thing in Big Data
+Nate Silver FiveThirtyEight tackles Climate Change, fails on Data Science
+Information Management 10 More Big Data Companies
+Is Data Scientist the right career path for you? Candid advice
+Exclusive Interview: Richard Socher, founder of etcML, Easy Text Classification
+Top KDnuggets tweets, Mar 28-30: SAS vs R vs Python, ecosystem comparison; Practical Data Science with R
+New Book: Practical Data Science with R
+Top KDnuggets tweets, Mar 26-27: Watch ?€?Statistics with R for newbies?€?; Coursera free #DataScience courses
+"
+2014 Mar News, Features  "
+Top stories for Mar 23-29
+MoDAT: Designing the Market of DATa ?€? Workshop Report
+"
+2014 Mar Webcasts  "
+"
+2014 Mar Top Tweets  "
+"
+2014 Mar Publications  "
+"
+2014 Mar Meetings & Reports  "
+"
+2014 Mar Opinions, Interviews  "
+"
+2014 Mar Software  "
+Prediction.io open source machine learning server
+Interactive Big Data Timeline
+"
+2014 Mar Courses, Education  "
+Top KDnuggets tweets, Apr 7-8: Beware of P values ?€? they are not reliable; The Data Scientist Toolbox online course
+Additions to KDnuggets Directory in January
+useR 2014: attend, sponsor R Analytics and Data Science conference
+Learn How to Predict Influence with Uplift Modeling at PAW San Francisco, Mar 16-21
+Top KDnuggets tweets, Jan 31 ?€? Feb 2: Free books on statistical learning; Intro: Machine Learning and Apache Mahout
+Salford Hands On Data Mining Mini Training, San Diego, April 25
+January Analytics, Big Data, Data Mining Companies and Startups Activity
+Webinar, Feb 18: Fine-tune your analytics strategy for 2014
+Top stories for Jan 26 ?€? Feb 1: Online Courses in Analytics, ML, Data Science; Top Trends in Analytics, Big Data
+New Poll: How much did you use Text Analytics?
+Feb-May 2014 Meetings in Analytics, Big Data, Data Mining, and Data Science
+CMSR Data Miner and Rule-Engine Software Suite ?€? free academic use
+INFORMS Conference on The Business of Big Data, San Jose, June 22-24
+Viewpoint: Statistical Data Science, The Data Analysis Side
+Additions to KDnuggets in December
+Big Data Vendor Analysis
+Top KDnuggets tweets, Dec 27 ?€? Jan 2: Oryx: Simple large-scale machine learning; Sad state of sentiment analysis
+Jan-Apr Meetings in Analytics, Big Data, Data Mining, and Data Science
+Top stories in January: Tutorial: Data Science in Python; Learning from Data, Caltech free online course
+Biernbaum: Data Science is going 99% too fast
+KNIME User Group Meeting, Zurich, Feb 12-14
+Top stories in December: A Programmer Guide to Data Mining ?€? Free Download; 3 Stages of Big Data
+Open Analytics NYC Summit May 8
+BigML 2014 Winter Release: Faster, Easier, and more Programmatic Machine Learning
+Top KDnuggets tweets, Jan 3-5: How to build a successful Data Science team; Netflix reverse engineered Hollywood
+MADlib: Big Data Machine Learning in SQL for Data Scientists
+CUNY Online MS in Data Analytics
+BigData TechCon: Learn HOW TO Master Big Data, Mar 31-Apr 2, Boston
+INFORMS Business Analytics and Operations Research, Boston, Mar 30 ?€? Apr 1
+New Poll: Data Science Skills ?€? Individual vs Team Approach
+Top stories for Dec 29 ?€? Jan 4: Unicorn Data Scientists vs Data Science Teams; Top Datasets on Reddit
+Additions to KDnuggets Directory in November
+Open Source Data Science Masters Curriculum
+CIO Review 20 Most Promising Data Analytics Companies
+Dec-Mar Meetings in Analytics, Big Data, Data Mining, and Data Science
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? April 10 and beyond
+Top news, jobs in November: Harvard Data Science Course; Field Guide to Data Science; KDnuggets Thanksgiving cartoon
+Top KDnuggets tweets, Nov 27 ?€? Dec 1: Open Source Data Science MS Curriculum; 5 ways to handle #BigData in R
+Yahoo Lecture: Big Data, Global Diplomacy and Digital Heartbeat, by Kalev Leetaru
+Red Button Solver Self-service big data analytics
+Lecture: Business Process Analytics in Practice
+Top stories for Nov 24-30: Harvard CS109 Data Science Course; Thanksgiving Big Data Cartoon
+Data Science for Social Good Summer 2014
+Gates Foundation Grants: Big Data for Social Good
+Top KDnuggets tweets, Dec 2-3: Google Deep Learning is outsmarting humans; Udacity Online Degree program for Data Science
+UDelaware Certificate in Analytics: Optimizing Big Data, Feb 13 ?€? May 22
+November Analytics, Big Data, Data Mining companies and startups activity
+Why RapidMiner? By Usama Fayyad, a Top Data Scientist and Entrepreneur
+Statistical Golden Rule
+Top KDnuggets tweets, Dec 4-5: R is great for stats, Python for more complex tasks; How Facebook own algorithm is killing it
+Top 10 Big Ideas in Harvard Statistics 110 Class
+SiSense Crowd Accelerated BI
+New Poll: Did you switch between R, Python, or other Data Science Languages?
+Statistical Community and Big Data disconnect: Discussion Highlights
+3 Stages of Big Data
+Top KDnuggets tweets, Dec 6-8: A public list of R freelancers; Top 10 Big Ideas in Harvard Statistics Class
+Top KDnuggets tweets, Apr 9-10: MLlib: Scalable Machine Learning on Spark; Ensemble methods overview
+Top stories for Dec 1-7
+Web Science 2014 Data Visualization Challenge
+New Book: A Programmer Guide to Data Mining ?€? Free Download
+PAW: Predictive Analytics World 2014 San Francisco:,Have you seen the Agenda?
+Online MS in Data Analytics CUNY SPS
+Additions to KDnuggets Directory in October
+Online MS in Predictive Analytics at DePaul: 4 concentrations
+Top KDnuggets tweets, Oct 30-31: How Mac Mini beat a Hadoop cluster; 6 startups want to disrupt #BigData
+Videos from 2013 Strata Big Data Conference + Hadoop World
+John Tukey ?€?Badmandments?€?
+Salford Systems Data Mining Training, online or on-site, Dec 11-13
+Top news in October: 7 Steps for Learning Data Mining; 3 Free Big Data books; To Hadoop or Not?
+Datameer $49 Charity Edition: Leveraging Hadoop to Help Save Elephants
+Yang-Mills: A million dollar connection between Twitter and quantum physics?
+Top news for Oct 27 ?€? Nov 2: Free Book: Advanced Text Mining; Strata 2013 Videos; 7 Steps for Learning Data Mining
+RapidMiner gets $5M funding, rebrands, plans expansion
+Big Data Or Bad Data, an initiative by the Senseable City Lab at the MIT, Nov 15
+Stanford Big Data Mining, Finance, Statistics Courses Online
+Top KDnuggets tweets, Nov 1-3: Videos from 2013 Strata + Hadoop World; Top 10 data mining algorithms, updated
+Webcast: Analytically Speaking International Year of Statistics Panel, Dec 11
+Nov-Jan Meetings in Analytics, Big Data, Data Mining, and Data Science
+Top KDnuggets tweets, Nov 4-5: Venture capital in an age of algorithms; Stanford Big Data Mining Courses Online
+4 Steps to Successfully Evaluating Business Analytics Software
+Big Data Top-Read Articles
+NineSigma RFP: Numerical Data Retrieval Algorithm Using Natural Language
+Plot.ly, collaborative data analysis and graphing
+New dataset: London Pulse: Medical Officer of Health Reports, 1848-1972
+October Analytics, Big Data, Data Mining companies and startups activity
+Top KDnuggets tweets, Nov 6-7: Google Python Lessons are awesome and free; Data Analysis course at Coursera
+Webinar: Predictive Analytics ?€? Customer Churn Modeling, Dec 3
+IEEE ICDM 2013 International Conference on Data Mining, Dallas, Dec 7-10
+Learn Data Science in 12 Intense Weeks at Zipfian Academy
+NYU Stern MS in Business Analytics
+Booz Allen ?€?Field Guide to Data Science?€? ?€? free download
+Top KDnuggets tweets, Nov 8-10: Field Guide to Data Science, free download; Hilary Mason plans her own startup
+Yandex Personalized Web Search Challenge
+Chordalysis: a new method,to discover the structure of data
+KPMG Capital Investment Fundfor Big Data and Analytics
+PAW: Predictive Analytics World, San Francisco, March 2014, Agenda released
+Data Marketing 2013, Toronto, Dec 9-10, Free VIP pass
+Top news for Nov 3-9: 7 Steps for Learning Data Mining; Twitter and Quantum Physics? John Tukey ?€?Badmandments?€?
+Upcoming Nov-Dec Webcasts on Analytics, Big Data, Data Mining, Data Science
+Top KDnuggets tweets, Nov 11-12: 5 Fundamental Concepts of Data Science; 11 TED talks explore the dark side of #BigData
+NYU, Berkeley, UW multi-million partnership to harness potential of data scientists and Big Data
+KDnuggets 13:n27: Twitter and Quantum Physics, Badmandments, Field Guide to Data Science, Chordalysis
+Predictive Analytics Cloud: Opportunities, Trends and Big Data Impact
+EMVIC 2014: Eye Movements Verification and Identification Competition
+IBM Opens the Watson Cognitive Platform for Developers
+Boston Data Festival and Next Trends in Big Data
+LIONbook Chapter 13: Bottom-up (agglomerative) clustering
+Top KDnuggets tweets, Nov 13-14: LIONbook Ch. 13: Bottom-up clustering; Databases for text analysis
+Future of Foresight Analytics ?€? Making Organizations Smarter About Corporate Decision Making
+IBM Analytics Talent Assessment For Aspiring Data Scientists
+Top 10 trends in text analytics
+SBP 2014 Grand Challenge: explore GDELT, Global Database of Events, Language and Tone
+Top KDnuggets tweets, Nov 15-17: Must read for Data Scientists: Deep Learning 101; Huge web graph publicly available for research
+Big Data Influencers Q4 2013
+Data Science not just for Big Data: Video and Slides
+WDC Huge Web Graph ?€? 128 billion hyperlinks ?€? publicly available
+New Poll: Where did you apply Analytics/Data Mining/Data Science?
+Top news for Nov 10-16: Field Guide to Data Science, free download; Chordalysis: a new method to discover data structure
+TDWI Launches Big Data Maturity Model Assessment Guide, Online Test
+Additions to KDnuggets Directory in September
+SiSense: Cutting the Cost of Business Analytics
+IBM SPSS Modeler Cookbook
+Quebit: Better Decisions with Predictive Modeling: Nov 20 Webinar
+KDnuggets Review of Analytics Marketplaces: The Next Big Thing for Big Data
+KDnuggets 13:n28, Where did you apply data mining? Analytics Marketplaces; Boston DataFest
+Top KDnuggets tweets, Nov 18-19: Must read: Deep Learning 101; ?€?Pythonization?€? of data analysis
+U. Chicago MS in Analytics ?€? Information Sessions, Oct 9 and 16.
+Top news, jobs in September: Cartoon: Next Trend after Big Data; Poll results: Has Big Data Reached the Hype Peak?
+Q4 Meetings in Analytics, Big Data, Data Mining, and Data Science
+KDD 2013 videolectures: watch the top researchers in Data Mining and Knowledge Discovery
+IMARS: IBM Multimedia Analysis and Retrieval System
+Top KDnuggets tweets, Sep 27-30: Data Mining and Analysis, free book (draft) download; Random Forests Algorithm ?€? why it works
+Statistical Modeling: The Two Cultures, by Leo Breiman
+Upcoming October Webcasts on Analytics, Big Data, Data Mining, Data Science
+Colombia OHCHR RFP: Pilot Text Mining Project
+Social Media Analytics, free e-book
+Q4 2013 Courses on Predictive Analytics, Big Data, Data Mining, and Data Science
+WibiData releases Kiji Chirashi framework for Big Data Applications
+To Hadoop or Not to Hadoop?
+Top KDnuggets tweets, Oct 1-3: Data Science with R: Rattle; KDD 2013 videolectures
+CIO Review 20 Most Promising Big Data Companies
+September Analytics, Big Data, Data Mining companies and startups activity
+Rexer Analytics 2013 Data Miner Survey Highlights
+Top news for Sep 29 ?€? Oct 5: Fundamental Concepts and Algorithms, free book (draft) download; Statistical modeling: 2 cultures
+Circle of Trust and Google Plus
+Seeking experts, instructors for Online Data Analytics Program
+DataDealer: Serious Gaming with Data Privacy
+LSHTC4: Large Scale Hierarchical Text classification
+Top KDnuggets tweets, Oct 4-6: Data science source code snippets; To Hadoop or Not to Hadoop?
+Webcast, a Primer on Predictive Analytics for Business, Oct 8
+Big Data does not mean we have ALL the data
+KDnuggets 13:n24, Big Data != ALL Data; Leo Breiman on Two Cultures; KDD-2013 Videolectures
+Northwestern Online MS in Predictive Analytics
+3 Free Big Data books from O?€?Reilly on Amazon
+FICO Webinar: Solve Your Optimization Problems Like the Pros, Oct 22
+Top KDnuggets tweets, Oct 7-8: Data Scientists need to be Polyglots; NaSent uses recursive deep learning
+Iterative-Incremental Approach for BI Implementation
+Text Analytics West, Dec 3-4, 2013, San Francisco
+Predictive Analytics World, San Francisco, March 2014
+Top KDnuggets tweets, Oct 9-10: 7 Steps for learning Data Mining and Data Science; 5 Data Science Deadly Sins
+Kaggle: See Click Predict Fix
+Applied Data Science ?€? Free Online Course from Syracuse
+Corral: 100 Diverse Big Data Collections
+Webcast: Data Science: Not Just for Big Data, Oct 16
+KnowledgeMiner Self-learning Model for Global Warming
+Top news for Oct 6-12: 3 Free Big Data books on Amazon; 7 Steps for Learning Data Mining and Data Science
+Innocentive: Show Me The Data ?€? ideation challenge
+Top KDnuggets tweets, Oct 11-13: Python for machine learning, Data Science; Google new R package for Big Data
+Advent of Predictive Analytics in China
+Exclusive: Cognitive Mining, Data Mining, and StatSoft ?€? Interview with Dr. Thomas Hill
+LinkedIn InMaps ?€? Visualize your network
+Quebit: Better Decisions with Predictive Modeling: Nov 20 Webinar
+Exclusive: Cognitive Mining, Data Mining, and Statsoft ?€? part 2
+LIONbook Chapter 10: Statistical Learning Theory and Support Vector Machines (SVM)
+Has Big Data significantly changed Data Science?
+Alteryx, Revolution Analytics Partner to Simplify and Scale R-Based Predictive Analytics
+U. of Chicago MSc in Analytics for working professionals
+KDnuggets 13:n25, 7 Steps for Learning Data Mining; New Poll: Big Data Science?; Cognitive Mining
+BabelNet multilingual encyclopedic dictionary and ontology
+Top KDnuggets tweets, Oct 14-15: Tutorial: The Naive Bayes Text Classifier; Quantum Computers and Machine Learning
+Wharton: Bring Customer Lifetime Value to Life: February, San Francisco
+BBVA Innova Data Mining Challenge
+Top KDnuggets tweets, Oct 16-17: Data Science Toolkit on AWS Marketplace; How to Interview a Data Scientist
+LIONbook Chapter 11: Democracy in machine learning ?€? combining models
+Data Elite: Andreessen Horowitz Big Data incubator
+2013 IEEE ICDM Outstanding Service Award: Professor Geoff Webb
+Top news for Oct 13-19: 7 Steps for Learning Data Mining; Predictive Analytics in China
+TESC online MBA in Data Analytics
+2013 IEEE ICDM Research Contributions Award: Professor Hans-Peter Kriegel
+Society of Data Miners to launch at PAW London
+IEEE BigData 2013: Big Data challenges and potential solutions
+7 Steps for Learning Data Mining and Data Science
+Develve statistical software (beta)
+7th Sentiment Symposium to feature Human Analytics Solutions, Big Data Emotion, Connection, Intent
+Top KDnuggets tweets, Oct 18-22: Automating the Black Art of Deep Learning; Top 10 Ways You Know You?€?re a Data Scientist
+WCAI Research Opportunity: Predicting Life Changes from Financial Activity
+Free Book: Theory and Applications for Advanced Text Mining
+Splice Machine Real-time transactional SQL-on-Hadoop Limited Release
+Top news for Oct 20-26: 7 Steps for Learning Data Mining; IEEE BigData 2013 report
+Great Debate: Design vs. Math
+Future of Statistics Unconference, online, Oct 30
+import.io doubles Web APIs for web data mining
+Top KDnuggets tweets, Oct 23-27: Free Book: Advanced Text Mining; SAS CEO Jim Goodnight says Big Data is hype
+Boston Data Festival, Nov 4-10
+PAW: Predictive Analytics World San Francisco, Mar 16-20 2014 ?€? highlights and workshops
+Poll: Big Data effect on Data Science is minor
+SiSense Crowd Accelerated Analytics
+Net Lift Models: Optimizing Your Marketing Efforts
+Upcoming November Webcasts on Analytics, Big Data, Data Mining, Data Science
+TMA Courses in Data Analytics[Mar: Orlando; Apr: LA]
+Webinar: Data Mining: Failure to Launch [Nov 19]
+Chordalysis: Free software for Log-linear analysis of Big Data
+KDnuggets 13:n26, Big Data effect on Data Science is minor; Online Analytics education; Future of Statistics
+Harvard CS109 Data Science Course, Resources Free and Online
+The Future of Statistics Unconference
+Top KDnuggets tweets, Oct 28-29: The Mathematical Shape of Big Science Data; Great Guide to NoSQL
+Top Research Conferences in Data Mining, Data Science
+Data Mining, Data Science, and Analytics,Courses and Events ?€? Oct 2013
+LIONbook Chapter 12: Top-down clustering: K-means
+Data Mining, Data Science, and Analytics,Publications ?€? Oct 2013
+Data Mining, Data Science, and Analytics,Features, News, and Software ?€? Oct 2013
+RapidMiner 6 adds application wizards, better visualization, ease of use
+IBM and SAP Big Data Science chats on Dec 4
+KDD-2014, Top Conference on Knowledge Discovery and Data Mining, New York
+Top KDnuggets tweets, Nov 20-21: Harvard CS109 Data Science Course free online lectures; Data Science and Text Mining with R
+Sentiment Analysis Symposium 2014 features top companies
+Cartoon: Thanksgiving, Big Data, and Turkey Data Science
+Top news for Nov 17-23: Harvard Data Science Course, free resources online; Huge Web Graph available
+PAW: Predictive Analytics World San Francisco 2014, Super Early Bird
+HedgeChatter: Can Social Media Analytics predict stock market price?
+Top KDnuggets tweets, Nov 22-24: 50 R functions to clear a basic interview; Netflix Big Data Platform as a Service
+Additions to KDnuggets Directory in August
+Lecture: Social Network Analysis for Fraud Detection
+IBM Webcast, Dec 6:What Lies Ahead for Big Data and Analytics
+Upcoming December Webcasts and Chats on Analytics, Big Data, Data Mining, Data Science
+KDnuggets 13:n29, Thanksgiving and Big Data Cartoon; Harvard Data Science Course
+ASA ?€? American Statistical Association and Big Data
+Top news for Aug 25-31: Top Languages for data mining; Twitter Data Analytics ?€? free book download
+Top news in August: The Age of Big Data ?€? BBC Documentary; Top Languages for analytics, data mining
+Big Data Jobs Index from icrunchdata
+Mikut Data Mining Tools Big List ?€? Update
+BattleFin Big Data Combine competition
+Ubuntu Data Science Charm Championship
+Lavastorm Analytics Business Analyst Survey 2013
+Top news for Sep 1-7: Twitter Data Analytics ?€? book free download; Top Languages for analytics, data mining
+Analytics, Data Mining, and Big Data companies activity in August
+CrowdScale Challenge: CrowdFlower Sentiment and Google facts
+New Poll: Has Big Data Reached the Hype Peak and is due for Decline and Disillusionment?
+KDnuggets Cartoon: Next Trend after Big Data
+DMS Survey: Predictive Analytics in the Cloud 2013
+SAP to buy predictive analytics firm KXEN
+Windows Azure looks for Cloud and Data Science Research Proposals
+Top news for Sep 8-14: Twitter Data Analytics ?€? free book download; Poll: Has Big Data Reached the Hype Peak?
+BigML Machine Learning Made Easy, see it in action
+KnowledgeMiner Insights Data Mining for Mac OS X: Ivakhnenko 100th Anniversary Giveaway
+Andy Palmer Best Big Data Startups
+IEEE ICDM 2013 Data Mining competition: Expedia
+Top news for Sep 15-21: KDnuggets Cartoon: Next Trend after Big Data; WekaMOOC: Data Mining with Weka, online course;
+Poll Results: Data Scientists split on whether Big Data reached the Hype Peak
+Skytree Launches Second Opinion Predictive Analytics Program
+BigML machine learning platform Fall 2013 release
+Explore Analytics offers Data Visualization in the cloud
+IJBDI-International Journal of Big Data Intelligence
+Top news for Sep 22-28: Cartoon: Next Trend after Big Data; Data Mining and Analysis, free book (draft) download
+Datameer Smart Analytics for Hadoop
+Data Mining / Analytic Publications News, Sep 2013
+Predixion Launches OEM Predictive Analytics Program
+Data Mining / Analytic Courses, Events News, Sep 2013
+LIONbook Chapter 14: Self-organizing maps
+Top KDnuggets tweets, Nov 25-26: Python displacing R in Data Science; This #BigData application will grow!
+LIONbook Chapter 15: Dimensionality reduction
+Project Tycho digitized 125 years of Public Health and Disease Data
+TMA Courses in Data Analytics,[Mar: Orlando; Apr: LA]
+Webinar: Data Mining: Failure to Launch [Dec 18]
+KDnuggets 13:n30, R / Python switch? 3 Stages of Big Data; Statistics disconnect
+Discover the power of business analytics
+Yahoo SAMOA, Open Source Platform for Mining Big Data Streams
+New Book: RapidMiner: Data Mining Use Cases and Business Analytics Applications
+Top KDnuggets tweets, Dec 9-10: European Travel Patterns; Cloudera resources for Data Science beginners
+Rexer Analytics releases 2013 Data Miner Survey Summary Report
+Lavastorm: Acquire, Integrate, and Analyze Data 10x Faster
+2013 Nov Publications: Analytics, Big Data, Data Mining and Data Science
+2013 Nov Events: Analytics, Big Data, Data Mining and Data Science Courses, Events, Webinars
+10 Enterprise Predictive Analytics Platforms Compared
+2013 Nov News: Analytics, Big Data, Data Mining and Data Science Features, News, Software
+CHEMDNER CFP and training data release
+LexisNexis HPCC 4.0 Big Data Platform
+Top news, jobs in July: KDnuggets Big Data Science Summer Reading List; DataMind: FREE Online Interactive Learning Platform for R
+Seeking Academic partnerships: NLP, Machine Learning, Data Mining in Healthcare
+Additions to KDnuggets in July
+Top news for Jul 28- Aug 3: BBC on Big Data; Big Data and the Future of Marketing (free eBook); Government/Public Data Portals
+RapidMiner and Big Data ?€? In-Memory, In-Database, and In-Hadoop
+IKANOW Infinit.e Document analysis and visualization platform, free version
+Innocentive: Data Fusion Analysis from Moving Vehicles, Ideation Challenge
+Exversion: data API, platform for access, collaboration
+New Poll: Languages used for analytics, data mining, data science in 2013
+Catalysis Big Data Satisfaction Survey
+Data APIs, Hubs, Marketplaces, Platforms, and Search Engines
+Mining a Data Mining Conference: Analytics on KDD-2013
+Big Data Investment Keeps Climbing in 2013
+Kaggle GE Flight Quest 2 Competition: Optimization Of Flight Patterns
+Top news for Aug 4-10: BBC on Age of Big Data; 10 Predictive Analytics Platforms compared
+MarineExplore ?€? Ocean Big Data Platform
+DMA Analytics Challenge 2013
+Microsoft REEF, new open source big data framework
+Data Scientists Guide to Making Money from Start-ups
+Coursera Andrew Ng on Online Revolution: Education for Everyone
+Top news for Aug 11-17: Nate Silver 11 statistics principles for journalists; Mining a Data Mining Conference
+Forbes on Data Science: ?€?Half-Life Of A Buzzword?€?
+Top Languages for analytics, data mining, data science
+2013 Acquisitions in Analytics and Big Data
+CDMC2013: Cybersecurity Data Mining Competition
+Movie Analytics in India: Dhoom 3 to Don 3
+DARPA SBIR: Defense Against National Vulnerabilities in Public Data
+LIONbook Chapter 16: Visualizing Graphs and Networks
+Data Science Toolbox virtual environment
+Top 2013 LinkedIn Groups for Analytics, Big Data,,Data Mining, and Data Science
+Top KDnuggets tweets, Dec 11-12: More fuel thrown into Data Science Wars: Python vs R; Data Science Toolbox environments
+LIONbook Chapter 17: Semi-supervised learning
+New Data Mining and Machine Learning books from CRC Press ?€? Save 25%
+New Book on RapidMiner ?€? Save 25%
+Oracle BIWA Summit January 2014
+Top KDnuggets tweets, Dec 13-15: Facebook hires Deep Learning expert Yann LeCun; 2014 World Cup Group Stage
+Innocentive: Establishing a Business Value for Data
+Data Mining / Analytic Publications News, Aug 2013
+Top KDnuggets Analytics, Big Data, Data Mining, Data Science Stories in 2013
+Top stories for Dec 8-14: A Programmer Guide to Data Mining ?€? Free Download; 3 Stages of Big Data
+WekaMOOC: Data Mining with Weka, complete online course
+White House Expands Guidance on Promoting Open Data
+Webinar: Angoss ScorecardBUILDER(tm) Preview, Jan 23
+Highlights of IEEE ICDM 2013 International Conference on Data Mining, Dallas
+Top KDnuggets tweets, Dec 16-17: A billion rows per second in Python; #BigData Dashboard Dizziness
+DataXu: 5th fastest growing company on Inc 5000
+PAW: Predictive Analytics World 2014 San Francisco: Agenda
+Poll Results: R has a big lead, but Python is gaining
+Top news for Aug 18-24: Stanford Data Mining and Statistics Online Courses; Data Scientists and Start-ups
+Hurwitz Victory Index Survey on Advanced Analytics
+Predictive Analytics in 2014: Monetizing, Not Managing, Big Data
+KDnuggets 13:n31, R leading, Python gaining; Top LinkedIn Groups, re-analyzed; Top 2013 Stories
+UMich Competition graduate students / post docs using SEARCH
+Replay: What Lies Ahead for Big Data and Analytics
+Data Mining / Analytic Courses, Events News, Aug 2013
+Top KDnuggets tweets, Dec 18-19: Poll Results: R has a big lead, Python is gaining; Who are Data Scientists?
+LinkedIn Hottest Skills of 2013
+FICO Lessons in Developing, Applying Decision Modelling Methods
+Vasant Dhar on ?€?Data Science and Prediction?€?
+DMCS 2013 Data Mining Case Studies Practice Prize Winners
+?€?Data Scientist?€? catches ?€?Statistician?€?, surpasses ?€?Data Miner?€?
+What is Wrong with the Definition of Data Science
+Top KDnuggets tweets, Dec 20-22: Data Mining Book Review: ?€?Visualize This?€?; Top NYU Prof. on Data Science and Prediction
+AnalyticsWeek 200 Thought Leaders in Big Data and Analytics
+New book: Data Mining Applications with R
+Top stories for Dec 15-21: R leading, Python gaining; Top LinkedIn Groups reanalyzed
+Top KDnuggets tweets, Dec 23-24: New book: Data Mining Applications with R; Data Scientist catches up with Statistician
+Big Data In 2014: 6 Bold Predictions
+Alpine Data Labs 2014 Predictions
+Top Datasets on Reddit
+Top KDnuggets tweets, Dec 25-26: The emergence of Apache Spark; 5 Free Excel add-Ins for #BigData
+2013 Dec Publications: Analytics, Big Data, Data Mining and Data Science
+Unicorn Data Scientists vs Data Science Teams
+Highlights of Data Marketing 2013 Conference in Toronto
+2013 Dec Courses and Events: Analytics, Big Data, Data Mining and Data Science
+2013 Dec News: Analytics, Big Data, Data Mining and Data Science Features, News, and Software
+December Analytics, Big Data, Data Mining Companies and Startups Activity
+PAW: Predictive Analytics World for Manufacturing, Chicago, June 17-18
+Top stories for Dec 22-29: Data Mining Applications with R; ?€?Data Scientist?€? catches up with ?€?Statistician?€?
+Top KDnuggets tweets, Jan 6-7: Why is Machine Learning top course at Stanford? MADlib: Big Data Machine Learning
+KDnuggets 14:n01, Unicorn Data Scientists vs Team? Top Datasets on Reddit; What is wrong with Data Science
+Sand Hill 50 Swift and Strong in Big Data
+IEEE Rock Stars of Big Data Presentations
+Hadoop: Elephants in the Cloud
+Wharton Online: Strategic Value of Customer Relationships, Mar 3 ?€? Apr 27
+Hadoop Innovation Summit, San Diego, Feb 19-20
+PASS: 24 Hours of Business Analytics Learning, Feb 5, Free Webcast
+Webcast: BigML Programmatic Machine Learning Made Easy, Jan 28
+Top KDnuggets tweets, Jan 8-9: Great list of NLP APIs; Python erodes R hegemony, but do not go all-in Python now
+Zementis: Teradata and IBM Partnership, Hadoop/ML best practices, James Taylor on standards
+Analytics, Mathematics, and Art of Rene Romero Schuler and Van Gogh
+Free Tutorial: Data Science in Python
+DSE 400 Fast Track to Data Science, Free Online Course
+PAN Competition: Plagiarism Detection, Author Identification, Author Profiling
+Interpreting Model Performance with Cost Functions
+Top stories for Jan 5-11: MADlib: Big Data Machine Learning in SQL; Rock Stars of Big Data
+Top KDnuggets tweets, Jan 10-12: Data Science Venn Diagram v2.0; Reference Texts on Data Mining and Machine Learning
+KDnuggets Big Data Science Summer Reading List
+Top US Cities for Big Data Jobs
+Top news for Jun 30 ?€? Jul 6: Stanford Learning Analytics Summer Institute; Bing Liu elected new chair of ACM SIGKDD
+Top news, jobs in June: KDnuggets Software Poll: RapidMiner and R vie for 1st; Very Fast Sampling Algorithms for Big Data; LionBook
+BurtchWorks Big Data Professionals Salary Survey
+Bing Liu elected as new chair of ACM SIGKDD Knowledge Discovery and Data Mining Organization
+Additions to KDnuggets Directory in June
+Top news for July 7-13: KDnuggets Summer Reading List; Data Science and Big Data Analytics ?€? Free Course Module
+KDnuggets Cartoon: NSA, cat videos, UFO reports, and Pizza connection?
+New Poll: Interested in Analytics, Big Data, Data Mining, Data Science education?
+Top news for Jul 14-20: DataMind: FREE Online Interactive Learning Platform for R; KDnuggets Big Data Science Summer Reading List;
+ACM SIGKDD 2013 Service Award to Gabor Melli
+Data Mining and Data Science ?€?Nobel Prize?€?: ACM SIGKDD 2013 Innovation Award to Prof. Jon Kleinberg
+IEEE ICDM Research Contributions and Outstanding Service Awards, Nominations due Aug 22
+KDnuggets Interview with Jon Kleinberg, revisited
+Top news for Jul 21-27: CIO 10 Top Big Data Startups; Data Mining and Data Science ?€?Nobel Prize?€? to Jon Kleinberg
+Data: Portals, Government, State, City, Local, and Public
+Top KDnuggets tweets, Jan 13-14: Data Science in Python, Free Tutorial; How Netflix Got Analytics Wrong, Then Right
+SciCast: a Crowdsourced Forecasting Platform for Science and Technology
+PASS Free Online Business Analytics Training, Feb 5
+Opening the Dataset: Confession of a Dataholic
+Poll Results: Online Analytics certificates and MS degrees are popular
+NIST Data Science Symposium, Mar 4-5
+Data Science for Social Good, Chicago Jun-Aug 2014, Apply by Feb 1
+Top KDnuggets tweets, Jan 15-16: Here is how to call Python from R; US Median Data Scientist salary: $117,500
+3X: A workbench for computational experiments
+KDD 2014 Call for Papers, Workshops, Tutorials and Sponsorships
+SocDM: Launching the Society of Data Miners ?€? Open Meeting, London, Feb 11
+Data Mining / Analytic News Briefs, Jul 2013
+Learning from Data, Caltech Free Online Course, now with captions in 40 languages
+KDnuggets Free Pass to Strata Conference,,Santa Clara, Feb 11-13, 2014
+PAW: Predictive Analytics World Toronto, unique conference in Canada, May 12-15
+Top KDnuggets tweets, Jan 17-19: Learning from Data: Caltech free online course; Data scientists most used tools: SQL, R, Python, Excel
+Top stories for Jan 12-18: Tutorial: Data Science in Python; Data Science Venn Diagram v2.0
+MassBigData launched to boost Massachusetts Big Data, Analytics Ecosystem
+JMP Analytically Speaking Webcasts: Rob Reul (Jan 29), Michael Schrage (Feb 12)
+TESC Online, Affordable MBA in Data Analytics -,Recharge Your Career
+Data Mining / Analytic Competitions News, Jul 2013
+Split on Data Science Skills: Individual vs Team Approach
+KDnuggets 14:n02, Split on Data Science; Data Science in Python Tutorial
+Top 10 KDnuggets tweets, Jan 20-21: Data scientists who use OS tools earn more; JHU #DataScience Specialization
+Clustify 4.0 adds Real-Time Predictive Coding
+Data Mining / Analytic Courses, Events News, Jul 2013
+Linkurious: Explore and Visualize Graph Data
+SLDM Statistical Learning and Data Mining III ?€? 10 Hot Ideas, Palo Alto, Mar 20-21
+Northwestern Online MS in Predictive Analytics
+To Fit or Not to Fit Data to a Model
+Big Data for Business Managers
+Cartoon: Watson and Artificial vs Natural Intelligence
+Top KDnuggets tweets, Jan 22-23: 30 Free Data Mining Tools; Linkurious ?€? explore and visualize graph data
+New Book on Realtime Analytics and Recommendation Engines
+Online Courses in Predictive Analytics, Machine Learning, Data Science from Statistics.com
+Data Mining / Analytic Publications News, Jul 2013
+Using Data Mining to Predict the Winter Olympics Medal Counts in Sochi
+SAS surpasses $3 billion in 2013 revenue
+Top KDnuggets tweets, Jan 24-26: Great map of #DataScience skills; Online Courses in Predictive Analytics, ML
+Building Better Models ?€? Case studies in Predictive Analysis ?€? JMP Webcasts
+Data Mining / Analytic Software News, Jul 2013
+Top Trends in Analytics and Big Data ahead of Strata 2014 Santa Clara
+Viewpoint: Why your company should NOT use ?€?Big Data?€?
+Top KDnuggets tweets, Jan 27-28: Dilbert takes on #BigData Analysis and Salaries; Free Tutorial, Data Analytics for Beginners
+10 New Year resolutions for CIOs who want to take the Big Data plunge in 2014
+Top stories for Jan 19-25: Learning from Data free online course; MassBigData; Split on Data Science Skills
+Data Mining for Beginners Boot Camp, Salford video series
+?€?Human Analytics?€? at the Sentiment Analysis Symposium, March 5-6 (KDnuggets discount)
+IE Master in Business Analytics and Big Data, Madrid
+Determining the Value of Insights
+More Data Mining with Weka
+Statwing, Modern Data Analysis Software
+ACM SIGSPATIAL Cup 2014, GIS-focused algorithm competition
+Open Analytics Chicago Summit, March 27
+AltaPlana 2014 Text Analytics Market Study
+Top KDnuggets tweets, Jan 29-30: Visual.ly Data Visualization Catalog; 100 numpy exercises, from Novice to Expert Data Scientists
+"
+2014 Jan Webcasts  "
+"
+2014 Jan Opinions, Interviews  "
+Learn to identify complex and dynamic relationships in multi-level data
+"
+2014 Jan Publications  "
+"
+2014 Jan Top Tweets  "
+Best KDnuggets tweets in January: Data Science Venn Diagram v2.0: ?€?unicorns?€?; Great map of #DataScience skills
+"
+2014 Jan News, Software  "
+"
+2014 Jan Courses, Events  "
+NASA Disk Detective ?€? Find the Birthplace of Planets
+Aunsight: New Data Science Platform from Aunalytics
+Top KDnuggets tweets, Feb 3-4: How to Lie With Statistics; Data to the People ?€? J&J opens clinical trial data
+New book on Mining User Generated Content ?€? Save 25%
+KDnuggets 14:n03, Top Trends ahead of Strata; New Poll: Using Text Analytics? Cartoon: Watson and AI
+Deep Learning Wins Dogs vs Cats competition on Kaggle
+NYU Stern Groundbreaking MS in Business Analytics
+Twitter Data Grants for Researchers ?€? submit a proposal by Mar 15
+Top KDnuggets tweets, Feb 5-6: A Deep Learning expert wins Dogs vs Cats competition; An alternative to R and Python: Julia
+Analytically Speaking Webcast with David J. Hand, Mar 5
+Get the Most from Your Data at PASS Business Analytics Conference, San Jose, May 7-9
+10 Emerging Analytics Startups in India
+Top KDnuggets tweets, Feb 7-9: 3 ways to test predictive models; 90% of top-paying IT jobs Big Data related
+3 Ways to Test the Accuracy of Your Predictive Models
+Top stories for Feb 2-8: Predicting Sochi Olympics Medals; 3 Ways to Test Predictive Models
+KDnuggets Annual Software Poll:RapidMiner and R vie for first place
+Exclusive: Part 2 of my Interview with Dan Steinberg, President of Salford Systems, Data Mining pioneer
+Additions to KDnuggets Directory in May
+Import.io easy visual download and import web data
+Exclusive: Interview with Dan Steinberg, President of Salford Systems, Data Mining Pioneer
+Top news, jobs in May: New Poll: Analytics/Data Mining Software; 10 Most Influential People
+Top news for May 26 ?€? Jun 1: New Poll: Analytics/DM Software used; 42 Big Data Startups
+Top news for Jun 2-8: KDnuggets Poll: RapidMiner and R vie for first place; Very Fast Sampling for Big Data
+New Poll: Your reaction to PRISM, NSA huge data mining of top US internet firms?
+Top news for Jun 9-15: RapidMiner and R vie for first place; Simple Decision Tree Excel Add-in; Import.io for web data
+Reaction to NSA Prism Data Mining: Outrage and Shrug
+Top news for Jun 16-22: LIONBook: free online book on Machine Learning; Reaction to PRISM; Process Mining
+Data Mining / Analytic Publications News, Jun 2013
+Data Mining / Analytic News Briefs, Jun 2013
+Data Mining / Analytic Competitions News, Jun 2013
+Data Mining / Analytic Courses, Events News, Jun 2013
+Viewpoint: How analytics will drive the future
+FastCompany 10 Most Innovative Companies in Big Data
+Top news for Jun 23-29: Top KDnuggets tweets, Machine Learning cheat sheet
+Comments on ?€?Why your company should NOT use Big Data?€?
+Big Data Innovation Summit, Santa Clara, April 9-10
+EMVIC 2014: Eye Movements Verification and Identification Competition, 2nd call
+Data Mining / Analytic Software News, Jun 2013
+Wikibon: Big Data market to reach $50 Billion by 2018
+Watch Online: Strata 2014 ?€? Making Data Work, Feb 12-13
+Cartoon: Data Scientist Valentine Day Prediction
+Book: Mining of Massive Datasets, 2nd Edition, free download
+One Page R: A Survival Guide to Data Science with R
+Top KDnuggets tweets, Feb 10-11: Data scientist cartoon ?€? too busy recommending; Julia: One Language to Rule Them All
+Top KDnuggets tweets, Feb 12-13: Where to start learning #DataScience; import.io Automatic Data Extraction
+KDnuggets talks to IBM: Data scientists: Hire an individual or team?
+Kaggle March Machine Learning Mania
+Anaconda: Free enterprise-ready Python for Big data, Predictive Analytics
+PAW Predictive Analytics World San Francisco, KDnuggets Discount
+Viewpoint: Social Media Analysis: What is missing
+Strata 2014: Highlights from Keynote Speeches
+Poll Results: Text Analytics Use Shows No Significant Change
+Opening the Dataset: A Twelve-Step Program for Dataholics
+TMA Courses in Data Analytics [Apr: LA, May: DC]
+Top KDnuggets tweets, Feb 14-17: One Page R: A Survival Guide to Data Science with R; The Myth of the Bell Curve ?€? human performance
+Webinar: Data Mining: Failure to Launch [Mar 19]
+KDnuggets 14:n04, Text Analytics slow takeoff; Data Scientist Valentine Day; 3 Ways to test model accuracy
+IE Madrid: Master in Business Analytics and Big Data
+Alpine Data Science Periodic Table
+Top stories for Feb 9-15: Cartoon: Data Scientist Valentine Day Prediction; 3 Ways to Test the Accuracy of Predictive Models
+KDnuggets Exclusive: Part 2 of the Interview with Yann LeCun
+KDnuggets Exclusive: Interview with Yann LeCun, Deep Learning Expert, Director of Facebook AI Lab
+Is data mining the new tool for gamers seeking pre-launch secrets?
+INFORMS Business Analytics and Operations Research, Boston, Mar 30 ?€? Apr 1
+Top KDnuggets tweets, Feb 18-20: The six types of conversations on Twitter; 25 Free eBooks on Artificial Intelligence
+Low-cost Data Mining Training (Hands-On), New York City and other locations
+Qualitative Analytics: Why numbers do not tell the complete story?
+Top KDnuggets tweets, Feb 21-23: Vincent Granville salary history, career path; Graf.ly: Making beautiful, interactive graphs
+Graf.ly: Making beautiful, interactive graphs
+PASS Business Analytics Conference, San Jose, May 7-9
+SAS, IBM, RapidMiner, Knime leaders in Gartner MQ for Advanced Analytics Platforms
+KNIME a 2014 Leader in Advanced Analytic Platform: Gartner Magic Quadrant
+IARPA RFI: Emerging Events and Participating Entities
+10 Most Influential Analytics Leaders in India
+The Data Mining Group releases PMML v4.2 Predictive Modeling Standard
+Top stories for Feb 16-22
+KDnuggets Pass to BigData TechCon: Learn HOW TO Master Big Data, Mar 31-Apr 2, Boston
+MS in Data Analytics from CUNY: Online and Affordable
+Top KDnuggets tweets, Feb 24-25: Applied R for the Social Scientist, free book; Great overview: Python Tools for Machine Learning
+Strata 2014 Santa Clara: Highlights of Day 2 (Feb 12)
+Strata 2014 Santa Clara: Highlights of Day 3 (Feb 13)
+KDD 2014 Tutorial and Workshop Proposals
+Vasant Dhar ?€? New Editor-in-Chief of Big Data Journal
+Top KDnuggets tweets, Feb 26-27: Facebook ?€?Relationship Data Mining?€?; Non-human math: Wikipedia-size computer proof
+"
+2014 Feb Webcasts  "
+"
+2014 Feb Publications  "
+"
+2014 Feb Top Tweets  "
+"
+2014 Feb Software  "
+"
+2014 Feb Opinions, Interviews  "
+"
+2014 Feb News, Features  "
+"
+2014 Feb Meetings & Reports  "
+"
+2014 Feb Courses, Education  "
+Data Analytics Handbook ?€? Interviews with Data Scientists and Tech Leaders, free download
+EMC Data Science and Big Data Analytics Offer
+DEAP, Distributed Evolutionary Algorithms in Python, Framework for Rapid Prototyping
+Top LinkedIn Groups in 2014 for Analytics, Big Data, Data Mining, and Data Science
+Top stories for Apr 6-12
+PAW: Predictive Analytics World, Toronto, May 12-15
+Top KDnuggets tweets, Apr 11-13: Influential Data Scientists on Twitter; Data Analytics Handbook ?€? free download
+Vincent Granville Data Science Book
+Vendor-Neutral Hands-On Training in Data Mining [ Wash-DC, May | Denver-CO, July ]
+Oracle Academy ?€? Teaching Students Around The World
+Webinar: Data Mining: Failure to Launch [Apr 17]
+Apache Spark, the hot new trend in Big Data
+KDnuggets 14:n09: Top LinkedIn Groups in 2014; Big Data Vendor Analysis; Teaching Machine Learning
+UC Berkeley Master of Information and Data Science, Online
+Examining GoodData Open Analytics Platform
+Top KDnuggets tweets, Apr 14-15
+Big Data TechCon ?€? Great How-To Conference
+Exclusive Interview: Peter Bruce, President Statistics.com
+Additions to KDnuggets Directory in April
+Top news, jobs in April: Top LinkedIn Groups for Analytics, Big Data; Learning from ?€?Learning from Data?€?
+Cartoon: Mother Of All Data
+Hedonometer: Twitter Happiness Measure ?€? What does it say
+Top news for May 5-11: Will Big Data Make Stats Less Important? Stanford Online; SADM journal Top Papers Free Access
+10 Most Influential People in Data Analytics
+KDnuggets reaches 10000 Twitter Followers
+New Poll: Will Big Data make Statistics less Important?
+Top news for Apr 28 ?€? May 4: Best Blogs for Data Miners/Scientists; Hedonometer; Is Data Science The End of Statistics?
+@kdnuggets Voted the Best Big Data Twitter Account
+Poll Results: With Big Data, Statistics Will Become More Important
+New Poll: Predictive Analytics, Big Data, Data Mining, Data Science Software Used
+Exclusive: Part 2 of the Interview with Tom H. C. Anderson, the leader in Big Data, Market Analytics, and Text Analytics
+Exclusive: Interview with Tom H. C. Anderson, the leader in Big Data, Market Analytics, and Text Analytics
+Data Mining / Analytic News Briefs, May 2013
+Top news for May 19-25: New Poll: Analytics/DM Software used? Top Big Data Tweeter
+Social Market Analytics secret sauce for using Twitter Sentiment for Stocks Trading
+Top news for May 12-18: 10 Most Influential People in Data Analytics; New Poll: Analytics, Big Data, Data Mining Software Used?
+Top stories for Apr 13-19
+Elusive Data Scientists Driving High Salaries
+Data Mining / Analytic Publications News, May 2013
+Data Mining / Analytic Competitions News, May 2013
+Data Mining / Analytic Software News, May 2013
+Data Mining / Analytic Courses, Events News, May 2013
+TESC Online, Affordable MBA in Data Analytics ?€? Recharge Your Career
+Top KDnuggets tweets, Apr 16-17
+Data Workflows for Machine Learning
+Exclusive Interview: Michael Brodie, Leading Database Researcher,  Industry Leader, Thinker
+Microsoft Expands Big Data Platform
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? April 21 and beyond
+Top KDnuggets tweets, Apr 18-20
+New Book: Social Media Mining ?€? free PDF download
+SIGKDD Data Science/Data Mining PhD Dissertation Award ?€? Nominations Due Apr 30
+MMDS 2014: Workshop on Algorithms for Modern Massive Data Sets, Berkeley
+Big Data Innovation Summit 2014 Santa Clara:  Highlights of Selected Talks on Day 1
+Big Data Innovation Summit 2014: Highlights of Keynote Speeches on Day 2
+Are Big Data and Privacy at odds? FICO Interview
+Big Data Innovation Summit 2014: Highlights of Keynote Speeches on Day 1
+Top news in March: Data Science Code of Conduct; Top LinkedIn Groups; Data Driven Journalism Tutorials
+Data Scientist Hat
+Top KDnuggets tweets, Apr 21-22
+USC Marshall MS in Business Analytics
+Additions to KDnuggets in March
+Data Mining Medicare Data ?€? What Can We Find?
+Caltech Prof. Abu-Mostafa on what he learned from his MOOC course ?€?Learning from Data?€?
+Caltech Prof. Abu-Mostafa on his MOOC course ?€?Learning from Data?€? and Machine Learning
+KDnuggets Cartoon looks at IRS, Big Data, and Taxes
+Webcast/Debate: Should Data Science Become a Profession and Self-regulate?
+New Poll: Largest Dataset Analyzed / Data Mined?
+Exclusive: KXEN CTO Eric Marcade on Startups, Predictive Analytics, Big Data, Recommendations
+Data Scientist Hat ?€? Best Comments
+Top news for Mar 31 ?€? Apr 6: Learning from ?€?Learning from Data?€?; IBM Accelerates Big Data; Cartoon: Big Data and Taxes; Data Scientist Hat
+Top 30 LinkedIn Groups for Analytics, Big Data,,Data Mining, and Data Science
+Top news for Apr 7-13: IRS, Big Data, and Taxes (Cartoon); Learning from ?€?Learning from Data?€?
+KXEN Interview: Eric Marcade on Recommendations, User communities, Kaggle MSD, Predictive Offers
+Big Data 100 on PeerIndex and Klout
+Data Mining / Analytic Competitions News, Apr 2013
+Should Data Science become a Profession: Pro and Con
+Top news for Apr 21-27: Top 30 LinkedIn Groups for Analytics; Machine Learning solves Parkinson?€?s diagnosos
+Poll Results: Largest Dataset Analyzed/Data Mined
+Top news for Apr 14-20: KDD Cup 2013: Author-Paper ID; 5 Top Articles DMKD Articles; Microsoft ML Summit Streamed Live Apr 23
+KDD Innovation and Service Awards, nominations due May 31
+Data Mining / Analytic News Briefs, Apr 2013
+Data Mining / Analytic Publications News, Apr 2013
+Data Mining / Analytic Courses, Events News, Apr 2013
+Data Mining / Analytic Software News, Apr 2013
+Exclusive Interview: David Stringfellow, Chief Economist, State Utah Auditor
+Top KDnuggets tweets, Apr 23-24: It does look similar, but ?€?; Why people are bad at technology predictions
+Top stories for Apr 20-26
+KDD 2014 Workshops ?€? the leading edge of Data Science Research
+9 Free Books for Learning Data Mining and Data Analysis
+MLTK: Machine Learning Toolkit in Java ?€? free download
+Where are your users? Geo-localization with KNIME
+KDnuggets Interview: Michael Brodie on Data Curation, Cloud Computing, Startup Quality, Verizon (part 2)
+Cartoon: Data Scientist Salary Negotiation
+Top KDnuggets tweets, Apr 25-27: Recommended Tutorials for Data Scientists; How One Woman Hid Her Pregnancy from Big Data
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? April 28 and beyond
+U. Cincinnati Analytics Summit 2014, May 23
+New Poll: What data types/sources you analyzed in the past 12 months?
+Big Data Innovation Summit 2014 Santa Clara:  Highlights of Selected Talks on Day 2
+Big Data Leads Top Paying Skills
+PAW: Predictive Analytics World Toronto ?€? New Data Paradigm
+KDnuggets 14:n10, Data Scientist Salary examined; Big Data Highlights; Michael Brodie Interview
+Additions to KDnuggets Directory in February
+Top news, jobs in February
+HuffPost Live webcast: Feds Predict the Future
+Top news for Feb 24 ?€? Mar 2: Analytics Pros Income jumps; Free e-book on Data Science with R
+Top news for Mar 3-9: Salary/Income of Analytics Pros; Strata 2013 Highlights; SPMF: Sequential Pattern Mining Framework
+Data Science Code of Professional Conduct and ?€?Golden Rule?€?
+McDowell Interview: PASS Business Analytics Conference, Microsoft Data Mining
+BigData100: Vote for the Most Influential in Big Data
+Top news for Mar 10-16: GraphLab framework for Machine Learning; Data Science for Social Good Summer Fellowship in Chicago
+New Poll: Should there be a Data Scientist Pledge?
+Top news for Mar 17-23: Top LinkedIn Groups for Analytics, Big Data, Data Mining; Tata Big Data Study
+Top LinkedIn Groups for Analytics, Big Data, Data Mining, and Data Science
+Poll Results: Data Scientists against a Pledge
+Top news for Mar 24-30: Data Scientists against a Pledge; Top LinkedIn Groups; Klout Big Data Influencers
+KDnuggets Interview: Juan Miguel Lavista, Microsoft Data Science Team
+KDD Innovation and Service Awards, nominations due May 31
+Data Mining / Analytic News Briefs, Mar 2013
+Data Mining / Analytic Publications News, Mar 2013
+Data Mining / Analytic Competitions News, Mar 2013
+Data Mining / Analytic Software News, Mar 2013
+Data Mining / Analytic Courses, Events News, Mar 2013
+Top KDnuggets tweets, Apr 28-29
+Massachusetts releases Big Data Report 2014
+"
+2014 Apr Webcasts  "
+Interview: Arijit Sengupta, CEO, BeyondCore on Advanced Analytics and Big Data
+NineSigma Big Data Analytics RFP
+Data Mining for Statisticians
+Top stories for May 4-10
+Cartoon: Data Visualization meets 3-D Printer
+"
+2014 Apr Software  "
+Guide to Data Science Cheat Sheets
+"
+2014 Apr Top Tweets  "
+"
+2014 Apr Opinions, Interviews  "
+"
+2014 Apr Publications  "
+"
+2014 Apr Courses, Education  "
+"
+2014 Apr News, Features  "
+"
+2014 Apr Meetings & Reports  "
+Analytics Education Boom ?€? Trends and Overview
+Top news, jobs in January: Exclusive: Interview with Chief Scientist Obama 2012 Campaign;5 years to data scientist
+Additions to KDnuggets in January
+Top news for Jan 27 ?€? Feb 2: 5 years to become a data scientist; Particle Physics and Recommendation Engines
+Salary/Income of Analytics/Data Mining/Data Science professionals
+Top news for Feb 3-9: KDD-2013 Call for Papers; Microsoft F# for Big Data programming
+New Poll: Analytics/DM Salary?
+Top news for Feb 10-16: Data Scientist Valentine Day Adjustment; New Poll: Analytics/DM Salary? Big Data Journal
+Data Scientist Valentine?€?s Day Adjustment
+Analytics Education in the Era of Big Data
+Industry Analysts for Analytics, BI, Big Data, Data Mining, Data Science
+KDD 2014 Workshops ?€? the latest in Data Mining and Data Science Research
+Top news for Feb 17-23
+Top KDnuggets tweets, May 9-11: Data Mining for Statisticians; For teachers (and students) of Machine Learning
+Healthcare Analytics: Identifying Leaders and Key Trends
+Interview: George Corugedo, CTO, RedPoint on YARN and Customer Analytics
+Data Mining / Analytic News Briefs, Feb 2013
+Big Data BootCamp:  Highlights of talks on Day 3
+Forrester Research: Transform Your Organization with Strong Data Management
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? May 12 and beyond
+Data Analytics Handbook p. 3, Interviews with Research Leaders and Academics, Free Download
+Media Industry Embracing Analytics for Innovation and Competitive Edge
+Interview: George Corugedo, CTO, RedPoint on Big Data Trends and Important Skills
+New Book: Analytics in a Big Data World ?€? The Essential Guide to Data Science
+Watch: Basics of Machine Learning
+Do Analytics as well as Google, Johnson&Johnson, and AT&T
+BPDM 2014: Broadening Participation in Data Mining Program
+Top KDnuggets tweets, May 12-13: Guide to Data Science Cheat Sheets; How to analyze Facebook Networks using R
+Vendor-Neutral Hands-On Training in Data Mining [Denver-CO, July | Wash-DC, Sep]
+Interview: Prateek Jain, Director of Engineering, eHarmony on Fast Search and Sharding
+Social Media & Web Analytics Innovation Summit 2014: Day 1 Highlights
+Northwestern Online MS in Predictive Analytics
+Uppd8: An Engine for the Wisdom of Crowds
+Social Media & Web Analytics Innovation Summit 2014: Day 2 Highlights
+Data Mining / Analytic Publications News, Feb 2013
+Has Predictive Analytics Crossed The Chasm?
+Sentiment Analysis Innovation Summit 2014: Day 2 Highlights
+Interview: Gary Shorter, Director of Data Science, Quintiles on Big Data for Healthcare
+Big Data Landscape, v 3.0, analyzed
+Interview: Gary Shorter, Quintiles on Future of Heathcare and Big Data Skills
+Resource-aware Machine Learning ?€? Summer School 2014, Germany
+KDD Cup 2014 ?€? Predicting Excitement at DonorsChoose.org
+Predict Soccer World Cup 2014 Winner, Get Prizes from RapidMiner
+Top KDnuggets Tweets, May 14-15: Easier Facebook Network Analysis; Cloudera Live, a New Way to Start with Hadoop
+Poll Results: Data Types/Sources Analyzed
+Top 100 Startup Experts to Follow on Twitter
+Top stories for May 11-17
+CIOReview Top 100 Most Promising Big Data Companies
+Exclusive Interview: Michael O?€?Connell, Chief Data Scientist, TIBCO on How to Lead in Big Data
+Top KDnuggets tweets, May 16-18: Great find ?€? Intro to Data Science, free download; Why code written by scientists gets ugly
+Exclusive: Tamr at the New Frontier of Big Data Curation
+Code for India 2014 Global Hack-a-thon ?€? Building a Better India through Innovative Solutions
+BabelNet 2.5: Very Large Multilingual Encyclopedic Dictionary and Semantic Network
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? May 19 and beyond
+Stacking the Deck:  The Next Wave of Opportunity in Big Data
+New Poll: Analytics, Data Mining, Data Science Software Used?
+PAW: Predictive Analytics World Chicago, Expert-led Workshops
+Data Mining / Analytic Competitions News, Feb 2013
+KDnuggets 14:n12, Annual Poll: Software Used? Tamr & Data Curation; Data Science Cheat Sheets
+Top KDnuggets tweets, May 19-20: 12 Free Data Mining, Data Science books; Exclusive: How to Lead in Big Data
+Interview: Dale Russell, CTO, Talksum on Winning the IE Big Data Startup Award
+Outlier Detection for Temporal Data
+MADALGO Summer School on LEARNING AT SCALE, August 11-14, Denmark
+Interview: Dale Russell, CTO, Talksum on Building Talksum Router and Real-time Anaytics
+Signi-Trend App: Detecting Significant Trends in Text
+Zementis ?€? Cool Vendor in Data Science, 2014
+Data Literacy: Education for the Information Economy
+InformationWeek 10 Big Data Pros To Follow On Twitter
+Registration open for KDD 2014 ?€? Best Data Mining and Data Science Research
+Interview: Richard Wendell, VP, Data Science, TE Connectivity on Strategy for Analytics Projects
+Data Mining / Analytic Courses, Events News, Feb 2013
+Big Data for Executives 2014: Day 1 Highlights
+OnlyBoth Startup is like IBM Watson in Reverse
+Saxon Global, fast growing BI, Big Data, Cloud Service Provider
+Top KDnuggets tweets, May 21-22: Outlier Detection for Temporal Data; Become a Big Data mgr with #ieMBD
+Top stories for May 18-24
+Interview: Richard Wendell, VP, Data Science, TE Connectivity on the Role of Analytics in Organizations
+Data Mining / Analytic Software News, Feb 2013
+Sentiment Analysis Innovation Summit 2014: Day 1 Highlights
+Where to Learn Deep Learning ?€? Courses, Tutorials, Software
+7 Business Analytics Gurus to follow on Twitter
+Top news for Dec 30 ?€? Jan 5: Machine Learning and Data Mining Humor; Top KDnuggets tweets, Dec 27-30
+Top news for Jan 6-12: New Book: Outlier Analysis; 7 Business Analytics Gurus to follow
+New Poll: How long does it take to become a good data scientist?
+Big Data Impact on Your Earnings:,2012 Data Professional Salary Survey Results
+KDnuggets Exclusive: Interview with Rayid Ghani, Chief Scientist Obama 2012 Campaign
+Top news for Jan 13-19: Exclusive: Interview with Rayid Ghani, Chief Scientist Obama 2012 Campaign
+Additions to KDnuggets in December
+Top news, jobs in December
+KDnuggets Cartoons on Big Data, Data Mining, Predictive Analytics
+Poll Results: How long to become a good data scientist
+Top news for Jan 20-26: Book: R and Data Mining;,Big Data is Falling into the Trough of Disillusionment
+Top KDnuggets tweets, May 23-25: Data Science vs. Statistics: one big difference; A SQL query walks into a bar
+Vowpal Wabbit: Fast Learning on Big Data
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? May 26 and beyond
+Interview: Martin Hack, CEO, Skytree on Industrializing Machine Learning for Big Data
+Free Data Science Workshops at Bournemouth University, UK, June 9-10
+Big Data Use Case: Zookeeper at Rubicon Project
+Book: Data Mining and Analysis: Fundamental Concepts and Algorithms
+Data Mining / Analytic Courses, Events News, Jan 2013
+Free Online Training with Preorder of a major new Predictive Analytics book
+Data Science Top Influencers
+Data Mining / Analytic News Briefs, Jan 2013
+Top KDnuggets tweets, May 26-27
+KDnuggets 14:n13, Where to learn Deep Learning; Vowpal Wabbit; 10 Big Data Pros
+Data Mining / Analytic Software News, Jan 2013
+Data Mining / Analytic Publications News, Jan 2013
+Data Mining / Analytic Competitions News, Jan 2013
+
+
+
+
+
+Interview: Walter Maguire, Chief Field Technologist on HP Big Data Strategy and HAVEn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gaming Analytics Summit 2014: Day 1 Highlights
+KDnuggets Social Network in NodeXL, May 2014
+Big Data for Executives 2014: Day 2 Highlights
+
+
+Data Discovery to Real Business Value ?€? INFORMS Conference, June 22-24, San Jose
+Top KDnuggets tweets, May 28-29: SAS University Edition free software; Google Quantum Computing Playground
+Data Mining Modern Languages
+Interview: Kirk Borne, Data Scientist, GMU on Big Data in Astrophysics and Correlation vs. Causality
+Preparing Industry for the Upcoming Data Deluge: PAW-Manufacturing 2014
+Gaming Analytics Innovation Summit: Day 2 Highlights
+Interview: Kirk Borne, Data Scientist, GMU on Decision Science as a Service and Data Science curriculum
+"
+2014 May Top Tweets  "
+"
+2014 May Webcasts  "
+"
+2014 May Software  "
+US Open Data Action Plan and Datasets
+"
+2014 May News, Features  "
+"
+2014 May Publications  "
+"
+2014 May Opinions, Interviews  "
+"
+2014 May Meetings & Reports  "
+"
+2014 May Courses, Education  "
+The First Law of Data Science: Do Umbrellas Cause Rain?
+KDnuggets 14:n14, KDnuggets Analytics/Data Mining Poll Results; First Law of Data Science
+DLib: Library for Machine Learning
+Top KDnuggets tweets, Jun 9-10: Numeric Matrix Manipulation: Cheat Sheet; The First Law of Data Science
+AlgoMost contest: Predicting future company acquisitions
+Zipfian Academy 6-week Data Fellowship (Free)
+Moving from Data-Rich to Decision-Smart: INFORMS Conference The Business of Big Data 2014
+Request: Apache UIMA Research Partnership in EU
+
+Profile: KDnuggets Serves Analytics and Big Data Fields
+
+
+
+
+
+
+Big Data Innovation Summit 2014 London: Highlights
+
+
+
+
+YARN is All the Rage at Hadoop Summit 2014
+Huge Big Data Poster and Reference
+
+Top 10 Data Analysis Tools for Business
+
+Top KDnuggets tweets, Jun 11-12: Huge Big Data poster; ?€?Data science?€? misses half the equation
+NYU Data Science Program ?€? Things to Know
+
+The Cardinal Sin of Data Mining and Data Science: Overfitting
+Book: Data Classification: Algorithms and Applications
+Top stories for Jun 8-14
+The Algorithm that Runs the World Can Now Run More of It
+Top KDnuggets tweets, Jun 13-15: Book: Data Classification: Algorithms and Applications
+Interview: Conal Sathi, Data Scientist, Slice on Creating Value from Mining Shoppers?€? e-Receipts
+INFORMS: CAP?? Analytics Certification
+NYU Data Science Program ?€? Things to Know Part 2
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jun 16 and beyond
+Cartoon: Big Data and World Cup Football
+KDnuggets Analytics, Data Mining, Data Science Software Poll ?€? Analyzed
+IBM, SAS, SAP, Angoss Lead in Advanced Analytics ?€? Hurwitz Report
+Top KDnuggets tweets, Jun 16-17: You cannot afford to ignore next #AI wave; 5 Companies doing #BigData Right
+Summer School: Constraint Programming Data Mining, Sicily
+The R User Conference, June 30 ?€? July 3, Los Angeles
+KDnuggets 14:n15, Analytics Software Poll ?€? Analyzed; Cartoon: Big Data and World Cup
+Optimizing the Netflix Streaming Experience with Data Science
+GraphLab Conference, Graph Analytics and Machine Learning, San Francisco July 21
+Does Deep Learning Have Deep Flaws?
+Top KDnuggets tweets, Jun 18-19: Does Deep Learning Have Deep Flaws? Mode opens GitHub for data
+KDD Partners with Bloomberg to Unleash Data
+New Poll: Largest dataset analyzed / data mined?
+Top stories for Jun 15-21
+Top KDnuggets tweets, Jun 20-22: Great visualization of English letters; Good list of R functions to manipulate data
+LION Resources for Teaching Machine Learning and Optimization
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jun 23 and beyond
+Data Visualization of Census Data with R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KDnuggets Twitter Follower 20,000 ?€? Interview
+What is Text Analytics?
+
+CRN 25 Big Data Infrastructure Companies
+Chief Data Officer Summit 2014 ?€? Day 1 Highlights
+PAW: Predictive Analytics World Boston, Oct 5-9
+CRN 50 Big Data Business Analytics Companies
+Analytics 2014 Conference ?€? Oct 20-21, Las Vegas
+XLMiner solves Big Data Problems in Excel
+Top KDnuggets tweets, Jun 23-24: Machine learning in the cloud: Microsoft Azure; Understanding Data Distribution
+CRN 50 Emerging Big Data Vendors
+KDnuggets 14:n16, Does Deep Learning have deep flaws? New poll: Largest dataset analyzed?
+Menthal ?€? Access Rich Smartphone Dataset
+CRN 25 Big Data Management Companies
+Domino ?€? A Platform For Modern Data Analysis
+Book: Win With Advanced Business Analytics
+Data Science Skills  and Business Problems
+Interview: Samaneh Moghaddam, Applied Researcher, eBay on Aspect-based Opinion Mining
+Interview: Ingo Mierswa, RapidMiner CEO on ?€?Predaction?€? and Key Turning Points
+Top stories for Jun 22-28
+The Impact Cycle ?€? how to think of actionable insights
+Top KDnuggets tweets, Jun 25-26: 12 JavaScript Libraries for Data Viz; TF-IDF ?€? key measure for Text Analytics
+100 Big Data Companies Analyzed
+New Beginnings in Facial Recognition
+Interview: Samaneh Moghaddam, Applied Researcher, eBay on Opinion Mining ?€? Typical Projects and Major Challenges
+
+
+
+
+Do you need a Masters Degree to become a Data Scientist?
+
+
+
+
+
+
+
+
+
+
+
+
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jun 30 and beyond
+"
+2014 Jun Webcasts  "
+Exclusive: Dave Marvit, Innovation Strategy Consultant, Fujitsu on Modern Sentiment Analysis using Ubiquitous Continuous Sensing
+"
+2014 Jun Software  "
+Top KDnuggets tweets, Jun 27-29: Google says Hadoop era is over
+"
+2014 Jun Opinions, Interviews  "
+"
+2014 Jun Top Tweets  "
+"
+2014 Jun Publications  "
+"
+2014 Jun News, Features  "
+"
+2014 Jun Courses, Education  "
+"
+2014 Jun Meetings & Reports  "
+Top KDnuggets tweets, Jul 11-13: Avoid Dilbert ?€?core competency?€?; You may never be anonymous in a #BigData world
+Interview: Marc Smith, Chief Social Scientist, Connected Action, on Why We Need Open Tools for Social Networks
+GraphLab Create: large-scale machine learning platform for graph, structured, and text data
+PAW: Predictive Analytics World Healthcare, Oct 6-7, Boston
+Data Analytics Week, Nov 10-13, Las Vegas
+Big Data TechCon, The How-To Conference, Oct 27-29, San Francisco
+Making sense of text analytics
+OnlyBoth MLB Baseball Knowledge Discovery Application
+RapidMiner World Boston ?€? August 18-21, Boston, MA, USA
+KDnuggets 14:n18, Cartoon: Facebook experiment and Cats; Data Mining ?€?Nobel Prize?€?
+Top KDnuggets tweets, Jul 14-15: 5 R training programs; Making sense of text analytics
+PredictionIO raised $2.5M for Open Source Machine Learning Server
+Wharton: Strategic Value of Customer Relationships, online course
+IEEE ICDM Research Contributions and Outstanding Service 2014 Awards, Nominations due Aug 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dear CIO, what you have is NOT a Data Lake
+Interview: Piero Ferrante, BCBS on Why Healthcare is Rich in Data but Poor in Information
+Poll Results: Largest Dataset Analyzed surprisingly stable
+Manufacturing Analytics Summit 2014 Chicago: Day 2 Highlights
+MicroStrategy Analytics Desktop ?€? visual tool, free download
+Top KDnuggets tweets, Jul 16-17: An awesome list of Big Data frameworks
+Interview: Cliff Lyon, Stubhub on Mastering the Art of Recommendation and Personalization Analytics
+Future of Consumer Intelligence 2014: Day 1 Highlights
+Interview: Cliff Lyon, Stubhub on Mastering Recommendation & Personalization Analytics Part 2
+Metis Data Science Bootcamp, New York, 12 weeks
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? July 22 and beyond
+Innocentive Challenge: Novel Approaches for Predicting Life Expectancy
+Top KDnuggets tweets, Jul 18-20: Baby steps in Learning Python; 7 Steps for Learning Data Mining
+Top stories for Jul 13-19
+Hands-on Data Mining Training, Boston, NYC, Toronto, Detroit, other locations, $35
+NYU Stern Master of Science in Business Analytics
+Spotting Bad Data Visualizations
+Business Intelligence Innovation Summit 2014 Chicago: Day 1 Highlights
+Interview: Amy Gaskins, AVP, MetLife on Smarter Analytics through Qualitative Research
+Business Intelligence Innovation Summit 2014 Chicago: Day 2 Highlights
+U. Delaware Certificate in Analytics: Optimizing Big Data
+Top KDnuggets tweets, Jul 21-22
+Interview: Amy Gaskins, AVP, MetLife on New Era Hiring at MetLife through Synapse
+Webinar: Data Mining: Failure to Launch [July 31]
+MLlib: Apache Spark component for machine learning
+Vendor-Neutral Hands-On Training in Data Mining [Wash-DC, Sep | Las Vegas, Dec]
+WordSwarm ?€? Visualizing Word Trends in Periodicals
+Big Data & Analytics in Healthcare Summit 2014 Philadelphia: Day 1 Highlights
+Big Data & Analytics in Healthcare Summit 2014 Philadelphia: Day 2 Highlights
+Interview: Leo Meyerovich, Graphistry on Browser-based Interactive Big Data Visualization
+Top KDnuggets tweets, Jul 23-24: 81% of retail firms gather #BigData, only 34% use analytics
+Interview: Aparna Pujar, eBay on Evolution of Behavior Analytics for User Engagement
+MIT CDOIQ Symposium: Where is the Big Data Boundary of Effectiveness?
+Course: Tools for Discovering Patterns in Data, Sep 8-9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top stories for Jul 20-26
+
+
+
+Data for Good: data-driven projects for social good
+Summer School on Resource-Aware Machine Learning, Dortmund
+Why analysts should master public speaking
+Interview: Kavita Ganesan, FindiLike on Building Decision Support Systems based on User Opinions
+Containers: The Enabler of YARN
+PAW: The Predictive Analytics World, Gov, Boston, Health
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? July 29 and beyond
+Interview: Sastry Malladi, StubHub on Designing Big Data Architecture for the Unknown Future
+Top KDnuggets tweets, Jul 25-27
+Book: Probabilistic Approaches to Recommendations
+Future of Consumer Intelligence 2014: Day 2 Highlights
+KDnuggets Free Pass to Strata Conference + Hadoop World, New York, Oct 15-17, 2014
+IEEE Big Data 2014 ?€? 21 Workshops, Posters ?€? CFP
+Northwestern Online MS in Predictive Analytics
+Interview: Thomas Levi, POF on How Online Dating is Improving Matching through Big Data
+Predictive Analytics Innovation Summit 2014 London: Day 1 Highlights
+VizRisk: HHS Visualization Challenge to Change Health
+Join the brightest minds at Analytics 2014
+KDnuggets 14:n19, Big Data Gap; Boundary of Effectiveness; Great interviews; MLlib machine learning
+Top KDnuggets tweets, Jul 28-29: Data Scientists are among the highest-paid professions
+Future of Consumer Intelligence 2014: Day 3 Highlights
+Interview: Thomas Levi, PlentyOfFish on What does Big Data tell us about Romance
+Guidelines for statistical education
+Predictive Analytics Innovation Summit 2014 London: Day 2 Highlights
+Online Degrees in Analytics, Data Mining, and Data Science
+ASE International Conference on Big Data Science 2014: Highlights from Workshops
+"
+2014 Jul Webcasts  "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+2014 Jul Publications  "
+
+"
+2014 Jul Top Tweets  "
+"
+2014 Jul Software  "
+"
+2014 Jul Opinions, Interviews, Reports  "
+"
+2014 Jul News, Features  "
+"
+2014 Jul Courses, Education  "
+"
+2014 Jul Meetings  "
+July 2014 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Stanford: Learn the science and art of managing people, products, and data
+Big Data Innovation Summit 2014 Toronto: Day 2 Highlights
+Interview: Sujee Maniyam, Elephant Scale on the Best Free Online Resources to Learn Hadoop
+Vendor-Neutral Hands-On Training in Data Mining [Wash-DC, Sep | Las Vegas, Dec]
+Certificates in Analytics, Data Mining, and Data Science
+Top KDnuggets tweets, Aug 6-7: Becoming a Data Scientist: MS Program, Bootcamp, or MOOCs?
+Interview: Sujee Maniyam, Elephant Scale on Why Open Source is So Important for Big Data
+Six Thinking Hats and the Life of a Data Scientist
+ASE International Conference on Big Data Science 2014: Day 4 Highlights
+Berkeley DataLead conference, Sep 30 ?€? Oct 2
+Hands-on Data Mining Training, New York City, Aug 22, $35 (Toronto, Detroit in Sep)
+Metrics that Matter ?€? The Key to Perfect Dashboards
+PAW: Predictive Analytics World for Government, Sep 15-18, Washington, DC
+Interview: Michael Berthold, President and Founder of KNIME, on Data Mining, Startups, and Visual Workflow
+Top stories for Aug 3-9: Cartoon: Big Data Viz and 7-D Printer; Exclusive: Dell on Data Mining, Statistica future
+OpenML: Share, Discover and Do Machine Learning
+Top KDnuggets tweets, Aug 8-10: Forget SQL vs NoSQL. New trend is HTAP: Hybrid Transaction/Analytical Processing
+
+Webinar: Data Mining: Failure to Launch [Aug 19]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top 10 References for applying Big Data and Analytics in Business
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Aug 12 and beyond
+EMC Big Data Courses for Data Scientists and Business Leaders
+Interview: Michael Berthold, KNIME Founder, on Research, Creativity, Big Data, and Privacy, Part 2
+Webcast: Data Science at the Command Line, Aug 20
+KDnuggets 14:n21, Certificates in Analytics, Data Science; Michael Berthold, KNIME; OpenML
+Interesting Social Media Datasets
+SAS Analytics, Data Mining, Statistics Training ?€? Limited Time Offer
+Talent Analytics Projects: ?€?Fishing?€? vs Solving Business Problems
+Top KDnuggets tweets, Aug 11-12: The entire global economy in one chart; New heroes of #BigData and Analytics
+Data Visualization Summit, Boston, Sep 25-26
+Data is not a fad
+Top Analytics and Big Data trends ahead of Strata Hadoop NYC Conference
+Experiment: Toward a Thermostatistics for Complex Systems
+Interview: Pallas Horwitz, Blue Shell Games on Why Data Science is So Critical for Gaming Studios
+Statistical Learning and Data Mining III, Boston, Oct 27-28
+IBM Watson?€?s Next Step: Partnership with Universities
+Recommendations for Big Data Success for the Long Haul
+Interview: Pedro Domingos, Winner of KDD 2014 Data Mining/Data Science Innovation Award
+Top Research Leaders in Data Mining, Data Science, and KDD
+Four main languages for Analytics, Data Mining, Data Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Aug 19 and beyond
+Interview: Pedro Domingos: the Master Algorithm, new type of Deep Learning, great advice for young researchers
+Panel Report: A Data Scientist Guide to Startups
+Top KDnuggets tweets, Aug 13-14: Boyfriend as a statistically ?€?significant?€? other
+Sibyl: Google?€?s system for Large Scale Machine Learning
+Interview: John Funge, CTO, Knack on Why Gaming is the Next Big Thing for Hiring
+Interview: Pallas Horwitz, Blue Shell Games on Why Gaming Analytics is Not a Piece of Cake
+Top KDnuggets tweets, Aug 18-19: Big Data moves to ?€?Trough of Disillusionment?€? in Gartner Hype Cycle
+Top KDnuggets tweets, Aug 15-17: Top Research Leaders in Data Mining; Hbase; Job Interview
+Deep Learning ?€? important resources for learning and understanding
+Top stories for Aug 10-16: Certificates in Analytics, Data Mining; OpenML: Share, Discover and Do Machine Learning
+
+
+
+
+
+
+Statistics.com Online Courses and Certificate Programs in Data Science
+
+
+
+
+KDnuggets 14:n22, 4 main analytics languages; Top research leaders in Data Mining; Pedro Domingos
+
+
+
+Data Analytics Week, Las Vegas, Nov 10-13 ?€? Surprise Keynote Speaker
+
+
+
+
+
+
+Top stories for Aug 17-23: Four main languages for Analytics, Data Mining, Data Science
+DataReview interview with me on KDnuggets, Data Mining, and Data Science
+Interview: Saikat Mukherjee, ShareThis on Why Marketers can no longer Ignore Social TV?
+PAW: Don?€?t Miss Predictive Analytics World for Healthcare
+INFORMS The Business of Big Data 2014: Day 1 Highlights
+Dataiku Data Science Studio
+KDD-2014 Awards Winners
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Aug 26 and beyond
+Top KDnuggets tweets, Aug 20-21: Deep Learning book and more; Sibyl: Google Large Scale Machine Learning
+Leeds Business Analytics Conference, Sep 18-19, CU Boulder
+Interview: Arpit Gupta, CEO, Actionable Analytics on Enterprise Challenges in Big Data and Cloud
+
+
+
+Top KDnuggets tweets, Aug 22-24: A Day in the Life of a Functional Data Scientist; Keeping up to date
+
+
+
+
+
+
+
+
+
+Best Text Analytics Summit Presentations
+Top KDnuggets tweets, Aug 25-26: KDD-2014 organizers (including Gregory) Ice Bucket challenge
+
+
+
+
+
+
+
+
+Kaggle Epilepsy Seizure Prediction Challenge
+ACM Data Science Camp, San Jose, Oct 25
+Interview: Debora Donato, StumbleUpon on the Secret Sauce of Impressive Content Curation
+KDD-2014 ?€? The Biggest, Best, and Booming Data Science Meeting
+Scorto Plug and Score Modeler ?€? for easy scorecard development
+White paper: Making the business case for text analytics
+KDD-2014 Ice Bucket Challenge
+Top KDnuggets tweets, Aug 27-28: Worst Venn Diagram ever? KDD-2014: Biggest and Best Data Science Meeting
+Top stories for Aug 24-30: 4 main languages for Analytics, Data Mining; Dataiku Data Science Studio
+
+
+
+"
+2014 Aug Webcasts  "
+
+
+
+
+
+
+
+
+
+
+"
+2014 Aug Top Tweets  "
+Top KDnuggets tweets, Sep 3-9: What is Big Data ?€? definitions from thought leaders
+What is Big Data ?€? answers from thought leaders
+Most Viewed Text Mining Lectures
+Customer Analytics Summit 2014 Chicago: Day 2 Highlights
+Exclusive Interview: Imran Siddiqi, SAP on Why the Business needs Ambitious Big Data Use Cases
+Top stories for Sep 7-13: Hiring Data Scientists; MOOC ?€? Process Mining
+"
+2014 Aug Software  "
+INFORMS The Business of Big Data 2014: Day 2 Highlights
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Sep 16 and beyond
+Coursera / Stanford Mining Massive Datasets MOOC
+Text Analytics Summit 2014, San Francisco, Nov 4-5
+Top KDnuggets tweets, Sep 10-14: Most Viewed Machine Learning and Text Mining Talks
+
+"
+2014 Aug Publications  "
+
+
+
+
+
+
+"
+2014 Aug Meetings  "
+
+
+
+
+
+Rattle package for Data Mining and Data Science in R
+
+
+
+Top KDnuggets tweets, Sep 15-16
+Webinar: Learn Analytics Best Practices for Hadoop
+PAW: Predictive Analytics World Boston, Learn Uplift Modeling
+10 reasons to attend the Analytics 2014 conference
+KDnuggets 14:n24, Hiring Data Scientists; Most Viewed Machine Learning, Data Mining Talks
+Analytics Team Dissolution ?€? Unique Case Study
+edX ?€?Learning From Data?€? Caltech course
+RapidMiner Resources: Educational Videos, Course
+Top KDnuggets tweets, Sep 17-18: 20 questions to ask a Data Scientist; Business Analytics ROI is 1301%
+CuDNN ?€? A new library for Deep Learning
+Most Viewed Web Mining Lectures
+Key Bioinformatics Terms for Data Scientists
+Top stories for Sep 14-20: Coursera Mining Massive Datasets MOOC; Rattle package for Data Mining in R
+Neural Networks and Deep Learning, free online book (draft)
+INFORMS Analytic Maturity Model
+WCAI Research Opportunity: Understanding, Expanding, and Predicting Customer Engagement
+Data Analytics for Business Leaders Explained
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Sep 22 and beyond
+Top KDnuggets tweets, Sep 19-21: Dilbert funniest cartoons on #BigData, data mining; Guess which pattern is random
+
+
+
+
+
+
+
+
+
+
+"
+2014 Aug News, Features  "
+
+
+
+
+
+Predictive Analytics in Health Care: Helping to Navigate Uncertainties and Change
+NYU Stern Master of Science in Business Analytics
+Data Science is mainly a Human Science
+COMAD India Graph Mining Programming contest
+
+PACE Data Mining Boot Camps, Oct 15-16, San Diego
+"
+2014 Aug Courses, Education  "
+KDnuggets 14:n25, Data Science is mainly a Human Science; edX Learning from Data
+Top KDnuggets tweets, Sep 22-23: Machine Learning for (Smart) Dummies: 7 week course
+Lewis University Online MS in Data Science
+Predictive Analytics Using Oracle Data Miner
+Book: Frequent Pattern Mining
+Advanced Data Analytics for Business Leaders Explained
+Top KDnuggets tweets, Sep 24-25: Statistical & Machine learning with R, great 15 hour online course
+Apache Spark: O?€?Reilly Certification, EU Training, University Program
+Top stories for Sep 21-27: Data Science is mainly a Human Science; Data Analytics for Business Leaders Explained
+Automotive Customer Churn Prediction using SVM and SOM
+Automotive Customer Churn Prediction Results, part 2
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Sep 30 and beyond
+GDELT: Big Data of News, Conflicts, and Society
+"
+2014 Aug Opinions, Interviews, Reports  "
+Top KDnuggets tweets, Sep 26-28: Any data scientist worth their salary will say you should start with a question
+Taming the Internet of Things ?€? KNIME Case Study
+Associations and Text Mining of World Events
+Get Started in Text Analytics
+"
+2014 Sep Webcasts  "
+"
+2014 Sep Publications  "
+"
+2014 Sep Top Tweets  "
+"
+2014 Sep Software  "
+"
+2014 Sep Opinions, Interviews, Reports  "
+"
+2014 Sep News, Features  "
+"
+2014 Sep Courses, Education  "
+"
+2014 Sep Meetings  "
+Big Data & Analytics for Retail Summit 2014 Chicago: Day 2 Highlights
+September 2014 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Develve statistical software, free for non-commercial use
+
+Deep Learning RNNaissance, an insightful, comprehensive, and entertaining overview
+Book: Modern Optimization with R
+Salaries in IT ?€? Scrape, refine, and plot case study
+Sports Analytics Innovation Summit 2014 San Francisco: Day 2 Highlights
+Top stories for Oct 5-11: Analyzing Ebola spread; Data science shows surveys may assess language more than attitudes
+Sports Analytics Innovation Summit 2014 San Francisco: Day 1 Highlights
+Big Data Is Not Big Context
+Top KDnuggets tweets, Oct 8-9: Clinical data determines only 10% of health; Kaggle hero 100-line Python code
+ADW, free software to measure semantic similarity
+Top KDnuggets tweets, Oct 10-12: 7 Most Data Rich Companies in the World
+New Poll: Methodology for Analytics, Data Mining, Data Science Projects?
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Oct 14 and beyond
+GraphDB, a powerful graph database, 3 versions and KDnuggets offer
+Text Analytics West Summit ?€? Use Data Scientists time productively
+Book: Data Mining for Managers
+Big Data on the Internet of Things
+MS in Analytics from the University of San Francisco
+Lavastorm Wizard and Witches Challenge
+Strata Hadoop World NYC ?€? Watch Live, Oct 16
+Top KDnuggets tweets, Oct 13-14: Data mining classics: Classifying Shakespearean Drama
+TDWI Orlando, Dec 7-12, Premier Education Event for BI, Big Data and Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Boston Data Festival Celebrates Big Data Community, Nov 3-8
+LinkedIn Economic Graph Challenge
+DataLadder outperforms IBM and SAS in Record Linkage
+Top KDnuggets tweets, Oct 15-16: STOP and THINK cartoon; Math Model predicts Ebola to burn out in December
+
+
+Interactive Network and Graph Data Repository
+Overcoming Text Analytics Barriers
+Big Data and Hadoop, Big Data Boot Camp LA
+Top stories for Oct 12-18: New Poll: Methodology for Analytics, Data Mining Projects? Big Data Is Not Big Context
+Big Data for Social Good IBM + Hadoop Challenge
+Boston Docker Global Hack Day and Meetup, Oct 30
+
+Top KDnuggets tweets, Oct 17-19: Air traffic analyzed to predict Ebola spread; Cool public data for data science
+TESC 18-month Online MBA in Data Analytics
+Request: Crowdsourcing Health and Nutrition Tweets
+Ebola Analytics and Data Science Lessons
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Oct 21 and beyond
+Salford Comprehensive Data Science Training, Dec 3-5, San Diego or Online
+DM Radio: Predictive Tools Are Pervasive, with KDnuggets, Predixion, RedPoint, and Appnomic, Oct 30
+TMA Predictive Analytics Data Mining Training,[Las Vegas, Dec | Orlando, Feb]
+Big Data & Analytics Innovation Summit, Australia: Day 1 Highlights
+Top KDnuggets tweets, Oct 20-21: 4 ways to become a Data Scientist w/out a PhD; Ebola and Data Science Lessons
+Predictive Analytics World events in 2015
+KDnuggets 14:n27, Ebola Data Science Lessons; Data Science methodology? Spotlight on Academic Research
+Supermarket customers segmentation using Self-Organizing Mapping
+Piketty Revisited: Improving Economics through Data Science
+TweetNLP: Twitter Natural Language Processing
+Text Mining and Election Analytics in Massachusetts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top KDnuggets tweets, Oct 22-23: Baidu revenue jumps after Deep Learning use; Great viz: chess piece survival
+IEEE ICDM 2014 Research Contributions Award: Prof. Jian Pei
+Top-Read Big Data Journal Open Access Articles
+IEEE ICDM 2014 Outstanding Service Award: Prof. Rao Kotagiri
+Zipfian Academy: Become a Data Scientist in 12 Weeks
+Making Sense of Public Data ?€? Wrangling Jeopardy ?€? Part 2
+Top stories for Oct 19-25: Ebola Data Science Lessons; DM Radio, Oct 30 on Predictive Tools with KDnuggets, Predixion
+WCAI Research: Desktop Software Subscription Analysis
+Big Data accelerates medical research? Or not?
+H2O World, Open Source Machine Learning Meeting, Nov 18-19, Mountain View
+Simplilearn: Enroll in Analytics and Big Data Training, get free Amazon Fire (until Oct 31)
+Will Deep Learning take over Machine Learning, make other algorithms obsolete?
+Top KDnuggets tweets, Oct 24-26: Why Deep Learning is likely to make other Machine Learning algorithms obsolete
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Oct 28 and beyond
+CRISP-DM, still the top methodology for analytics, data mining, or data science projects
+Big Data & Analytics Innovation Summit, Australia: Day 2 Highlights
+Cartoon: Halloween Costume for Big Data
+Analytics Street, Boston Data Analytics Conference, Nov 5-7
+KDnuggets 14:n28, Top Data Science methodology; Big Data Halloween costume
+Top KDnuggets tweets, Oct 27-28: Twitter Breakout detection in the wild; Marc Andreessen on #BigData and finance
+Big Data Winter ahead ?€? unless we change course, warns Michael Jordan
+Wikibon Big Data Capital Markets Day ?€? Big Data NYC 2014
+Top KDnuggets tweets, Oct 29-30: If you can?€?t code, you can?€?t be a data scientist; 13 Machine Learning Books
+
+"
+2014 Oct Webcasts  "
+"
+2014 Oct Top Tweets  "
+"
+2014 Oct Software  "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+2014 Oct Publications  "
+"
+2014 Oct Opinions, Interviews, Reports  "
+"
+2014 Oct News, Features  "
+"
+2014 Oct Courses, Education  "
+"
+2014 Oct Meetings  "
+
+Top KDnuggets tweets last week: P-values, the ?€?gold standards?€? of statistical validity, are not as reliable
+Top stories for Nov 2-8: Will Deep Learning take over Machine Learning? Magic: Turn Webpage Into Data
+iMathCloud, Python Data Science Platform
+TDWI Orlando ?€? The Premier Education Conference for BI, DW, Big Data, Data Analytics ?€? Savings Extended
+MLconf: Today?€?s Adventures in Applied Machine Learning, San Francisco, Nov 14
+Georgia Tech Interdisciplinary MS in Analytics
+IBM Watson Analytics ?€? Will it Replace Data Scientists ?
+DrivenData: Box-Plots for Education
+Top KDnuggets tweets, Nov 10-11: R on its way to the top 10; Using #MachineLearning to Detect Abnormalities
+Machine Learning Summer School 2015, Sydney, Australia
+Customer Intelligence in Action, Feb 25-27, San Diego
+Top KDnuggets tweets, Nov 12-13: Predicting employees likely to leave; Hacker guide to Neural Nets and Machine Learning
+KDnuggets Exclusive: Marten Mickos, SVP, HP on Why the Future Belongs to ?€?Hybrid Clouds?€?
+Webcast: Analytically Speaking Featuring Dan Ariely
+2015 RecSys Challenge: predicting online purchases from clicks
+Most Popular Slideshare Presentations on Data Mining
+KDnuggets Exclusive: Marten Mickos, SVP, HP on the Role of Open Source in Cloud industry
+SQL School tackles the data analyst shortage
+Top stories for Nov 9-15: IBM Watson Analytics ?€? Will It Replace Data Scientists?
+R and Hadoop make Machine Learning Possible for Everyone
+The Analytics of Digital Transformation, according to TCS
+New Poll: Industries where you applied analytics / data mining in 2014?
+Top KDnuggets tweets, Nov 09-16: 8 Steps to Becoming a #DataScientist; Learn How Google Understands You
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Nov 18 and beyond
+Why Azure ML is the Next Big Thing for Machine Learning?
+Data Analytics Week for Government, Feb 23-25, Washington, DC
+
+
+
+
+
+Interview: Joseph Sirosh, Microsoft on How  Azure ML is Simplifying Predictive Analytics
+
+
+
+
+
+
+
+
+
+AnalyticsStreet Panel Report: Frontiers and Dangers of Analytics and Big Data
+
+TMA Predictive Analytics Data Mining Training,[Las Vegas, Dec | Orlando, Feb]
+PAW: Predictive Analytics World for Business, Mar 29 ?€? Apr 2, San Francisco
+KDnuggets 14:n30, Where did you apply analytics? IBM Watson vs Data Scientists
+A 3D Analytic Framework for Visual Data Discovery
+Companion Website for ?€?Data Mining and Analysis: Fundamental Concepts and Algorithms?€?
+Interview: Joseph Sirosh, Microsoft on Azure ML and the Emerging Data Science Economy
+Top KDnuggets tweets, Nov 17-18: Keep this #Python Cheat Sheet handy; Is #BigData The Most Hyped Technology Ever?
+Top KDnuggets tweets, Nov 19-20: 20 Insane Things That Correlate with Each Other
+White paper: How Analytics Is Shaping HR Role In Business
+Interview: Philip Maymin, NYU on How Optical Analytics will Revolutionize Basketball
+9 Must-Have Skills You Need to Become a Data Scientist
+Interview: Philip Maymin, NYU on Why Sports should Embrace Analytics?
+Highlights and PPTs from the IEEE Big Data 2014 conference
+Top stories for Nov 16-22: R, Hadoop make machine learning possible for all; Azure ML is the next big thing
+Cartoon: Thanksgiving, Big Data, and Turkey Data Science
+Top KDnuggets tweets last week, Nov 17-23: Keep this #Python Cheat Sheet handy; Is #BigData The Most Hyped Technology?
+Webinar: Data Mining: Failure to Launch [Dec 17]
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Nov 25 and beyond
+Update: Top LinkedIn Groups for Analytics, Big Data, Data Mining, and Data Science
+KDnuggets 14:n31, Update: Top LinkedIn Groups for Analytics; Cartoon: Thanksgiving Data Science
+Surfing the Big Data Wave at H2O World
+Data Science at University of Minnesota
+Most Popular Slideshare Presentations on Data Science
+LION Intelligent Learning and Optimization News
+Big Data Top Trends in 2015
+Most Popular Slideshare Presentations on Big Data
+Top KDnuggets tweets, Nov 24-25: Why So Many Data Ideas Fail: beware of building on public or others data
+Top KDnuggets tweets, Nov 26-28: Facebook AI team hires Vladimir Vapnik, father of SVM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top stories for Nov 23-29: Update: Top LinkedIn Groups for Analytics, Big Data, Data Mining, and Data Science
+Panel on Data Science Education, Dec 4
+"
+2014 Nov Webcasts  "
+
+"
+2014 Nov Top Tweets  "
+"
+2014 Nov Software  "
+"
+2014 Nov Publications  "
+"
+2014 Nov Opinions, Interviews, Reports  "
+"
+2014 Nov News, Features  "
+"
+2014 Nov Courses, Education  "
+Webinar: Data Mining: Failure to Launch [Dec 17]
+Top KDnuggets tweets last week, Dec 1-7: Hilarious ! If programming languages were vehicles; Big Data Scientists have the highest salaries
+Where Analytics, Data Mining, Data Science is applied
+Lexalytics: Stop ignoring your text data
+"
+2014 Nov Meetings  "
+PAW: Unwrap Holiday Cheer for Big Data
+TMA Predictive Analytics Data Mining Training [Orlando, Feb | Las Vegas, May]
+KDnuggets 14:n33, Where Analytics, Data Mining, Data Science is applied; Top trends for 2015
+Australia Analytics Professionals Skills and Salary Report
+Interview: Daqing Zhao, Macys.com on Advanced Analytics for Marketing in the Big Data era
+Top KDnuggets tweets, Dec 8-9: On the effects Analytics bring to enterprises; Use IBM #WatsonAnalytics to Crunch Data For Free
+VentureBeat Webinar, Dec 16: How EAT Club is using analytics to grow their business
+Interview: Daqing Zhao, Macys.com on Building Effective Data Models for Marketing
+IIA 2015 Analytics Predictions
+November 2014 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+New Poll: Will Artificial Intelligence be a threat to Humanity?
+2015 Predictions ?€? What?€?s Next for Data Scientists?
+KDnuggets Interview: Paul Zikopoulos, IBM on Why Big Data needs Polyglots
+Top KDnuggets tweets, Dec 10-11: Which one is the bunny? Google new CAPTCHA trains AI; Big Data in 2015: Security, #IoT, data markets
+FICO Analytics Competition: Helping Santa Helpers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KDnuggets Interview: Paul Zikopoulos, IBM on Big Data Opportunities and Challenges
+Top stories for Dec 7-13: Where Analytics, Data Mining, Data Science is Applied; Neural Networks, Brain, and Machine Learning
+
+Open Source Big Data Analytics Platform
+Our Iceberg is Melting.. Now where is that Data Scientist?
+Open Innovation in the Age of Big Data
+Most Demanded Data Science and Data Mining Skills
+Top KDnuggets tweets, Dec 7-14: Google new CAPTCHA trains #AI; Random Forests, SVM give best results
+16 NoSQL, NewSQL Databases To Watch
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Dec 16 and beyond
+Analyze And Visualize Chatter from Nigeria Elections 2015
+8 Things to Check when you analyze Twitter data
+IBM Watson Analytics vs. Microsoft Azure Machine Learning (Part 1)
+Spatial Data Platform from SpaceCurve for Real-Time Operational Intelligence
+National Data Science Bowl: Predict Ocean Health
+Cartoon: Unexpected Data Science Recommendations
+Top KDnuggets Analytics, Big Data, Data Science stories in 2014
+KDnuggets 14:n34, Is AI a threat? Most Demanded Skills; Cartoon: Unexpected recommendations; Watson vs Azure ML
+New RapidMiner Streams Simplifies Analytics on Apache Storm
+Interview: Peter Alvaro, UC Berkeley, on Consistency Challenge in Distributed Systems
+Open Source Tools for Machine Learning
+Top KDnuggets tweets, Dec 15-16: KDnuggets Cartoon: Unexpected Machine Learning Recommendations
+Data Analytics for Government, Wash. DC, Feb 23-25: Keynotes
+Interview: Peter Alvaro, UC Berkeley, on Managing Asynchrony and Partial Failure
+Data Mining (and Statistical Analysis) is LinkedIn Hottest Skill in 2014
+Top KDnuggets tweets, Dec 17-18: Why Amazon Ratings Might Mislead You; Open Source Tools for Machine Learning
+Interview: Brian Hampton, San Francisco 49ers on Playing Football the Analytics Way
+Eric Siegel vs Stephen Hawking on the risk of artificial intelligence
+BabelNet 3.0, Large Multilingual Dictionary and Semantic Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interview: Brian Hampton, SF 49ers on Competitive Edge through Football Analytics
+Consulting Request: Analyze Share Economy vertical
+2015 Predictions: What will happen to big data and data science?
+
+?€?Vite fait, bien fait?€? ?€? Averaging improves both accuracy and speed of time series classification
+DIY Crawlers vs. Crawlers as Service
+FICO Chief Analytics Officer Sees a Post?€?Big Data World in 2015
+UIC Big Data Symposium, Chicago, Mar 17, 2015
+Top KDnuggets tweets, Dec 15-21: Cartoon: Unexpected Machine Learning Recommendations; Data Science at the Command Line
+KDD-2015 Call for Papers, Workshop Proposals
+The Big Data of Wearables
+Top KDnuggets tweets, Dec 22-23: Great list: 20 new data viz tools of 2014; Review of ?€?Learning from Data?€? MOOC
+Hot or Not: Data Science Trends in 2015
+Interview: Mac Devine, CTO, IBM Cloud on the Fast Approaching Perfect Storm
+Low-cost Salford Hands-On Data Mining Mini Training, Jan 23, Phoenix
+BIME Business Intelligence Predictions for 2015
+Top KDnuggets tweets, Dec 24-25: 24 Data Science, Machine Learning Resources; Pregnant women can guess their children sex
+Year in Review: Top KDnuggets tweets in November
+Top stories for Dec 21-27: 2015 Predictions for big data and data science; The Big Data of Wearables
+KDnuggets 14:n35, Data Mining: Hottest Skill; 2015 Predictions; KDD-2015
+Top KDnuggets tweets, Dec 22-28: Top 10 Data Science Skills, and How to Learn Them; How to tell correlation from causation
+Interview: Mac Devine, CTO, IBM Cloud on the Conflux of Cloud, IoT & Big Data
+Interview: Ben Werther, CEO, Platfora on Why Big Data Needs Self-Service Tools
+Year in Review: Top KDnuggets tweets in October
+Interview: Ben Werther, CEO, Platfora on Insightful Analytics for Big Data
+"
+2014 Dec Webcasts  "
+"
+2014 Dec Top Tweets  "
+"
+2014 Dec Software  "
+"
+2014 Dec Opinions, Interviews, Reports  "
+Year in Review: Top KDnuggets tweets in September
+
+"
+2014 Dec Publications  "
+Top stories for Dec 14-20: Most Demanded Data Science/Data Mining Skills; Watson Analytics vs. Azure Machine Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+2014 Dec News, Features  "
+
+"
+2014 Dec Meetings  "
+
+"
+2014 Dec Courses, Education  "
+
+Top KDnuggets Analytics, Big Data, Data Science stories in 2014, updated
+Cartoon: Hello, Singularity
+Fundamental methods of Data Science: Classification, Regression And Similarity Matching
+Deep Learning in a Nutshell ?€? what it is, how it works, why care?
+Interview: Miriah Meyer, Univ. of Utah  on the Art and Science of Visualization
+December 2014 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Coursera / Stanford Mining Massive Datasets MOOC, Jan-Mar 2015
+Top KDnuggets tweets, Jan 5-11: Data Driven: Creating a Data Culture; Deep Learning in a Nutshell
+INFORMS Analytics and Data Science Education
+Lityx seeks to align with analytic individuals looking to have their own business
+Predictions: 2015 Analytics and Data Science Hiring Market
+Exclusive: Interview with Chris Wiggins, NYTimes Chief Data Scientist
+Wharton Online Course: Strategic Value of Customer Relationships
+Info Kit: Statistics, Predictive Modeling and Data Mining with JMP
+TMA Predictive Analytics, Data Mining Training [Orlando, Feb | Las Vegas, May]
+Open Data Science Conference Call for Speakers, Boston,  May 30-31
+CFP: ACM Transactions on Knowledge Discovery from Data
+ChaLearn Automatic Machine Learning Challenge (AutoML)
+MetaMind Competes with IBM Watson Analytics and Microsoft Azure Machine Learning
+10 Big Data Experts to Know
+Top KDnuggets tweets, Jan 12-13: Dilbert on analytics of #dating and A/B testing; Convolutional Neural Nets (LeNet)
+Deep Learning can be easily fooled
+CFP: Sentiment Analysis Symposium + Workshops 2015
+Interview: Amit Sheth, Kno.e.sis on Deriving Value from Big Data through Smart Data
+Interview: Amit Sheth, Kno.e.sis on Deriving Actionable Insights from Social Data
+How to interview a data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DMA Marketing Analytics Conference, Chicago, Mar 9-11
+
+Interview: Amit Sheth, Kno.e.sis on Designing Academic Curriculum for Data Science
+Top KDnuggets tweets, Jan 14-15: 10 FB likes predicts personality better than a co-worker; A Deep Dive into Recurrent Neural Nets
+Top stories for Jan 11-17: Research Leaders on Data Mining/Big Data key trends, top papers; Deep Learning in a Nutshell
+Top SlideShare Presentations on Big Data, updated
+IE Masters in Analytics and Big Data ?€? first hand report
+Top /r/MachineLearning posts, Jan 11-17
+Simple Data Science of Global Warming
+Genetics as a Social Network ?€? A Data Scientist Perspective
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jan 20 and beyond
+RapidMiner Academia makes RapidMiner freely available to students, academics worldwide
+Webinar: 3 Ways to Improve your Regression, Feb 10
+Can noise help separate causation from correlation?
+The High Cost of Maintaining Machine Learning Systems
+Top KDnuggets tweets, Jan 12-18: Dilbert looks at #analytics of #dating and A/B testing; Deep Learning and Human Beings
+Interview: Arno Candel, H2O.ai on the Basics of  Deep Learning to Get You Started
+Interview: Arno Candel, H20.ai on How to Quick Start Deep Learning with H2O
+Metis Data Science Bootcamp Open House, New York City, Feb 3
+8 Trends In Big Data For 2015
+Top KDnuggets tweets, Jan 19-20: 15 programming languages you need to know in 2015; R Programming fun: writing a Twitter bot
+Learn how to develop a Chief Data executive role, March 30-31, Boston
+Big Data Bootcamp, Austin, Apr 10-12
+Innovation Enterprise Data Science and Hadoop Innovation Summits, San Diego, Feb 12-13
+Interview: Arno Candel, H2O.ai on the Journey from Physics to Machine Learning
+BioASQ challenge on large-scale biomedical semantic indexing and question answering
+Shining Light on Dark Data
+Top KDnuggets tweets, Jan 21-22: Palantir vs AirBnB ?€? data mining to crack down on AirBnB hosts; AI program can beat almost any human in poker
+Interview: John Schitka, SAP on How to Get Started with Big Data
+UDEL: Certificate in Analytics: Optimizing Big Data
+Microsoft buys Revolution Analytics
+
+Text Analysis 101: Document Classification
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interview: John Schitka, SAP on The Type of Data Scientists We Need
+Top stories for Jan 18-24: Basics of Deep Learning to Get You Started; Top SlideShare Presentations on Big Data, updated
+
+MLDAS 2015: Machine Learning and Data Analytics Symposium ?€? Qatar, Mar 9-10
+simplilearn Big Data & Analytics Certification Courses Online, 30% off till Jan 31
+Top /r/MachineLearning posts, Jan 18-24: K-means clustering is not  a free lunch; A Deep Dive into Recurrent Neural Nets
+
+Top KDnuggets tweets, Jan 19-25: Facebook open sources its Deep Learning tools; Intro to Python and IPython for Data Mining
+(Deep Learning?€?s Deep Flaws)?€?s Deep Flaws
+KDnuggets Free Pass to Strata Hadoop World San Jose, Feb 17-20, 2015
+Interview: Nandu Jayakumar, Yahoo on What Does One Need for Big Data Success
+Interview: Anthony Bak, Ayasdi on Managing Data Complexity through Topology
+Interview: Nandu Jayakumar, Yahoo on How Yahoo is Harnessing Big Data
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jan 27 and beyond
+Data Science 102: K-means clustering is not a free lunch
+Year 2014 in Review as Seen by a Event Detection System
+Top KDnuggets tweets, Jan 26-27: Sample Machine Learning solutions with R on Azure ML Marketplace
+Don?€?t Miss Strata Hadoop World, San Jose, Feb 17-20, 2015
+Interview: Anthony Bak, Ayasdi on Novel Insights using Topological Summaries
+
+KDD-2015 Call for Papers, Workshop proposals
+
+CIOs name BI and analytics No. 1 investment priority for 2015
+GoodData Insights as a Service guides users thru the analytics process
+PAW: Predictive Analytics World and Text Analytics World, Spring 2015, San Francisco
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interview: Anthony Bak, Ayasdi on How to Get Started on Topology
+
+Webinar: The Pragmatic Text Miner, Feb 11
+BioEye 2015 ?€? Competition on Biometrics via Eye Movements
+Top KDnuggets tweets, Jan 28-29: Top open source web crawlers for data mining; Listen to Edward Tufte, guru of Data Visualization
+"
+2015 Jan Top Tweets  "
+Why unsupervised learning is more robust to adversarial distortions
+Big Data Could Revolutionize Healthcare. Will We Let it?
+Data Science?€?s Most Used, Confused, and Abused Jargon
+Interview: Phani Nagarjuna, Nuevora on Right Data and Business Analytics Roadmap
+"
+2015 Jan Software  "
+TMA Predictive Analytics Data Mining Training [Orlando, Mar | Las Vegas, Apr]
+
+"
+2015 Jan Webcasts  "
+
+
+
+
+
+
+
+"
+2015 Jan Publications  "
+
+
+
+
+
+
+
+
+
+
+
+Info Kit: Statistics, Predictive Modeling, Data Mining with JMP
+
+PAW: How Predictive Analytics Reinvents These Six Industries
+Expert Training within Reach
+KDnuggets Annual Poll: Analytics/Data Science/Data Mining income/salary, role, and employment
+Top Analytics and Big Data Trends ahead of Strata Hadoop World San Jose
+Big Data Innovators Under 35
+Interview: M.C. Srivas, MapR on Demystifying the Art of Processing Massive Data
+Top KDnuggets tweets, Feb 9-10: Teach #Python or R for #DataScience? #BigData suprising finding on Divorce
+Ontotext: Integrated Text Mining and Triplestores, a form of graph database
+Lipari Summer School: Algorithms, Data, and Models for Social and Urban Systems
+Statistics.com Online Data Science Courses and Certificates
+Interview: M.C. Srivas, CTO, MapR on Data Agility ?€? The Next Frontier of Big Data
+My Brief Guide to Big Data and Predictive Analytics for non-experts
+Cartoon: Data Scientist gets 3 wishes for Valentine?€?s Day
+Top /r/MachineLearning posts, January
+NYC DSA Data Science Bootcamp,, June 1 ?€? August 21
+Top KDnuggets tweets, Feb 11-12: Automating romance with Eigenfaces; My Brief Guide to Big Data, Predictive Analytics for non-experts
+Top stories for Feb 8-14: 10 things statistics taught us about Big Data; Data Science Most Confused Jargon
+Tinderbox: Automating Romance with Tinder and Eigenfaces
+Active Data Mining, Data Science blogs
+"
+2015 Jan News, Features  "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Webinar: Drive effective text analytics initiatives, Feb 19
+Top KDnuggets tweets, Feb 9-15: Why limit yourself to ?€?50 Shades of Grey??€? R has 102 shades; Why Electric Cars Dont Have Better Batteries
+Interview: David Kasik, Boeing on How Visual Analytics is Improving Aviation Safety
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Feb 17 and beyond
+Big Data Innovation Summit, San Jose, Apr 28-29, 2015
+Top /r/MachineLearning Posts, Feb 8-14: Automating Tinder, Statistics and Machine Learning
+TEDx RheinMain Datanauts Competition
+Automatic Statistician and the Profoundly Desired Automation for Data Science
+January 2015 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+"
+2015 Jan Meetings  "
+"
+2015 Jan Courses, Education  "
+"
+2015 Jan Opinions, Interviews, Reports  "
+Statistics.com courses on RESTful APIs
+Fun and Top! US States in 2 Words using twitteR
+Big Data, Privacy, and Security ?€? which side are you on?
+History of Data Science Infographic in 5 strands
+Tamr Enterprise Platform for Scalable, End-to-End Data Unification
+Data Mining finds JASBUG, a Critical Security Vulnerability
+Prismatic Interest Graph [API]: Organize and Recommend Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Watch Keynotes Live: Strata + Hadoop World San Jose, Feb 19-20
+
+Top KDnuggets tweets, Feb 16-17: Most Popular Coding Languages of 2015; History of Data Science across 5 strands
+
+
+
+Top stories for Feb 15-21: 10 things statistics taught us about big data analysis; History of Data Science in 5 strands
+Interview: David Kasik, Boeing on Data Analysis vs Data Analytics
+Gartner 2015 Magic Quadrant for Advanced Analytics Platforms: who gained and who lost
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Feb 24 and beyond
+Simplilearn Big Data and Analytics Online Courses
+Top KDnuggets tweets, Feb 18-19: New Face Detection Algorithm to revolutionize search; How to transition from Excel to R
+Google BigQuery Public Datasets
+Statistical Learning and Data Mining III: 10 Hot Ideas for Learning from Data, Mar 19-20, Palo Alto
+Top KDnuggets tweets, Feb 16-22: History of Data Science across 5 strands; Most Popular Coding Languages of 2015
+Top /r/MachineLearning Posts, Feb 15-21: The Elephant in the Room of ML Research
+Top KDnuggets tweets, January: Good list of Machine Learning Resources, Deep Learning, Graphical Models; Sample solutions with R on Azure ML Marketplace
+RE.WORK Deep Learning Summit, San Francisco, January ?€? videos, presentations
+Big Data TechCon, the HOW-TO conference, Boston, April 26-28
+PAW San Francisco: Learn Uplift Modeling
+
+
+
+
+
+
+
+Beagli: Finding value in your personal data
+
+
+
+
+
+Interview: Nicholas Marko, Geisinger on the Groundwork for Big Data Success
+
+
+
+
+
+
+
+
+
+Interview: Nicholas Marko, Geisinger on the Skills Needed for Healthcare Analytics
+IBM Big Data & Analytics Heroes
+5 Lessons from a Data Science Chat
+Top KDnuggets tweets, Feb 23-25: Microsoft is building fast, low-power Deep Learning networks; Lucrative tech careers: Data Scientist, Data Engineer
+Interview: Nicholas Marko, Geisinger on Building the Analytics Culture for Healthcare
+Simplilearn Big Data, Analytics Online Certification Courses ?€? 50% off for a limited time
+The Internet of People: 4 key principles for analyzing personal data
+Brandeis Analytics Symposium, Apr 8: Industry Insights into Data and Intelligence
+Strata + Hadoop World 2015 San Jose ?€? report and highlights
+IEEE ICDM 2015 Call for Data Mining Contest/Competition Proposals, due Mar 29
+"
+2015 Feb Webcasts  "
+
+
+
+
+
+"
+2015 Feb Software  "
+
+
+
+
+
+
+
+"
+2015 Feb Publications  "
+
+
+Webinar: Data Mining: Failure to Launch [Mar 11]
+"
+2015 Feb Top Tweets  "
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Mar 10 and beyond
+NoSQL matters Paris, a conference for developers, architects and geeks, Mar 26-27
+Northwestern Online MS in Predictive Analytics
+OpenDataSciCon ?€? Data Science for All: What Do You Need ?
+PAW San Francisco: The Pentagon of Data Analytics Events, Mar 29 ?€? Apr 2
+Strata + Hadoop World 2015 San Jose ?€? Day 2 Highlights
+Interview: Slava Akmaev, Berg on Challenges in Transitioning Analytics to Clinical Utility
+KDD-2017, top conference on Data Mining, Data Science Research coming to Halifax, Canada
+Machine Learning Table of Elements Decoded
+10 Steps to Success in Kaggle Data Science Competitions
+SQL-like Query Language for Real-time Streaming Analytics
+Wharton Successful Applications of Customer Analytics Conference, Apr 30, Philadelphia
+Deep Learning, The Curse of Dimensionality, and Autoencoders
+Interview: Josh Hemann, Activision on Taming the Beast of Gaming Big Data
+Interview: Josh Hemann, Activision on Why the Tolerance for Ambiguity is Vital
+Feb 2015 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Simplilearn Big Data and Analytics Courses ?€? CAREER30
+Top KDnuggets tweets, Mar 09-11: Learning path from noob to Kaggler in Python; 10 steps for success in Kaggle competitions
+Interview: Kenneth Viciana, Equifax on Data Lake & Other Strategies for Insights Culture
+Top Big Data influencers of 2014, according to HadoopSphere
+Cartoon: US Chief Data Scientist Most Difficult Challenge
+Deep Learning for Text Understanding from Scratch
+"
+2015 Feb Meetings  "
+"
+2015 Feb Courses, Education  "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coursera: Process Mining: Data science in Action, April 2015
+
+Strata + Hadoop World London, 5-7 May 2015
+Participate in the Rexer Analytics 2015 Data Miner Survey
+Report ?€? MLconf: what industry leaders say about machine learning
+Interview: Kenneth Viciana, Equifax on Data Governance ?€? Red Tape or Catalyst?
+White House report on Big Data and Differential Pricing
+Top stories for Mar 8-14: 7 common Machine Learning mistakes; Deep Learning for Text Understanding from Scratch
+New Poll: Computing platform for your analytics, data mining, data science work or research
+KDnuggets Free Pass to Big Data TechCon How-To Conference, Apr 26-28, Boston
+IEEE ICDM 2015 Call for Papers, Workshops, Contest proposals, demos, and tutorials
+Interview: Dave McCrory, Basho on Why Data Gravity Cannot be Ignored in Architecture Design
+"
+2015 Feb Opinions, Interviews, Reports  "
+NYC Data Science Courses, Bootcamps, Meetups
+PACE Data Mining Bootcamps, San Diego, April
+"
+2015 Feb News, Features  "
+Ontotext Webinar: Semantic Publishing, Enhancing Content and Engagement, Mar 26
+Ontotext Introduces the S4 Developer Challenge
+Top KDnuggets tweets, Mar 12-15: Cartoon: the most difficult challenge facing the 1st US Chief Data Scientist @dpatil
+Small Data requires Specialized Deep Learning and Yann LeCun response
+
+Interview: Vince Darley, King.com on What do you need to become Top Grossing Game
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Mar 17 and beyond
+Interview: Dave McCrory, Basho on Distributed Database Needs of a Future Enterprise
+
+
+
+
+Interview: Vince Darley, King.com on the Serious Analytics behind Casual Gaming
+
+
+
+
+
+
+
+
+
+Top /r/MachineLearning Posts, Mar 8-14: Word vectors, Hardware for Deep Learning, and Neural Graphics Engines
+
+
+Interview: Brad Klingenberg, StitchFix on Building Analytics-powered Personal Stylist
+
+
+2015 SIGKDD Data Science/Data Mining PhD Dissertation Award ?€? Nominations due Apr 30
+
+Interview: Brad Klingenberg, StitchFix on Decoding Fashion through Analytics and ML
+useR 2015 ?€? R User conference, Aalborg, Denmark, June 30 ?€? July 3
+Top KDnuggets tweets, Mar 16-18: 87 Studies shown that accurate numbers aren?€?t more useful than the ones you make up (Dilbert)
+Automatic Statistician is here: Dr. Mo
+Do We Need More Training Data or More Complex Models?
+Top stories for Mar 15-21: Deep Learning for Text Understanding from Scratch; White House on Big Data and Differential Pricing
+Data science done well looks easy, which is a big problem
+Top 10 UK Big Data Professionals
+PASS Business Analytics Conference, Santa Clara, April 20-22
+GBDC: Real-Time Big Data Developer (focus on Spark, Storm, Flink, Kafka), Santa Clara, Apr 23-24
+PAW: Learn the ways predictive analytics bolsters insurance
+Interview: Beena Ammanath, GE on Data Science ?€? It?€?s Not Just Science!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Catch the Wave at Analytics 2015, the Leading Analytics, Big Data Conference, Huntington Beach, April 12-14
+
+
+
+
+Talking Machine ?€? 3 Deep Learning Gurus Talk about History and Future of Machine Learning, part 1
+More Free Data Mining, Data Science Books and Resources
+Database Pioneer Michael Stonebraker Wins ACM Turing Award, Computing ?€?Nobel Prize?€?
+Talking Machine ?€? 3 Deep Learning Gurus Talk about History and Future, part 2
+Interview: Bill Moreau, USOC on Evidence-based Medicine to Reduce Sports Injuries
+The Grammar of Data Science: Python vs R
+Top KDnuggets tweets, Mar 19-22: Tensor methods for Machine Learning; Tibco survey: Big Data top use cases
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Mar 24 and beyond
+Text Analytics 2015 ?€? Technology and Market Overview
+Interview: Beena Ammanath, GE on the Industrial Internet for Data-driven Innovation
+TMA Predictive Analytics Data Mining Training [Wash. DC, May | Toronto, Aug]
+Data Science as a profession ?€? time is now
+Interview: Satyam Priyadarshy, Halliburton on Big Data Challenges in Oil & Gas Industry
+Top KDnuggets tweets, Mar 23-25: 24 free resources on Data Mining, Data Science; More Training Data or More Complex Models?
+
+
+
+
+PredictionIO (Open Source Version) vs Microsoft Azure Machine Learning
+
+Interview: Bill Moreau, USOC on Empowering World?€?s Best Athletes through Analytics
+
+
+
+
+
+
+
+Interview: Bill Moreau, USOC on the Pursuit of a Career in Sports Analytics
+
+
+
+
+
+
+
+
+Top stories for Mar 22-28: More Free Data Mining, Data Science Books; PredictionIO vs Microsoft Azure Machine Learning
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Mar 31 and beyond
+Interview: Satyam Priyadarshy, Halliburton on Unlocking Success for Big Data Projects
+Top KDnuggets tweets, Mar 26-29: The Basic Recipe for #MachineLearning in one slide; The Grammar of Data Science ?€? comparing Python and R
+Top /r/MachineLearning Posts, Mar 22-28: Deep Learning flaws & Security, DeepMind Publications, and Keras
+How Big Data Can Improve the Lives of the Poor
+"
+2015 Mar Software  "
+"
+2015 Mar Top Tweets  "
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Apr 7 and beyond
+Top KDnuggets tweets, Apr 2-5: The Data Science ecosystem: Data wrangling useful tools and tips
+ICDM 2015: Nobel Prize Winner, Machine Learning Guru, and Facebook Data Scientist to Keynote
+Wharton Successful Applications of Customer Analytics Conf., Apr 30, Philadelphia
+Be Smarter Than Your Devices: Learn About Big Data
+
+"
+2015 Mar Publications  "
+
+
+
+
+
+"
+2015 Mar Webcasts  "
+
+
+
+
+
+
+
+
+
+
+
+Predictive Analytics Innovation Summit, San Diego: Day 1 Highlights
+Interview: Ravi Iyer, Ranker on Why Crowdsourcing Needs Data Science
+Top stories in March: 7 common Machine Learning mistakes; Deep Learning for Text Understanding from Scratch
+Interview: Ravi Iyer, Ranker on Dealing with Inherent Bias in Crowdsourcing Data
+Machine Learning 201: Does Balancing Classes Improve Classifier Performance?
+Predictive Analytics Innovation Summit, San Diego: Day 2 Highlights
+What do you want to learn? Big Data TechCon How-To Conference, Apr 26-28, Boston
+Inside Deep Learning: Computer Vision With Convolutional Neural Networks
+Interview: Xia Wang, AstraZeneca on Unraveling Patient Treatment Journey by NLP on Clinical Notes
+March 2015 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Algorithmia ?€? How Marketplaces are Fostering Innovation?
+Top /r/MachineLearning Posts, Mar 29-Apr 4: Andrew Ng AMA, Deep Learning for NLP, and OpenCL Convnets
+Interview: Xia Wang, AstraZeneca on Big Data and the Promise of Effective Healthcare
+Wikibon Big Data Vendor Revenue and Market Forecast, 2020
+Join us for Predictive Analytics Events in Chicago June 2015
+Top stories for Apr 5-11: 10 things statistics taught us about big data analysis; Awesome Public Datasets on GitHub
+CourseBuffet: Organizing MOOC Courses on Big Data, Data Science, Statistics
+
+
+
+
+"
+2015 Mar Courses, Education  "
+
+
+
+
+
+
+
+
+
+
+
+
+
+KDnuggets Free Pass to Strata Hadoop World London, 5-7 May, 2015
+NYC Data Science Academy Bootcamps, Classes on R, Python, and Machine Learning
+UMass Amherst Big Data Report
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Apr 14 and beyond
+"
+2015 Mar Meetings  "
+Top KDnuggets tweets, Apr 6-13: Languages have more ?€?happy?€? words, esp. Spanish; Popular similarity measures in Python
+Interview: Michael Lurye, Time Warner Cable on Big Data and the Insatiable Demand for BI
+Provalis Research WordStat for Stata combines Numerical, Text Analysis
+TDWI Chicago Special Offer ?€? Respond by Apr 17
+Interview: Michael Lurye, Time Warner Cable on Key Lessons from Shifting to Hadoop
+Top /r/MachineLearning Posts, Apr 5-11: Amazon Machine Learning, Numerical Optimization, and Conditional Random Fields
+Webinar: Implementing a Better Search Experience, April 28
+"
+2015 Mar News, Features  "
+The State of the Text Analytics Industry ?€? 2015 White Paper
+Math of Ideas: A Word is Worth a Thousand Vectors
+Baby Boom: Udemy Excel Tutorial on Analyzing Large Data Sets
+Domo: From Big Data to Big Decisions Infographic and BI Guide
+Interview: Ksenija Draskovic, Verizon on Dissecting the Anatomy of Predictive Analytics Projects
+Cloud Machine Learning Wars: Amazon vs IBM Watson vs Microsoft Azure
+Interview: Ksenija Draskovic, Verizon on How to Not Get Lost in the Big Data Wilderness
+Ventana Predictive Analytics Research, take part and get exclusive report
+Cartoon: A solution for Data Scientists allergies caused by Big Data
+Top LinkedIn Groups for Analytics, Big Data, Data Mining, and Data Science ?€? from ?€?Big Bang?€? to Now
+Data Science 101: Preventing Overfitting in Neural Networks
+Interview: Ksenija Draskovic, Verizon on Conquering Fear and Cherishing Creativity for Success in Data Science
+Top stories for Apr 12-18: Awesome Public Datasets on GitHub; Cloud Machine Learning Wars: Amazon vs IBM Watson vs Microsoft Azure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+2015 Mar Opinions, Interviews, Reports  "
+
+
+PAW San Francisco 5 Min Recap ?€? Predictive Analytics World
+
+Algorithmia: Building a web site explorer in 5 easy steps
+smartcon: Big Data, Big Ideas conference with world-renowned experts, Istanbul, 26-27 May
+
+Linkurious Enterprise democratizes graph visualization
+Interview: Michael Li, Data Incubator on Data-driven Hiring for Data Scientists
+Penn State Online Business Analytics Certificate
+Webinar: Identifying Users Across Platforms with a Universal ID, Apr 28, by Looker + Segment
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Apr 21 and beyond
+Algorithmia Tested: Human vs Automated Tag Generation
+The Imminent Future of Predictive Modeling
+Top 10 R Packages to be a Kaggle Champion
+Interview: Michael Li, Data Incubator on Bridging the Data Science Skills Gap between Academia and Industry
+Top KDnuggets tweets, Apr 14-20: Modern Methods for Sentiment Analysis; Basics of SQL, RDBMS ?€? must have skills
+Deep Learning to Fight Crime
+Salford Webinar: Maximizing ROI with State-of-the-art Data Science Techniques, Apr 28
+Map of the Complexity Sciences ?€? from von Neumann & Kolmogorov to Hofstadter and Piatetsky-Shapiro (?)
+UC Analytics Summit 2015, Cincinnati, May 29
+Interview: Emmanuel Letouz??, Data-Pop Alliance on Big Data and Human Rights ?€? A Complex Affair
+Salford Quickstart Data Mining Training in Washington, DC, May 15
+Top /r/MachineLearning Posts, Apr 12-18: Andrew Ng AMA, Autoencoders, and Deep Learning Textbooks
+Big Data Bootcamp, Austin: Day 2 Highlights
+KDnuggets Poll: Future of Predictive Analytics: Human or Machine?
+Interview: Emmanuel Letouz??, Data-Pop Alliance on the Role of Big Data in Economic Development
+Data Mining: New Comprehensive Textbook by Charu Aggarwal
+Data Lakes for Big Data, Free MOOC from EMC
+Big Data Bootcamp, Austin: Day 3 Highlights
+MapR on Open Data Platform: Why we declined
+HappyGrumpy ?€? Free Twitter Sentiment Analysis and Data
+
+
+Big Data Bootcamp, Austin: Day 1 Highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Myth of Model Interpretability
+Top /r/MachineLearning Posts, Apr 19-25: Neural nets for nipple detection; NHL Goal celebration hack
+Interview: Mario Vinasco, Facebook on Advancing Marketing Analytics through Rigorous Experimentation
+Interview: Emmanuel Letouz??, Data-Pop Alliance on Big Data for Development and Future Prospects
+Open drives Boston Open Data Science Conference, May 30-31
+Data Science Open House Apr 29, Online or In-Person, NYC
+TMA Predictive Analytics Data Mining Training [Wash. DC, May | Toronto, Aug]
+Text Analytics, Text Mining Courses on Statistics.com
+Interview: Emmanuel Letouz??, Data-Pop Alliance on Democratizing the Benefits of Big Data
+Top KDnuggets tweets, Apr 21-27: Great discussion: Building Big Data systems in academia, industry; Deep Learning in a Nutshell
+Data Scientists Thoughts that Inspire
+Kaggle Competition (Facebook recruiting): Human or Robot?
+Interview: Haile Owusu, Mashable on Riding the Wave of Viral Content
+Closer Look: Data Mining and Knowledge Discovery Journal
+New Hybrid Rare-Event Sampling Technique for Fraud Detection
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Apr 28 and beyond
+Top stories for Apr 19-25: Top LinkedIn Groups for Analytics, Big Data, Data Mining; 10 R Packages for a Kaggle Champion
+Webinar: Data Mining: Failure to Launch,[May 5]
+How to become a Data Scientist ?€? brief answer
+"
+2015 Apr Opinions, Interviews, Reports  "
+On the Shelf: Data Science Books
+Download IKANOW?€?s ?€?Beyond the Kill Chain?€? eBook
+"
+2015 Apr Webcasts  "
+10 reasons why how-old.net went viral and how does it work?
+"
+2015 Apr Top Tweets  "
+Interview: Michael Stonebraker, greatest living contributor to database technology
+"
+2015 Apr Software  "
+Interview: Alison Burnham, Scorebig on Optimal, Real-time Pricing through Analytics
+"
+2015 Apr Publications  "
+April 2015 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Most Viewed Big Data Videos on YouTube
+Lavastorm Webinar: Demystify Your Data Flows for Better Regulatory Compliance, May 19
+"
+2015 Apr Meetings  "
+Top April stories: Awesome Public Datasets on GitHub; Forrester Wave Big Data Predictive Analytics ?€? Gainers and Losers
+Gaming Analytics Summit 2015, San Francisco ?€? Day 1 Highlights
+"
+2015 Apr Courses, Education  "
+Interview: Mark Weiner, Temple University  Health System on Maturity Assessment of Healthcare Analytics
+Gaming Analytics Summit 2015, San Francisco ?€? Day 2 Highlights
+"
+2015 Apr News, Features  "
+Ontotext: Creating Actionable Insights from Life Sciences and Healthcare Data, May 14
+Cartoon: Data Scientist Mother
+CRN Big Data Business Analytics Companies
+Top stories for May 3-9: Data Scientists Automated by 2025? The Inconvenient Truth About Data Science
+PAW Chicago: The Power of Predictive Analytics World ?€? Why the buzz?
+Angoss: 5 Predictive Analytics Lessons from a Decision Management Guru, May 21 Webinar
+3 Things About Data Science You Won?€?t Find In Books
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? May 12 and beyond
+Last chance ?€? Participate in the Rexer Analytics 2015 Data Miner Survey ?€? before it closes May 30
+Plotly: Online Dashboards That Update Your Data and Graphs
+Salford: 3 Ways to Improve your Targeted Marketing with Analytics, May 28
+Trifacta ?€? Wrangling US Flight Data
+Interview: Hobson Lane, SHARP Labs on the Beauty of Simplicity in Analytics
+Seven Techniques for Data Dimensionality Reduction
+Machine Learning Wars: Amazon vs Google vs BigML vs PredicSis
+Interview: Mark Weiner, Temple University Health System on Addressing Healthcare Data Gaps through Advanced Simulation
+Top KDnuggets tweets, May 4-11: Why #HowOldRobot went viral and how does it work? 3 Things About #DataScience You Won?€?t Find In Books
+Predictive Analytics World Workforce 2015: Highlights
+Should Data Science Really Do That?
+In-Memory Computing Summit, San Francisco, June 29-30
+Interview: Hobson Lane, SHARP Labs on How Analytics can Show You ?€?All the Light You Cannot See?€?
+INFORMS Analytics courses: Discrete-Event Simulation, Essential Practice Skills for Analytics Professionals
+Data Scientists Thoughts that Make Me Happy: Chris Wiggins
+Cloud Machine Learning?€?s Ostrich Mania & Uncanny Valley
+Surprising Random Correlations
+How to Lead a Data Science Contest without Reading the Data
+Most Viewed Data Mining Videos on YouTube
+Will the Real Data Scientists Please Stand Up?
+Stanford Webinar: Big Data + Electronic Health Records = Better Healthcare, June 18
+Data Science for Workforce Optimization: Reducing Employee Attrition
+ebook: Learning Apache Mahout, Big Data Analytics
+ebook: Learning Apache Mahout Classification
+Strategies for Monetizing Big Data
+Top stories for May 10-16: Poll: Analytics, Data Mining software used; 3 things about Data Science not in books
+R vs Python, why each is better
+Interview: Sheridan Hitchens, Auction.com on Customer Lifetime Value as the Cornerstone for Marketing Analytics
+UC Analytics Summit, Cincinnati, May 29, 2015
+Big Data Lessons from Microsoft ?€?how-old?€? Experiment
+I?€?ve Been Replaced by an Analytics Robot
+Simplilearn: Big Data, Analytics online courses discount, Free ebook
+CRN 2015 Big Data Management Companies
+PAW Chicago: Five Unbeatable Analytics Workshops
+Cartoon: How Smart Do You Look?
+Interview: Antonio Magnaghi, TicketMaster on Unifying Heterogeneous Analytics through Lambda Architecture
+Top 10 Data Mining Algorithms, Explained
+Essays On Statistics Denial
+Exclusive Interview: Matei Zaharia, creator of Apache Spark, on Spark, Hadoop, Flink, and Big Data in 2020
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? May 19 and beyond
+Interview: Antonio Magnaghi, TicketMaster on Why Honesty is Key for Analytics Success
+R leads RapidMiner, Python catches up, Big Data tools grow, Spark ignites
+White House sees Data as the 21st Century  Catalyst for Effective Policing
+Top KDnuggets tweets, May 12-18: Hadoop demand falls; Andrew Ng Machine Learning class, excellent course notes
+Interview: Linda Powell, Consumer Financial Protection Bureau (CFPB) on Data Governance for Finance Industry
+R vs Python for Data Science: The Winner is ?€?
+Dark Knowledge Distilled from Neural Network
+5 Not-to-be-Missed Ideas about Big Data
+Top KDnuggets tweets, May 19-25: KDnuggets Poll: R leads RapidMiner, Python catches up, Spark ignites; Choosing a Learning Algorithm in Azure ML
+Deep Learning and Big Data Products: Synthos Technologies
+CRN 2015 Big Data Infrastructure Companies
+150 Most Influential People in Big Data & Hadoop
+Insights from Data Science Handbook
+21 Essential Data Visualization Tools
+Applied Statistics Is A Way Of Thinking, Not Just A Toolbox
+Miner3D Data Visualization System Version 8
+Spark Summit, the leading edge of Big Data, San Francisco, June 15-17
+How to reduce Data Hoarding, get Better Visualizations and Decisions
+Trifacta ?€? Wrangling US Flight Data, part 2
+CRN 2015 Emerging Big Data Vendors
+Discover the WHY behind your Customer Scores, June 10 webinar with Seth Grimes
+Top stories for May 17-23: 7 Methods for Data Dimensionality Reduction; Will the Real Data Scientists Please Stand Up?
+INFORMS Essential Practice Skills for Analytics Professionals + Baseball Night
+"
+2015 May Opinions, Interviews, Reports  "
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? May 26 and beyond
+Looker: Why and When to Embed Business Intelligence, June 10 Webinar
+Top stories for May 24-30: R vs Python for Data Science; R leads RapidMiner, Python catches up, Spark ignites
+Top stories for Jun 7-13: Top 20 Python Machine Learning Projects; Which Big Data, Data Mining, Data Science Tools go together?
+The Big Data EMeetup, as mass online role playing game, July 7
+Decision Boundaries for Deep Learning and other Machine Learning classifiers
+"
+2015 May Software  "
+Advancing Analytics 2015, Sydney, Australia, August 4, 2015
+Interview: Joseph Babcock, Netflix on Discovery and Personalization from Big Data
+"
+2015 May Webcasts  "
+Not So Fast: Questioning Deep Learning IQ Results
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jun 16 and beyond
+Interview: Joseph Babcock, Netflix on Genie, Lipstick, and Other In-house Developed Tools
+Top KDnuggets tweets, Jun 09-15: Which Big Data, Data Mining, Data Science Tools go together? Good Comparison of ML classifiers
+New Machine Learning and Data Science Books ?€? Save 20%
+OCR The 50 Best Masters in Data Science, BI ?€? critical review
+"
+2015 May Top Tweets  "
+In Machine Learning, What is Better: More Data or better Algorithms
+Become a Predictive Analytics Superhero
+Big Data Developer Conference and Training, Seattle Aug 17-19
+Interview: Joseph Babcock, Netflix on Curiosity and Courage ?€? Key for Success in Data Science
+Spark Summit 2015 San Francisco ?€? Day 1 Keynote Highlights
+Webcast: Tech expert Phil Simon on exploring data
+Big Data Developer Conference and Training, Raleigh, Aug 24-26
+Popular Deep Learning Tools ?€? a review
+I?€?m a data scientist ?€? mind if I do surgery on your heart?
+Strata + Hadoop World, New York City, Sep 29 ?€? Oct 1, KDnuggets discount
+Simplilearn: Flat 30% off on 7-course Big Data package until June 22
+Big Data Bootcamp, Austin, Aug 28-30
+"
+2015 May Publications  "
+IKANOW Cyber Analytics Platform revolutionizing cybersecurity
+Advancing Analytics ?€? Global Analytics Leaders to Speak in Sydney, Aug 4
+Spark Summit 2015 San Francisco ?€? Day 2 Keynote Highlights
+"
+2015 May Meetings  "
+10 reasons why I love data and analytics
+KDD-2015, Sydney, August 10-12, Early Bird Reg Deadline June 30
+How to Visualize your Facebook Network
+Survey: Top Management Support and Data Mining Success
+Top stories for Jun 14-20: Which Big Data, Data Mining Tools go together? Popular Deep Learning Tools
+New Poll: Primary Programming Language for Analytics, Data Mining, Data Science?
+Model-Based Machine Learning, Free Early Book Draft
+"
+2015 May News, Features  "
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jun 23 and beyond
+Introduction to Big Data with Apache Spark
+Forrester Research: Benchmark Your BI Environment for Continuous Improvement
+Interview: Anil Gadre, MapR on What it takes to Automate Data-to-Action?
+"
+2015 May Courses, Education  "
+Top 10 Machine Learning Videos on YouTube
+Why Does Deep Learning Work?
+Interview: Anil Gadre, MapR on 3 Keys for Big Data Success: Reliability, Security, & Scalability
+Global Big Data Conference, Santa Clara, Sep 1-3
+Top 20 R Machine Learning and Data Science packages
+Data Science and Mobile Devices: Joined at the Hip
+Top 20 R packages by popularity
+Using Ensembles in Kaggle Data Science Competitions ?€? Part 1
+Using Ensembles in Kaggle Data Science Competitions ?€? Part 2
+Webinar: Data Mining: Failure to Launch,[July 9]
+Excellent Tutorial on Sequence Learning using Recurrent Neural Networks
+Big Data Big Impact on the Future of Advertising
+Using Ensembles in Kaggle Data Science Competitions- Part 3
+Nine Laws of Data Mining, part 1
+Top stories for Jun 21-27: Popular Deep Learning Tools; Why Does Deep Learning Work?
+KDnuggets Interview: Amr Awadallah, CTO & Co-founder, Cloudera on the Future of Information Architecture Design
+Getting Business Value from Real-time Streaming Analytics
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jun 30 and beyond
+Nine Laws of Data Mining, part 2
+Top KDnuggets tweets, Jun 22-29: Kaggle Machine Learning Tutorial in R;  50 Smartest Companies ?€? shaping the #technology landscape
+KDnuggets Interview: Amr Awadallah, CTO & Co-founder, Cloudera on the Need for Self-Service Analytics
+"
+2015 Jun Webcasts  "
+"
+2015 Jun Tutorials, Overviews, How-Tos  "
+"
+2015 Jun Top Tweets  "
+"
+2015 Jun Software  "
+"
+2015 Jun Opinions, Interviews, Reports  "
+"
+2015 Jun Publications  "
+"
+2015 Jun News, Features  "
+"
+2015 Jun Courses, Education  "
+"
+2015 Jun Meetings  "
+KDnuggets Interview: Amr Awadallah, CTO & Co-founder, Cloudera on the Secret Sauce of Open Source
+Top /r/MachineLearning Posts, June: Neural Network Generated Images, Free Data Science Books, Super Mario World
+70+ upcoming July ?€? December Meetings in Analytics, Big Data, Data Mining, Data Science
+Microsoft Research Faculty Summit #FacSumm, keynotes streamed live July 8-9
+Cartoon: Where humans are still ahead of Deep Learning
+Doubt and Verify: Data Science Power Tools
+PAW: Boston Agenda Announced
+10 Key Tips for Entry-Level Analytics Professionals
+The Definitive Guide to doing Data Science for Social Good
+Top stories for Jun 28 ?€? Jul 4: Top 20 R packages by popularity; Nine Laws of Data Mining
+Data Science and Big Data: Two very Different Beasts
+Strata + Hadoop World, New York City, Sep 29 ?€? Oct 1
+Deep Learning and the Triumph of Empiricism
+Big Data Innovation Summit, Boston, Sep 9-10
+Interview: Reiner Kappenberger, HP Security Voltage on Data-Centric Security for Big Data
+Dataiku Data Science Studio ?€? intuitive solution for data professionals
+Text Analytics Demands Insight, Intelligence and Integration ?€? Free White Paper
+Data Science Made in Switzerland
+Lund University Develops an Artificial Neural Network for Matching Heart Transplant Donors with Recipients
+7 must attend Big Data Conferences ?€? best price ends soon
+Interview: Reiner Kappenberger, HP Security Voltage on How to Secure Data-in-Motion
+Consumer and Market Research Info Kit
+Webinar: Tips & Tricks for Customer Segmentation, July 21
+ParseHub gives Data Scientists a better, faster way to collect data
+Emacs for Data Science
+Interview: Reiner Kappenberger, HP Security Voltage on Security Checklist for Data Architectures
+Can deep learning help find the perfect date?
+Top stories for Jul 5-11: Deep Learning and the Triumph of Empiricism; Data Science != Big Data
+Top KDnuggets tweets, Jun 30 ?€? Jul 06: Click Testing Proved that Beards Are Still A Thing; 16 Free #DataScience Books
+Global Data Competition focused on Climate Change
+Top KDnuggets tweets, Jun 16-22: Deep Learning resources from O?€?Reilly; Free Kaggle Machine Learning Tutorial in R
+Can Deep Learning Help you Find the Perfect Girl? ?€? Part 2
+Standardizing the World of Machine Learning Web Service APIs
+Continually Updated Data Science IPython Notebooks
+Hotlist of Training resources for Predictive Analytics
+How to properly present a Data Mining project?
+Lavastorm Webinar, July 22: Data Lake ?€? Five Tips to Navigate the Dangerous Waters
+50+ Data Science and Machine Learning Cheat Sheets
+Interview: Ramkumar Ravichandran, Visa on Actionable Insights ?€? Easier Said Than Done
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jul 14 and beyond
+Top KDnuggets tweets, Jul 7-13: Deep Learning and the Triumph of Empiricism
+Predictive Policing ?€? Free Book
+R, Python users show surprising stability, but strong regional differences
+Open Source Enabled Interactive Analytics: An Overview
+Interview: Ramkumar Ravichandran, Visa on Customer-focus Mindset for Analytics
+Deep Learning Adversarial Examples ?€? Clarifying Misconceptions
+IAPA Challenge the Chief Analytics Event, Sydney, Aug 4
+Upcoming Webcasts on Analytics, Big Data, Data Science ?€? Jul 21 and beyond
+Young Data Scientist Book: Inspiration for the future
+Jun 2015 Analytics, Big Data, Data Mining Acquisitions and Startups Activity
+Analyzing and Visualizing Flows in Rivers and Lakes with MATLAB
+New KDnuggets Section: Tutorials, Overviews, How-Tos
+Top KDnuggets tweets, Jul 14-20: The Master #Algorithm: Quest for the Ultimate #Learning #Machine; Most Influential Data Scientists
+ACM SIGKDD 2015 Service Award to Jian Pei
+Data Mining/Data Science ?€?Nobel Prize?€?: ACM SIGKDD 2015 Innovation Award to Hans-Peter Kriegel
+New Book: Mining Latent Entity Structures
+To Code or Not to Code with KNIME
+arXiv.org and the 24 Hour Research Cycle
+Sentiment Analysis Symposium, New York City, July 15-16
+Disruptive Innovation and Competitive Intelligence
+Coursera/Stanford ?€?Mining Massive Datasets?€?, free online course
+Sentiment Analysis Symposium Summary and Highlights
+The Perpetual Quest for Digital Trust
+Interview: Thanigai Vellore, Art.com on Delivering Contextually Relevant Search Experience
+HP Big Data Helps Ford to Better Manage Fleets and Personalize Employee Drives
+"
+2015 Jul Tutorials, Overviews, How-Tos  "
+"
+2015 Jul News, Features  "
+"
+2015 Jul Opinions, Interviews, Reports  "
+"
+2015 Jul Software  "
+"
+2015 Jul Top Tweets  "
+"
+2015 Jul Publications  "
+"
+2015 Jul Webcasts  "
+"
+2015 Jul Courses, Education  "
+"
+2015 Jul Meetings  "
+You?€?re invited to join Dean Abbott & other industry thought leaders
+From Big Data to Big Profits: A Lesson from Google?€?s Nest
+Interview: Thanigai Vellore, Art.com on Why Big Data vs RDBMS is the Wrong Question
+3 Ways to Master Uplift Modeling

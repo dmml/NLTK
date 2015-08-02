@@ -1,0 +1,1700 @@
+author
+Bernard Marr
+Pansop
+Vincent Granville
+Mirko Krivanek
+Zeeshan Usmani
+William Vorhies
+Bernard Marr
+Anand Surampudi
+Bernard Marr
+Guerrilla Analytics
+Vincent Granville
+Vincent Granville
+Flavio Bossolan
+Larisa Bedgood
+Nilesh Jethwa
+David Schwartz
+William Vorhies
+William Vorhies
+El??as Andrawos
+Sam Button
+Jure Rejec
+Debleena Roy
+Eddie Soong
+William Vorhies
+Eddie Soong
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Nilesh Jethwa
+Vincent Granville
+Vincent Granville
+John Thuma
+Randall V Shane
+Vincent Granville
+John Thuma
+Don Philip Faithful
+Andres Fortino
+Vincent Granville
+Matt Ritter
+Nilesh Jethwa
+Martin Voorzanger
+John Thuma
+Srinivasan Rakhunathan
+Vincent Granville
+Leena Kamath
+Larisa Bedgood
+Somnath Banerjee
+Pansop
+Mark Rabkin
+John Thuma
+Sameer Dhanrajani
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Pansop
+Luis Cavique
+Daina Martin
+Vincent Granville
+Harshvardhan Solanki
+GIRISH NANOTI
+Leena Kamath
+Vincent Granville
+Don Philip Faithful
+Bernard Marr
+Bernard Marr
+Mirko Krivanek
+Jure Rejec
+Mirko Krivanek
+Mirko Krivanek
+Pansop
+Sandeep Raut
+John Thuma
+Eddie Soong
+Vincent Granville
+Maloy Manna
+Vincent Granville
+Patricia Tenanty
+Nick Rojas
+Don Philip Faithful
+Nilesh Jethwa
+John Thuma
+Michael Walker
+Heinrich von Keler
+Vincent Granville
+Robert Holland
+Vincent Granville
+Mkhuseli Mthukwane
+Vincent Granville
+Sudhanshu Ahuja
+Vozag
+Mike Waldron
+John Thuma
+Larisa Bedgood
+Vincent Granville
+Martin Doyle
+Vincent Granville
+Vincent Granville
+Richard Snee
+Richard Snee
+Vincent Granville
+William Vorhies
+Vincent Granville
+Srividya Kannan Ramachandran
+Vincent Granville
+Martyn Jones
+Bernard Marr
+Bernard Marr
+Cari Jaquet
+Vozag
+Christopher Alvin Mokaya
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Doug Needham
+Vincent Granville
+Vincent Granville
+Manoj Sharma
+Manoj Sharma
+Vozag
+Algolytics
+Bernard Marr
+Bernard Marr
+Vincent Granville
+Yoey Thamas
+Mirko Krivanek
+Algolytics
+Pansop
+Nuno Fernandes
+Martin Doyle
+Vincent Granville
+Sri Desikan
+Yuanjen Chen
+Don Philip Faithful
+Vasanth Gopal
+Peter Chen
+Pansop
+Michael Walker
+ajit jaokar
+Tatiana Sorokina
+Fawad Alam
+Vincent Granville
+Daisy Ding
+Janet Dobbins
+Daisy Ding
+Vincent Granville
+Daisy Ding
+Vincent Granville
+Peter Chen
+Vincent Granville
+Sylvie Leduc
+Vozag
+Vincent Granville
+DAGHER Philippe N.
+Sri Desikan
+Tony Agresta
+El??as Andrawos
+Naagesh Padmanaban
+derick.jose
+Martin Doyle
+Mike Waldron
+Vincent Granville
+Grishma Govani
+Vincent Granville
+Bernard Marr
+Bernard Marr
+Robert Holland
+ajit jaokar
+Sigmond Axel
+Randall V Shane
+Jos Verwoerd
+Venky Rao
+Michael Walker
+Venky Rao
+Larisa Bedgood
+Patrick Glenisson
+Bernard Marr
+Sean McClure
+Mirko Krivanek
+Shezagary
+Bernard Marr
+Diego Marinho de Oliveira
+DAGHER Philippe N.
+Bernard Marr
+Gridlex
+Vincent Granville
+Vincent Granville
+Tatiana Sorokina
+Steve Webster
+Christopher Alvin Mokaya
+William Vorhies
+Vincent Granville
+Mike Waldron
+Don Philip Faithful
+Bernard Marr
+Michael Walker
+Bernard Marr
+David Burden
+Vincent Granville
+Vincent Granville
+Michael Walker
+Vincent Granville
+Venky Rao
+Vincent Granville
+Ashu Kumar
+Riazul Hasan
+Karl Rexer
+Gridlex
+Paul Katsen
+Khosrow Hassibi
+Mirko Krivanek
+Naagesh Padmanaban
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Peter Chen
+Peter Bruce
+John Hugg
+Anne Russell
+Diego Marinho de Oliveira
+Diego Marinho de Oliveira
+Tony Agresta
+Peter Chen
+Peter Chen
+Peter Bruce
+Vincent Granville
+Sullexis LLC
+Brian Liou
+Chris Towers
+Sreeram Sreenivasan
+Martyn Jones
+Vincent Granville
+Chris Towers
+Derek Steer
+William Vorhies
+Vincent Granville
+Mirko Krivanek
+Claudio Martines
+karin mack
+Mirko Krivanek
+Bernard Marr
+Tatiana Sorokina
+Vincent Granville
+Vincent Granville
+Jake Drew
+Kumaran Ponnambalam
+Derek Steer
+Vincent Granville
+Pradyumna S. Upadrashta
+Hassine Saidane
+Pradyumna S. Upadrashta
+Fari Payandeh
+Ethan Harvell
+Don Philip Faithful
+Nuno Fernandes
+Vincent Granville
+Bernard Marr
+Nissim Matatov
+Herman Jopia
+William Vorhies
+Pradyumna S. Upadrashta
+Linda Terlouw
+Mirko Krivanek
+Vincent Granville
+Meltem Ballan
+Cameron Turner
+Vincent Granville
+Vincent Granville
+Nick Rojas
+Derek Steer
+Vincent Granville
+John Irvine
+Bernard Marr
+Kirk Borne
+Cameron Turner
+Vincent Granville
+Benn Stancil
+Renette Youssef
+Yuanjen Chen
+Sravan elineni
+Peter Bruce
+Khosrow Hassibi
+Vincent Granville
+ajit jaokar
+Peter Bruce
+Sravan elineni
+Renette Youssef
+Debleena Roy
+Vincent Granville
+Pradyumna S. Upadrashta
+Sandeep Raut
+Bernard Marr
+B.J. Gonzalvo, PhD
+Naagesh Padmanaban
+Sullexis LLC
+Vincent Granville
+Don Philip Faithful
+Hassine Saidane
+Alex Jones
+Rachel Clinton
+Venky Rao
+Kenneth C Black
+Vincent Granville
+Jonathan Symonds
+Debleena Roy
+Vincent Granville
+Vincent Granville
+ajit jaokar
+Milad Soghrati
+Alex Jones
+Sullexis LLC
+Vincent Granville
+Sullexis LLC
+Sullexis LLC
+Perminder Singh
+Don Philip Faithful
+Renette Youssef
+Robert Cordray
+Vincent Granville
+Vincent Granville
+Nilesh Jethwa
+Anthony Dutra
+Renette Youssef
+Vincent Granville
+Carla Gentry
+Vincent Granville
+Vincent Granville
+Debleena Roy
+Vincent Granville
+Anna Anisin
+Jonathan Symonds
+Manoj Sharma
+Vincent Granville
+Nilesh Jethwa
+Vincent Granville
+Renette Youssef
+Benn Stancil
+Anthony Dutra
+derick.jose
+Vincent Granville
+Renette Youssef
+Michael Walker
+Vincent Granville
+Srivatsan Ramanujam
+Srivatsan Ramanujam
+Nilesh Jethwa
+Srivatsan Ramanujam
+Srivatsan Ramanujam
+Philip Male
+Susan Bennett
+Kumaran Ponnambalam
+Ram Sangireddy
+Renette Youssef
+Athanassios Hatzis
+Susan Bennett
+Peter Higdon
+TJ Laher
+Dr. Vijay Srinivas Agneeswaran
+Mohammad Oli Ahad
+Vincent Granville
+Anne Russell
+Kumaran Ponnambalam
+Anand Surampudi
+Andreas Blumauer
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+
+ it is necessary to return the power that people have over how they are manifested in their data. But apart from adapting to austerity
+Vincent Granville
+Vincent Granville
+Vincent Granville
+derick.jose
+William Vorhies
+Vincent Granville
+Vincent Granville
+Sean McClure
+Don Philip Faithful
+Richard Ordowich
+Nilesh Jethwa
+B.J. Gonzalvo, PhD
+TJ Laher
+Sullexis LLC
+Steve Bennett
+Ram Sangireddy
+Naagesh Padmanaban
+Eric Oliveira
+Vincent Granville
+Vincent Granville
+Richard
+Vincent Granville
+Michael Singer
+Michael Singer
+Michael Singer
+William Vorhies
+Christian Block
+Vincent Granville
+Naagesh Padmanaban
+Don Philip Faithful
+Vincent Granville
+Michael Singer
+Vincent Granville
+TJ Laher
+Vincent Granville
+Anne Russell
+Vincent Granville
+Michael Bryan
+William Vorhies
+Nilesh Jethwa
+Charlotte Ritter
+Sigmond Axel
+Sumit Prasad
+Mirko Krivanek
+Sigmond Axel
+Andrej Lapajne
+Kyle Albert
+William Vorhies
+Molly Larkin
+Vincent Granville
+Don Philip Faithful
+Vincent Granville
+Vincent Granville
+Renette Youssef
+Kenneth C Black
+William Vorhies
+Michael Walker
+William Vorhies
+Don Philip Faithful
+Ajay Kelkar
+Vincent Granville
+Lillian Pierson
+Rick Delgado
+Steve Bennett
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Rick Delgado
+Vincent Granville
+Michael Walker
+Tom De Smedt
+Raghavan Madabusi
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Phuoc Do
+Don Philip Faithful
+Debleena Roy
+Debleena Roy
+William Vorhies
+Sapan Patel
+Vincent Granville
+William Vorhies
+Vincent Granville
+William Vorhies
+Debleena Roy
+William Vorhies
+Vincent Granville
+William Vorhies
+Kirk Borne
+William Vorhies
+Winthrop Smith
+William Vorhies
+Vincent Granville
+Sumit Prasad
+Vincent Granville
+Andreas Blumauer
+Larry Alton
+Mirko Krivanek
+Sumit Prasad
+Ishaq Mohammed
+Beau Winchester
+Michael Walker
+Vincent Granville
+Don Philip Faithful
+Peter Higdon
+Vincent Granville
+Peter Higdon
+William Vorhies
+Vincent Granville
+Vincent Granville
+Steve Bennett
+Prem sah
+Vincent Granville
+Mike Kennedy
+Tom
+Vincent Granville
+Vincent Granville
+Phuoc Do
+Vincent Granville
+Vincent Granville
+Rick Delgado
+Jesse Jacobsen
+Vincent Granville
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vikas Kamra
+Don Philip Faithful
+Randal Scott King
+Mirko Krivanek
+ganeshbabu
+Ali Syed
+Rick Delgado
+Rick Delgado
+Adrian Walker
+Don VanDemark
+L George, Ph.D.
+Ryan Montano
+Keith Cawley
+Vincent Granville
+Don Philip Faithful
+Mirko Krivanek
+Mousumi Ghosh
+Mirko Krivanek
+Mirko Krivanek
+Mirko Krivanek
+Michael Walker
+Avesh Dhakal
+Vincent Granville
+Vincent Granville
+Arthur
+Larry Alton
+Ryan Montano
+Vincent Granville
+Amogh Borkar
+Vincent Granville
+Kalyanaraman K
+Vincent Granville
+Vincent Granville
+Vincent Granville
+derick.jose
+Amogh Borkar
+Vincent Granville
+Mirko Krivanek
+Don Philip Faithful
+Vincent Granville
+Edward Rotenberg
+Mirko Krivanek
+Vincent Granville
+Jesse Jacobsen
+Vincent Granville
+Michael Walker
+Peter Higdon
+Don Philip Faithful
+Vincent Granville
+Debleena Roy
+William Vorhies
+Marcel Remon
+Don Philip Faithful
+Marcel Remon
+Marsha Irving
+Mirko Krivanek
+Mirko Krivanek
+Avesh Dhakal
+Vincent Granville
+Mirko Krivanek
+Mirko Krivanek
+Roopam Upadhyay
+Don Philip Faithful
+Vincent Granville
+Avesh Dhakal
+Tavish Srivastava
+Mirko Krivanek
+Jake Drew
+Ken Gold
+Muhammad Saeed
+Don Philip Faithful
+Avesh Dhakal
+Michael Singer
+Vincent Granville
+Vincent Granville
+Michael Walker
+Vincent Granville
+Michael Walker
+Vincent Granville
+Vincent Granville
+Jake Drew
+Mirko Krivanek
+Kirk Borne
+Mirko Krivanek
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Kirk Borne
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Kirk Borne
+Atif Farid Mohammad
+Vincent Granville
+Mousumi Ghosh
+Kirk Borne
+Vincent Granville
+Vincent Granville
+Jake Drew
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michael Walker
+Peter Higdon
+Mirko Krivanek
+Jon Rabinowitz
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Atdhe Buja
+Steven Ramirez
+Vincent Granville
+Jake Drew
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Don Philip Faithful
+Fari Payandeh
+Jed Mole
+Gaurav Vohra
+Emanuel Baisire
+Peter Higdon
+Michael Walker
+Aatash Shah
+Jed Mole
+Vincent Granville
+Aatash Shah
+Nicholas Hartman
+Vincent Granville
+Vincent Granville
+Kirk Borne
+Tullio Siragusa
+Vincent Granville
+Mousumi Ghosh
+Gaurav Vohra
+Vincent Granville
+Andrew A. Kramer
+Matthew Sundquist
+Daniel R. Graettinger
+Peter Higdon
+Yuanjen Chen
+Venky Rao
+Nicholas Hartman
+Steven Ramirez
+Jos?? Antonio Mart??n H.
+Vincent Granville
+Michael Walker
+Steven Ramirez
+Javier Arriero
+Sullexis LLC
+Mousumi Ghosh
+Vincent Granville
+Vincent Granville
+Venky Rao
+Yuanjen Chen
+Atif Farid Mohammad
+Atif Farid Mohammad
+Vincent Granville
+Atif Farid Mohammad
+Vincent Granville
+Vincent Granville
+Parag Patil
+Matthew Sundquist
+Manish Bhoge
+Vincent Granville
+Nicholas Hartman
+David P. Jurist
+Nicholas Hartman
+Michael Walker
+Brian Almonte
+Ilan Hertz
+Atif Farid Mohammad
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Yuanjen Chen
+Vincent Granville
+Atif Farid Mohammad
+Vincent Granville
+Michael Walker
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Pandiyarajan
+Atif Farid Mohammad
+Atif Farid Mohammad
+Jose Luis Dengra
+Mark Biernbaum
+IPSITA
+Don Philip Faithful
+Vincent Granville
+Vincent Granville
+Atif Farid Mohammad
+Matthew Sundquist
+Michael Walker
+Michel Bruley
+Tullio Siragusa
+Atif Farid Mohammad
+Venky Rao
+Marie Balce
+Atif Farid Mohammad
+Matthew Sundquist
+Parag Patil
+Don Philip Faithful
+Pradyumna S. Upadrashta
+Gil Allouche
+derick.jose
+Vincent Granville
+Jed Mole
+piALGO
+Vincent Granville
+B.J. Gonzalvo, PhD
+Manish Bhoge
+Suvadeep Basu
+Timothy wiles fowler
+Radhika Subramanian
+Tullio Siragusa
+Vincent Granville
+Fari Payandeh
+Mitchell A. Sanders
+Laura E. Wood Squier
+Yuanjen Chen
+Don Philip Faithful
+Don Philip Faithful
+Don Philip Faithful
+Don Philip Faithful
+Atif Farid Mohammad
+Vincent Granville
+Vincent Granville
+Michael Walker
+Chris
+Mitchell A. Sanders
+Vincent Granville
+Somjit Amrit,Somjit Amrit
+Fari Payandeh
+J.D. Opdyke
+Michael Walker
+Somjit Amrit
+Vincent Granville
+John Geer
+Aleksey Savkin
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Menno Mafait
+Fari Payandeh
+Manish Bhoge
+Michael Malak
+Michael Walker
+Dr. Z
+Dr. Z
+Don Philip Faithful
+James Sullivan
+Vincent Granville
+Tullio Siragusa
+Kirk Borne
+Kirk Borne
+Vincent Granville
+Kirk Borne
+Fari Payandeh
+Brian Smith
+Vincent Granville
+Michael Walker
+Chris Diener
+Tullio Siragusa
+Chris
+Fari Payandeh
+Manish Bhoge
+Michael Walker
+Vincent Granville
+Mitchell A. Sanders
+Mitchell A. Sanders
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michael Walker
+Abe Gong
+Fari Payandeh
+Vincent Granville
+Nicholas Hartman
+Bert Riley
+Michael Walker
+derick.jose
+Vincent Granville
+Michael Walker
+Vincent Granville
+Aline Junqueira Costa
+Fari Payandeh
+April Healy
+Michel Bruley
+Chris
+Bridget Mead
+James Parnitzke
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michael Walker
+Menno Mafait
+Michael Walker
+Suhas Aggarwal
+Caitlin Garrett
+Vincent Granville
+Zhu Guangbin
+Mirko Krivanek
+Caitlin Garrett
+Nicholas Hartman
+Vincent Granville
+Parag Patil
+Dean Ozanne
+Michael Walker
+Vincent Granville
+derick.jose
+Jared Decker
+Vincent Granville
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Peter Bruce
+Michael Walker
+Eka Aulia
+Caitlin Garrett
+Atif Farid Mohammad
+Shinto Paul
+Adetula Oluwabunmi
+Mirko Krivanek
+Ajay Amritlal Ahuja
+Ben Gold
+Vincent Granville
+Bridget Mead
+Vincent Granville
+Alissa Lorentz
+Michael Malak
+Vincent Granville
+Ben Gold
+Mohammad Tariq Iqbal
+Mohammad Tariq Iqbal
+Michael Walker
+Arthur Aguirre
+Michael Walker
+Vincent Granville
+Mohammad Tariq Iqbal
+prabhu vempati
+Arthur Aguirre
+Vincent Granville
+Michel Bruley
+Neil Biehn
+Michael Walker
+Peter A Gailey
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Menno Mafait
+Michael Walker
+diyiduan
+Vincent Granville
+Gaurav Vohra
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michel Bruley
+Michael Walker
+Alexey Golovashov
+Bridget Mead
+Michael Walker
+Alissa Lorentz
+Mohammad Tariq Iqbal
+Menno Mafait
+Gaurav Vohra
+Vincent Granville
+Vincent Granville
+Bridget Mead
+Ben Gold
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Tony Agresta
+Vincent Granville
+Michael Walker
+Balu Rajagopal
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michael Walker
+Vincent Granville
+Vincent Granville
+Balu Rajagopal
+J. David Morris
+Mohammad Tariq Iqbal
+J. David Morris
+Vincent Granville
+Michael Walker
+Vincent Granville
+Michael Walker
+Phil Simon
+Vincent Granville
+Stephen Penn, DM, PMP
+Vincent Granville
+Vincent Granville
+Alan Nugent
+Michael Walker
+Michael Walker
+Michel Bruley
+Michel Bruley
+Annika Jimenez
+John R Davidson
+Michael Walker
+Stephen Penn, DM, PMP
+Vincent Granville
+Vincent Granville
+Radhika Subramanian
+Vincent Granville
+Tim Negris
+Michael Walker
+Vincent Granville
+Michael Malak
+Zach Piester
+Vincent Granville
+Kyle Herring
+Michael Walker
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Radhika Subramanian
+Graham Forsyth
+Michael Walker
+Vincent Granville
+Gaurav Vohra
+Vincent Granville
+Michael Walker
+Vincent Granville
+Jaime Fitzgerald
+Vincent Granville
+Mirko Krivanek
+Emmanuel P. Gruijs
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Vincent Granville
+derick.jose
+Vincent Granville
+Gaurav Vohra
+Tony Agresta
+Vincent Granville
+Vincent Granville
+Balu Rajagopal
+Venky Rao
+Vincent Granville
+Mirko Krivanek
+Vincent Granville
+Michael Walker
+Ben Gold
+Vincent Granville
+Vincent Granville
+Gaurav Vohra
+Michael Walker
+Vincent Granville
+Venky Rao
+Ross Perez
+Venky Rao
+Tony Agresta
+Michel Bruley
+derick.jose
+Michel Bruley
+Vincent Granville
+Michael Walker
+Donal Daly
+John Fairweather
+Vincent Granville
+Vincent Granville
+Daniel R. Graettinger
+Rahul Patodi
+Vincent Granville
+Gaurav Vohra
+Rahul Patodi
+Michael Walker
+Jos Verwoerd
+Michael Walker
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michael Walker
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michael Walker
+Sandeep Raut
+Ben Gold
+Vincent Granville
+Zach Piester
+Michael Walker
+Janet Dobbins
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michael Walker
+Michael Walker
+Phil Simon
+Michel Bruley
+Vincent Granville
+Michael Walker
+Vincent Granville
+derick.jose
+Caitlin Garrett
+Vincent Granville
+Zach Piester
+Michael Walker
+Vincent Granville
+Michel Bruley
+Jean Michel LeTennier
+Vincent Granville
+Michael Malak
+Mirko Krivanek
+James Sullivan
+Vincent Granville
+Fari Payandeh
+Vincent Granville
+Parag Patil
+Michael Walker
+Vincent Granville
+Caitlin Garrett
+Vincent Granville
+Vincent Granville
+derick.jose
+Vincent Granville
+christopher calvin
+Vincent Granville
+Vincent Granville
+Chris
+Mirko Krivanek
+Kirk Borne
+Stephen Penn, DM, PMP
+Michael Malak
+Radhika Subramanian
+Michael Walker
+Zach Piester
+Michel Bruley
+Vincent Granville
+Vincent Granville
+Josh Brown
+Antoine Bruyns
+Nilesh Jethwa
+Parag Patil
+Fari Payandeh
+Vincent Granville
+Vincent Granville
+Tullio Siragusa
+Somjit Amrit
+Vincent Granville
+Vincent Granville
+Janet Dobbins
+Atif Farid Mohammad
+Ashish Soni
+Yuanjen Chen
+Vincent Granville
+Yuanjen Chen
+Katie Kent
+Wayne R. Applebaum
+Dr. Z
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Ashish Soni
+Vincent Granville
+Vincent Granville
+Manish Bhoge
+Vincent Granville
+Michael Walker
+Matthew Sundquist
+Matthew Sundquist
+Vincent Granville
+Buyanjargal Shirnen
+Vincent Granville
+Vincent Granville
+Yuanjen Chen
+Matthew Sundquist
+Michel Bruley
+Venky Rao
+Steven Ramirez
+Kirk Borne
+Caitlin Garrett
+Nicholas Hartman
+Vincent Granville
+Nicholas Hartman
+Vincent Granville
+Vincent Granville
+rahul sharma
+Vincent Granville
+Vincent Granville
+Atif Farid Mohammad
+B.J. Gonzalvo, PhD
+Michel Bruley
+Andrei Macsin
+Vincent Granville
+Michael Walker
+Michael Malak
+Deepak Kumar
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michel Bruley
+Shibaji Mukherjee
+Vincent Granville
+Sullexis LLC
+Vincent Granville
+Vincent Granville
+Yuanjen Chen
+Manish Bhoge
+Vincent Granville
+Matthew Sundquist
+Matthew Sundquist
+Kirk Borne
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Don Philip Faithful
+Michael Walker
+Michel Bruley
+Venky Rao
+Bruno Aziza
+Gaurav Vohra
+Ujjawal Bagaria
+Nilesh Jethwa
+Stephen Penn, DM, PMP
+Vincent Granville
+Michael Walker
+Moussa Camara
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Romeo Kienzler
+Vincent Granville
+Analyze
+Kirk Borne
+Ryan Montano
+Vincent Granville
+ed pok
+Vincent Granville
+Vincent Granville
+Mirko Krivanek
+Kyle Albert
+Mirko Krivanek
+Pavan Kumar N
+Don Philip Faithful
+Vincent Granville
+Yuanjen Chen
+Sullexis LLC
+Vincent Granville
+Vincent Granville
+IPSITA
+Vincent Granville
+Michael Walker
+Vincent Granville
+Vincent Granville
+Avesh Dhakal
+Vincent Granville
+Don Philip Faithful
+Muhammad Saeed
+Vincent Granville
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Mirko Krivanek
+Michael Walker
+Vincent Granville
+Michael Singer
+Kevin Matthew Windham
+Don Philip Faithful
+Peter Higdon
+Bill Luker Jr
+Vincent Granville
+Vincent Spruyt
+Mirko Krivanek
+Don Philip Faithful
+Mirko Krivanek
+Amogh Borkar
+Avesh Dhakal
+Sumit Prasad
+Vincent Granville
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Sunila GOLLAPUDI
+Yuanjen Chen
+Avesh Dhakal
+derick.jose
+Vincent Granville
+Michael Walker
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Prem sah
+Ryan Montano
+Justin
+Mirko Krivanek
+Avesh Dhakal
+Mike Kennedy
+Jake Drew
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Kumar Chinnakali
+Ryan Jolicoeur
+Brian Liou
+Vincent Granville
+William Vorhies
+Mirko Krivanek
+Vincent Granville
+Thia Kai Xin
+Geert Verstraeten
+Venky Rao
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Jesse Jacobsen
+Vincent Granville
+William Vorhies
+Vincent Granville
+Niraj
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michael Walker
+Vincent Granville
+Keith Cawley
+Don Philip Faithful
+Raghavan Madabusi
+Pavan Kumar
+Beau Winchester
+Sean McClure
+Sean McClure
+Marcel Remon
+Vincent Granville
+Lars Fiedler
+Vincent Granville
+Mirko Krivanek
+William Vorhies
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Randal Scott King
+Vincent Granville
+Beau Winchester
+Michael Walker
+Noel Milton Vega
+Vincent Granville
+Vincent Granville
+derick.jose
+William Vorhies
+Vincent Granville
+Brian Liou
+Steve Bennett
+Ryan Montano
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michael Singer
+Vincent Granville
+Anna Anisin
+Michael Singer
+Vincent Granville
+Kumaran Ponnambalam
+Nikitinsky Nikita
+Michael Bryan
+Christian Prokopp
+Ryan Montano
+Vincent Granville
+Philippe Van Impe
+Vincent Granville
+Michael Walker
+Michael Walker
+Vincent Granville
+Vincent Granville
+Sean McClure
+Vikas Kamra
+Manoj Sharma
+Rob Seaman
+Joshua Tikal
+Sean McClure
+Andreas Blumauer
+Manoj Sharma
+Nilesh Jethwa
+Renette Youssef
+Carlos Franco
+Vincent Granville
+Maloy Manna
+Alesia
+Michael Walker
+Don Philip Faithful
+William Vorhies
+Deepesh Chandra Shukla
+Maloy Manna
+Vincent Granville
+Cameron Turner
+Vincent Granville
+Renette Youssef
+Randal Scott King
+Vincent Granville
+Manoj Sharma
+Jeevan Kumar R
+Bryan M. Gorman
+Vincent Granville
+Mirko Krivanek
+ajit jaokar
+Manuel Perez
+Anna Anisin
+Maloy Manna
+Vincent Granville
+Manoj Sharma
+Michael Bryan
+Vincent Granville
+Nilesh Jethwa
+Justin Tenuto
+Christopher Hogue
+Steven Mills
+Pradyumna S. Upadrashta
+Don Philip Faithful
+Vincent Granville
+VINU KIRAN .S
+Vincent Granville
+Mandy Parmenter
+Vincent Granville
+Alesia
+Linda Terlouw
+Vincent Granville
+Vincent Granville
+VINU KIRAN .S
+ajit jaokar
+Michael Walker
+Vincent Granville
+rajesh dhnashire
+Bernard Marr
+Vincent Granville
+Linda Terlouw
+Gridlex
+Anna Anisin
+Sigmond Axel
+Suman Malekani
+Vincent Granville
+Derek Steer
+Vincent Granville
+Vincent Granville
+Bernard Marr
+Naagesh Padmanaban
+Michael Walker
+Bernard Marr
+Vincent Granville
+ajit jaokar
+Leandro Guerra
+Randall V Shane
+Bernard Marr
+Vincent Granville
+John Irvine
+Saar Bitner
+Brian Liou
+Chris Diehl
+Shezagary
+Chris Diehl
+Vincent Granville
+Peter Bruce
+Martyn Jones
+Don Philip Faithful
+Peter Bruce
+Peter Bruce
+Vincent Granville
+Vincent Granville
+Debleena Roy
+Vincent Granville
+Bernard Marr
+Vincent Granville
+Mirko Krivanek
+Nuno Fernandes
+Arshak Navruzyan
+Don Philip Faithful
+Renette Youssef
+Tatiana Sorokina
+Jake Drew
+Martin Doyle
+Vincent Granville
+Randall V Shane
+Vincent Granville
+Mirko Krivanek
+Renette Youssef
+Vincent Granville
+Larisa Bedgood
+Vincent Granville
+Bhavani Raskutti
+Martin Doyle
+Ashish Jain
+Peter Chen
+Vincent Granville
+Anne Russell
+Vincent Granville
+Suman Malekani
+Raghavan Madabusi
+Mirko Krivanek
+Mirko Krivanek
+Vincent Granville
+Michel Bruley
+Gridlex
+suresh
+Vincent Granville
+Suman Malekani
+Michael Walker
+Alex Guazzelli
+Zach Piester
+Anne Russell
+Don Philip Faithful
+Algolytics
+Sunila GOLLAPUDI
+Larisa Bedgood
+andirey
+Vincent Granville
+John Geer
+Michael Singer
+Vozag
+Vincent Granville
+Bernard Marr
+Rocket Pencil Press
+Bernard Marr
+Kurt Cagle
+William Vorhies
+Sandeep Raut
+Mike Kennedy
+Sandeep Raut
+Rahul Patodi
+Vincent Granville
+Zach Piester
+Vincent Granville
+derick.jose
+Vincent Granville
+Venky Rao
+Zach Piester
+Vincent Granville
+Michael Walker
+Rahul Deshmukh
+Michael Walker
+derick.jose
+Vincent Granville
+Vincent Granville
+AcademyForDecisionScience&Analyt
+AcademyForDecisionScience&Analyt
+AcademyForDecisionScience&Analyt
+AcademyForDecisionScience&Analyt
+Gaurav Vohra
+Michael Walker
+Srini Pagidyala
+Vincent Granville
+Vincent Granville
+Zach Piester
+Ben Gold
+Vijay Kumar
+Vincent Granville
+Vijay Kumar
+Venky Rao
+Zach Piester
+Venky Rao
+Vincent Granville
+Zach Piester
+Michael Walker
+Vincent Granville
+Vincent Granville
+Gaurav Vohra
+Vincent Granville
+Zach Piester
+Vincent Granville
+Vincent Granville
+Patrick Glenisson
+Vincent Granville
+derick.jose
+Patrick Glenisson
+Gregory Piatetsky
+Vincent Granville
+Vincent Granville
+Vincent Granville
+derick.jose
+Eddie Satterly
+Vincent Granville
+Vincent Granville
+Rahul Patodi
+Neil Raden
+Sandeep Raut
+Daisy Ding
+derick.jose
+Vincent Granville
+Vincent Granville
+Mike Kennedy
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Patrick Glenisson
+Michel Bruley
+Mirko Krivanek
+Mirko Krivanek
+Vincent Granville
+Vincent Granville
+Gil Press
+Vincent Granville
+Vincent Granville
+Gil Press
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Mirko Krivanek
+Vincent Granville
+Mirko Krivanek
+Mirko Krivanek
+Anne Russell
+Mirko Krivanek
+Martyn Jones
+Randal Scott King
+Vincent Granville
+Pansop
+Larisa Bedgood
+Vozag
+Rupen Shah
+Algolytics
+Titus Blair
+Mirko Krivanek
+Mirko Krivanek
+Sarah Aerni
+Neta Zach
+AcademyForDecisionScience&Analyt
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Michael Walker
+Vincent Granville
+Harlan Harris
+Vincent Granville
+Michael Walker
+Michel Bruley
+Michael Walker
+Vincent Granville
+Vincent Granville
+Mirko Krivanek
+Gaurav Vohra
+Michael Walker
+Venky Rao
+Martyn Jones
+Christopher Alvin Mokaya
+Pansop
+Vozag
+Harlan Harris
+Vincent Granville
+Vincent Granville
+Gil Press
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Patrick Glenisson
+Khosrow Hassibi
+Vincent Granville
+Martin Doyle
+Pansop
+Stan Mason
+Stan Mason
+derick.jose
+Stan Mason
+Vincent Granville
+Vincent Granville
+Pearse William
+Pearse William
+Vincent Granville
+Stan Mason
+Pearse William
+Vincent Granville
+Stan Mason
+Richard Snee
+Pearse William
+Stan Mason
+Richard Snee
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Richard Snee
+J.D. Opdyke
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Richard Snee
+Richard Snee
+Gregory Piatetsky
+Richard Snee
+Richard Snee
+Vincent Granville
+Vincent Granville
+Vincent Granville
+William Vorhies
+Vincent Granville
+William Vorhies
+Bernard Marr
+William Vorhies
+Nilesh Jethwa
+ajit jaokar
+Yuanjen Chen
+Mirko Krivanek
+Martyn Jones
+Nilesh Jethwa
+Flavio Bossolan
+Flavio Bossolan
+Bernard Marr
+Algolytics
+Vincent Granville
+Vincent Granville
+J.D. Opdyke
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Richard Snee
+Pansop
+Michael Laux
+Khosrow Hassibi
+Vincent Granville
+Mirko Krivanek
+Pansop
+William Vorhies
+Pansop
+ajoabraham
+Bill Dimm
+Surendar Chintala
+Robert Holland
+Bernard Marr
+John Thuma
+Mkhuseli Mthukwane
+Michael Bryan
+Eddie Soong
+Debleena Roy
+Vincent Granville
+Anne Russell
+Eddie Soong
+Vincent Granville
+Algolytics
+Rana Usman
+Ian Thomas
+Algolytics
+William Vorhies
+Ashu Kumar
+Randall V Shane
+Vincent Granville
+Pansop
+Venky Rao
+Bernard Marr
+Bernard Marr
+Don Philip Faithful
+Mirko Krivanek
+Algolytics
+Atif Farid Mohammad
+MUSHTAQ AHMAD
+Mkhuseli Mthukwane
+John Thuma
+Mike Kennedy
+Vincent Granville
+Vincent Granville
+Vincent Granville
+Richard Snee
+Amelia Paige
+Stan Mason
+Richard Snee
+Stan Mason
+Patricia Tenanty
+Stan Mason
+Vincent Granville
+Amelia Paige
+Vincent Granville
+Vincent Granville

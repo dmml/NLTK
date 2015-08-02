@@ -1,0 +1,1700 @@
+title
+How To Identify A Good/Bad Data Scientist In A Job Interview?
+9 Python Libraries Which Can Help You In Image Processing
+My Data Science Book - Table of Contents
+7 Python Tools All Data Scientists Should Know How to Use
+How to Become a Data Scientist for Free
+A Guide to the Internet of Things - Infographic
+Why So Many ?€?Fake?€? Data Scientists?
+Analytics Domain using UI-based Tools Vs. Coding
+The Next Big Thing In Big Data: BDaaS
+"You need an algorithm, not a Data Scientist". Um...not quite
+31 external machine learning / data science resources and articles
+Weekly Digest - July 27
+7 Skills/Attitudes to Become a Better Data Scientist
+The Ultimate Beginner?€?s Guide to Data Quality and Business Intelligence
+Average attorney rate jumps 85% after first year in practice
+Are You Concerned Over Systems Security? Cloud Systems Can Be Vulnerable.
+Getting a Data Science Education
+Analytics and Big Data: The Skeptics Versus the Enthusiasts
+6 Tips on Providing Tailored Data Science Services
+Making Faster Decisions with Predictive Analytics
+Can Big Data solve the skill vs. luck 'mystery' of fantasy sports?
+Disruptive Innovation: A Ripple in Competitive Intelligence Waters?
+PMML - A good citizen of the Analytics Ecosystem
+Charting the IoT Opportunity
+The Three Pillars of Insurance Analytics
+IBM's vice president of Big Data Products explains the role of data scientists | ComputerWorld
+What is data science?
+How do your quantify data as large, big, or huge?
+List of acquisitions by Microsoft
+86 Helpful Tools for the Data Professional PLUS 45 Bonus Tools | Syracuse University
+Ventana Research Unveils Largest Research Ever Conducted on Business Analytics
+Aster:  Video:  Using Confusion Matrix in Machine Learning
+Little Debate: Data Priorities for all Industries
+Lifetime value of an e-mail blast: much longer than you think
+See What You Can do With One Aster Command....
+5 Types of Data in Feedback
+Workshop: Big Data Could Spell Big Legal Troubles
+High-Return Data Science: Modernizing / Automating Digital Publishing (Case Study)
+Great reports from scratch (even when you don't know what your stakeholder wants!)
+Which drink is more popular Tea, Coffee, Beer, Wine?
+Identifying external data needs for driving conversion optimization
+List of All Aster Videos on Advanced Analytics
+Brand Image, Sentiment Analysis and Social Media
+Weekly Digest - July 13
+Analysis about marriage equality in US, based on 25,000 tweets
+3 Ways Marketers Use Data to Drive Higher Return on Investments
+Machine Learning at Scale with Spark
+IoT projects analysis on Kickstarter Crowd Funding Platform
+Taking R to the Next Level
+Teradata Aster:  Multi-Channel Churn Prediction in Banking
+How Data Science is influencing Buyer Behavior
+Connecting with the Social Analytics Experts
+How to detect a pattern? Problem and solution.
+Statisticians Have Large Role to Play in Web Analytics | American Statistical Association
+Why and how you should build a data dictionary for big data sets
+Online advertising: a solution to optimize ad relevancy
+Classification accuracy using different bag of words
+Opensource Robotics Projects List
+Big Data = 3 data issues
+What Are the Differences Between Quantitative and Qualitative Data Analysis?
+EMC Tries To Unify Big Data Analytics | InformationWeek
+Can anyone suggest a big dataset for the purpose of regression?
+Business Analytics in Engineering Procurement and Inventory Management
+A Database of Police Killings Since 2013 by Justin Tenuto
+Spectacular patterns found in rare, big numbers used in encryption schemes
+Structural Relationships in Data
+Types Of Performance Metrics Everyone Must Differentiate
+Big Data: The Amazing Numbers in 2015
+The 50 Best Masters in Data Science
+Fantasy Sports Betting: The Next 'Big Thing' Thanks to Big Data
+Tools for Data Visualization in R, Python, and Julia
+9 Must-Have Skills You Need to Become a Data Scientist
+Python Visualization Libraries List
+CMO-CIO relationship in Digital world
+Demystifying Teradata AsterR - R in Parallel, R at Scale
+How to choose a statistical model
+Weekly Digest - June 29
+What roles do you need in your data science team?
+Interview with Kaggle CEO Anthony GoldBloom
+Big Data....Small Wars
+Healthcare Industry Finds New Solutions to Big Data Storage Challenges
+Ontology for Data Science
+NFL Play by Play analysis using Cloudera Impala
+Optimizing your search functionality on your website
+Data Science Summer Reading List 2015
+Environmental Monitoring using Big Data
+7 Ingredients for Great Visualizations
+Data Scientists are Improving the World
+Weekly Digest, June 8
+Data Science: The numbers game Law almost lost.
+Predicting records (highs or lows) - how to do it right (and without statistics)
+Top Five Data Science Masters Programs
+Regression Prediction using AWS Machine Learning
+Naive Bayes for Dummies; A Simple Explanation
+Your Math Is All Wrong: Flipping The 80/20 Rule For Analytics
+How is Big Data Changing the World?
+Case study: how much good traffic a scammer gets from one email spam
+Data is Immortal, but Not Immune to Decay
+Weekly Digest, June 15
+[Job] Data Scientist, Analytics - Twitter (San Francisco, CA)
+Vincent Granville - In the Top 20 List of Big Data Influencers (Forbes)
+Official Theme For Silicon Valley: Big Data
+Interview with Drew Rockwell, CEO of Lavastorm
+NewSQL - RDBMS on Steroids
+Request For Proposal: Financial Market Analysis Algorithms
+Origin of Techniques used in Data Science
+Fast-Track, On-Demand, No-Fee Program to Become a Data Scientist
+7 Amazing Big Data Myths
+Big Data In The Amazing World of Gaming
+The Quantified Workplace: Big Data or Big Brother?
+Tools to automate...  more time to innovate
+Document Similarity Analysis Using ElasticSearch and Python
+Harnessing Big Data for Security: Intelligence in the Era of Cyber Warfare.
+What are data scientists interested in? Insights from our search engine data
+Decision Boundaries for Deep Learning and other Machine Learning classifiers
+Feature Scaling and Normalization
+Reducing Data Cleansing Time to Get Actionable Insights Faster
+Data Structure Gaph - The application of Graph theory to Architecture
+Elastic Is a Great Paradigm When ?€?All You Can Eat Data Consumption?€? Is the Goal
+How to Avoid a Data Disaster- Infographic
+Making the Business Case for Text Analytics
+Visualize your Social Media Analytics
+R Functions for Exploratory Analysis, Data Frame Merging & Map Displays
+Quality and correctness of classification models. Part 3 ?€? Confusion Matrix
+How To Make A Billion Dollars From Big Data
+Where Big Data Projects Fail
+Data Science Wars: R versus Python
+Mobile LED Screens: Advertising on wheels
+Columbia data science course, week 1: what is data science?
+Tutorial: How to determine the quality and correctness of classification models? Introduction
+Internet of Things (IoT) Employers, Job Titles & Locations
+Data Science and its problems
+Were the Election Polls Marred by Poor Quality Data?
+Weekly Digest - May 18
+There is no analytics without data management -an imperative for digital marketers.
+How to Cross Link Data and Why You Should Do So
+The Institutional Response
+The Handbook Of Data science
+Experimenting with AWS Machine Learning for Classification
+Web Crawling & Analytics Case Study - Database Vs Self Hosted Message Queuing Vs Cloud Message Queuing
+Self-learning Machines & Deep Convolutional Neural Networks Classify Scenes & Identify Objects
+An Introduction to Deep Learning and it?€?s role for IoT/ future cities
+Data science to understand and fight cancer
+Welcome to Sparkling Land
+Splunk, Big Data?€?s First IPO, Begins Trading on Nasdaq Today
+What is real OLAP for practical use?
+Target's methodology for predicting which customers are pregnant.
+How to Solve Complex Computations in the Report
+Learn how ICA created the nation's leading Health Information Exchange
+Interactive Analysis and Related Tools
+Data Science and Big Data Course from EMC
+Visualizing Nepal Earthquake: The Human Side of Data Science
+Using Historical Data in the Age of Real Time Decision Making
+The Big Data and Business Intelligence twins! To the rescue of Defined Benefits Pension Plans (DBPP?€?s)
+OpenStreetMap Visualization Case Study & Sample Code
+What is the Internet of Everything (IoE)?
+Clustering Arabic Tweets to seize the reputation of a Brand in the Middle-East
+The 3Ms of Marketing Data Analytics
+Big Data, Meet Dynamic Semantic Publishing:  Altering the Media & Publishing Landscape
+Short story on scaling an NLP problem without using a ton of hardware.
+Mobile Banking ?€? Can Analytics help banks innovate?
+How we survived a near death experience in a Big Data Project ? A Story from the trenches
+Do Your Customers Hide Their Data?
+Text Analysis 101: Explicit Semantic Analysis (ESA) Explained
+Weekly Digest - May 4
+What type of business intelligence tools are companies investing in this year?
+Use of data analytics by print and digital publishers to increase revenue and profitability
+Big Data = Hype; But Why That Doesn't Matter
+How Big Data and the Internet of Things Create Smart Cities
+What is your plan for cultivating analytics talent?
+Smart data: IoT  analytics for manufacturing and process industries
+Data Circus - Circus Data - The Big Three, Dead for a day is not OK
+Data Integrity: The Rest of the Story Part I
+Comparing SaaS Machine Learning Offerings.
+Numeric Measures for Association Rules
+Predictive, Descriptive, Prescriptive Analytics
+Using Decision Trees in Evidence Based Medicine
+The Easy Way Big Data Can Be Accessed with Data-as-a-Service
+First the data, then the decision, then the profit.
+The 5 V's of Big Data by Bernard Marr
+A Data Scientist's Advice to Business Schools
+40 Excel Tricks
+Top 5 Disruptive Technologies that Will Change the World
+That?€?s Data Science: Airbus Puts 10,000 Sensors in Every Single Wing!
+Evaluating RF for Survival Analysis Using Prediction Error Curves
+Driving Behaviour as a Telematic Fingerprint
+The 7 Most Unusual Applications of Big Data You?€?ve Ever Seen!
+Calculate Cosine Similarity Using Scipy ?€? Data Sets & Sample Code
+Weekly Digest - April 20
+An Excel Tutorial on  Analyzing Large Data Sets
+It's Time to Bring Your Own Data!
+Enhance your CRM Data to Sharpen your Sales Pitch
+Big data is big business!
+How NoSQL Fundamentally Changed Machine Learning
+Human Translation vs. Google Translate in 2015
+Analyzing Text in RapidMiner
+Quality of Things
+The 7 Most Data-Rich Companies In The World
+Data Fundamentals
+Big Data Explained in Less Than 2 Minutes - To Absolutely Anyone
+Datascape - 3D Immersive Visualisation Analytics
+Is Data Scientist the Sexiest Job of the Century? | Harvard Business Review
+Analytic Talent Hit's 70,000 Searches!
+Meet the New Chief Data Scientist of the United States Government
+Top 23 articles for week ending on September 26
+An Introduction to Text Analytics
+19 big data articles that you must read
+Big Data: From a junk yard to a gold mine
+Ideal Qualifications ?€? Govt. Data Scientist (DS)
+Participate in 2015 Data Science / Data Miner Survey
+What Technology & Tool Skills Do Data Scientists Jobs Require?
+1,000 New Functions for Your Spreadsheet
+Ten General Principles in Data Mining/Science
+Mega collection of data science books and terminology
+Cloud Based Analytics - Coming Clash of the Titans
+Top Downloaded & Most Discussed R Packages
+Simplest Way to Monetize Data: Think of Data as a Product
+Weekly Digest - April 13
+Finding Group Structures in Data using Unsupervised Machine Learning
+The Hot Hand Rises Again
+Lambda Complexity: Why Fast Data Needs New Thinking
+Five Characteristics of the Big Data Bang
+Building an NCAA Men?€?s Basketball Predictive Model
+Tuning Machine Learning Models Using the Caret R Package
+The Hype Around Graph Databases And Why It Matters
+Predicting Car Prices Part 2: Using Neural Network
+Predicting Car Prices Part 1: Linear Regression
+Be as Smart as Your Devices: Learn About Big Data
+Jackknife and linear regression in Excel: implementation and comparison
+Automating IHS Oil and Gas Production Data Downloads and Other Travels
+Why Does Everyone Need to Learn How to Code? To Understand Data.
+Powering Patient Care Using Big Data
+8 factors to consider before buying BI Software
+Contradictions of Big Data
+Weekly Digest - March 16
+Is Spark The Data Platform Of The Future?
+The Evolution of a Data-Driven Startup
+Do You Really Need a Unicorn?
+Book Review: Be a Winner in the Big Data Revolution
+40 maps that explain the Internet
+Real-time analytics weather
+Call for papers: Injury surveillance: Next generation
+100 R packages
+Smart Big Data: The All-Important 90/10 Rule
+Hacking Y Combinator
+Four Techniques to Apply in the Design of Data-heavy Applications
+Weekly Digest - March 23
+Mining Web Pages in Parallel
+Impact of target class proportions on accuracy of classification
+How to Ask an Analyst a Question
+Data Scientist Shares his Growth Hacking Secrets
+Big Data or Not Big Data: What is <your> question?
+On Synchronicity and Decision Making
+Defense Against the Dark Arts:  3Vs? 4Vs?
+Top Big Data Skills In Demand
+Online Courses to Freshen Up Your Knowledge of Big Data
+Social Construction of Technical Trading Data
+Hadoop's impact in Data Management's future - Strata + Hadoop 2015
+Some statisticians have a biased view on data science
+Big Data: The 4 Layers Everyone Must Know
+A solution for classification rules management toward actionable analytics
+Optimal Binning for Scoring Modeling (R Package)
+Have You Heard About DRILL?
+Growth in Insights vs. Growth in Big Data
+Visualization of data science patterns
+An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
+Weekly Digest - March 2
+Data + Science = Sexy
+Data Visualization: A Day in the Life of Worldreader
+Big data and the retail industry: infographics
+7500 companies hiring data scientists
+Improving Network Security with Big Data
+Building credibility for your analytics team?€?and why it matters
+Data Scientists: Where do you all live?
+At What Time in the Day Are We Most Productive?
+Will Big Data Make Data Scientists Redundant?
+Big Data Humor: Top 10 Conversations That You Don?€?t Want to Have on Data Innovation Day
+Caltrain Quantified: An Exploration in IoT
+Weekly Digest - February 9
+Analyzing Analysts To Build Better Analysis Software
+Guide: What is Human-in-the-Loop Machine Learning?
+Big Data, IoT, Wearables: A Connected World with Intelligence
+Optimizing care gaps and outreach programs in Healthcare
+Taking the Fear Out of Statistics
+Book Introduction: High-Performance Data Mining and Big Data Analytics
+400 Categorized Job Titles for Data Scientists
+Programming for Data Science the Polyglot approach: Python + R + SQL
+Swimming Pools and Nicholas Cage: A Look at How We Misunderstand Correlation
+Big data not so big: Parallel thread processing in SAS
+2015 Survey of Data Scientists Reveals Strategic Insights
+Who killed the Storyteller in Marketing
+Weekly Digest - February 16
+Decision Scientist vs. Data Scientist
+Digital Transformation impacting Customer journey
+Big Data: What Are The Key Jobs and Salaries Available?
+'Foresee' a Culture of Analytics
+Analytics Business in 2014  - A review
+In Big Data, Preparing the Data is Most of the Work
+Most popular data science skills
+Development as Art - Hopscotch and Robots
+Insight-driven vs. Intuition-driven Decision Making
+How to Lie with Visualizations: Statistics, Causation vs Correlation, and Intuition!
+9 tips for effective data mining
+Predictive Customer Intelligence
+Top 10 bloggers writing about Tableau
+Weekly Digest, January 12
+Why Topological Data Analysis Works
+Competitive Intelligence: Are we looking over our shoulders?
+Is Big Data the Single Biggest Threat To Your Job
+Three Types Of Analytic Talent You Need
+Understanding the nature of IoT data
+Latest MOOCs on Data Science
+Top 10 Big Data and Analytics References
+Temporal Databases: Why you should care and how to get started (Part 1 of 3)
+Data Science Art
+Temporal Databases: Why you should care and how to get started (Part 2 of 3)
+Temporal Databases: Why you should care and how to get started (Part 3 of 3)
+Data Science - learn R or Python?
+Fallacy of Rational Prerequisite & My Fruitless Existence
+Why Media Bias Has Nowhere to Run and Hide from Data Science
+Actionable Insights from Competitive Research
+What can be predicted, and what can't?
+5 basic rules of data organization
+What is the future of Data visualization and Dashboard solutions?
+Quick Survey-Journey to become a Data Scientist
+Don?€?t Judge a Tweet by its 140 Characters: How One App is Using Machine-Learning to Tackle Credibility on Twitter
+Data science without statistics is possible, even desirable
+Big Data, IOT and Security - OH MY!
+Weekly Digest - December 15
+10 data science predictions for 2015
+Our iceberg is melting . Now where's that data scientist?
+Big Data: The Key Vocabulary Everyone Should Understand
+How-to use Bag of little bootstraps Methodology to Compute Error Bounds on Machine Learning Tasks
+Looking Forward: Big Data in 2015 by Gurjeet Singh
+Rules for building a Data Product in IT organizations
+Best solution to a problem: data science versus statistical paradigm
+Data Visualization of Employee metrics at the top Tech companies
+The Future of Big Data is Wearables
+Infographic: Data Science 2015 -- What's Hot & What's Not
+Can Analysis be Open-Source?
+Key Takeaways: Pivotal?€?s Top 10 2015 Predictions
+Data Science + Behavioral Science = Force Multiplier ! 3 User Stories
+High versus low-level data science
+Data Science Musings: We Make Better Health Choices When We Think We're in Control
+Data Diversity and Integration Trumps Big Data for Better Decision-making
+Weekly Digest - November 24
+Earthwatch to Look at Climate Change in Acadia National Park
+Field Report Day 2: How a Data Lake Could Fast-Forward Our Understanding of Climate Change
+Don?€?t Expect A Large Salary Increase If You Didn?€?t Go To College
+Field Report Day 3: Applying Data Science to Speed the Study of Climate Change
+Field Report Day 4 (Final): How a Data Lake Could Help Solve for Climate Change
+Top data scientist forecasts the UK's energy consumption in 2020
+Are all Software Applications becoming Analytic Applications?
+Popular Software Skills in Data Science Job postings.
+Discovery with Data Science, Innovation with Product Management
+How Data Science Can Predict if a Controversial Ad Will Backfire
+THE PAST (Entity-Attribute-Value) vs THE FUTURE (Sign, Signifier, Signified)
+Misbehaving Demographics and their Data Science Implications
+Where The Cloud Meets The Grid
+5 Change Management Tips for Pervasive Analytics Success
+Implementing a Distributed Deep Learning Network over Spark
+CERN Open Data Portal?€?working environments, virtual machines and datasets
+Weekly Digest - December 22
+The Richness and Reality of World Data
+Choosing a classifier for predictions
+Infographic by Data Camp
+Linked Data meets Data Science
+Weekly Digest - December 1
+Data science versus statistics, to solve problems: case study
+Weekly Digest - November 10
+22 tips for better data science
+True Freedom - Algorithmic Man Unplugged
+stable form while being detached from the personal impacts and consequences to people. The administrative
+My data science journey
+The growth of data science over the last two years: 300%
+My thoughts on data science and big data
+Why Data Scientists create poor Data Products ? ( And 5 things that can be done to change this )
+Privacy, Personalization, and the IOT - Retail
+Weekly Digest - November 17
+Tableau Top BI Trends for 2015
+The Only Skill you Should be Concerned With
+Variable Metrics Formats for Mass Data Assignments
+Customer Experience - Hiding Behind Data
+Ebola Death Cases - Admitted , Recovered Cases
+Revisiting HR Analytics
+The Business Value of Pervasive Analytics
+To build a MEL, you need a Private Detective
+Do you know what is bigger than Big Data?
+Unraveling Real-Time Predictive Analytics
+Cloud based Analytics Service ?€? Future of Analytics?
+Can historical data save Olive Garden from its 2008 erosion?
+Top 2,500 Data Science, Big Data and Analytics Websites
+4 easy steps to becoming a data scientist
+Conrad Wolfram talks data and democracy at the TEDx Houses of Parliament
+200 Top Bloggers on Data Science Central
+Experts Debate ?€?Building the Next Big App?€? [Part 1]
+Experts Debate ?€?Building the Next Big App?€? [Part 2]
+Experts Debate ?€?Building the Next Big App?€? [Part 3]
+The Value of Accuracy in Predictive Analytics
+Startups Innovating Data Science Platforms
+Popular predictive apps and APIs
+Enhancing Compliance & Oprisk Management through Analytics
+Dark Art of Warping
+2-D random walks: simulation, video with R source code, curious facts
+Q&A: Andy Stanford-Clark on IoT [Part 1]
+Is data science a new paradigm, or recycled material?
+Pervasive Analytics: Winning the global data rush.
+13 New Trends in Big Data and Data Science
+On the Role of Big Data in International Development
+Weekly Digest - October 20
+Bottom line on Data Visualization
+Quantifying the Value of a NoSQL Project
+Y Combinator companies has more funding than the sum total of all remaining accelerators
+BI Invades HR: How Analytics are Transforming the Hiring Process
+When Personal Security gets real
+Rise of online real money gaming; and how it can grow with its offline counterpart?
+50 Face Recognition APIs
+Harvesting wild data: A pickers guide.
+How should a financial report look like?
+SMBs and the Cloud: Things to Consider Before Adopting Cloud Strategies
+Prescriptive versus Predictive Analytics - A Distinction without a Difference?
+How Zipfian Academy Graduate Alex Mentch became a Data Scientist at Facebook
+Bit.ly banned on Google
+Qualitative Engine for Organizational Simulations
+Unicorn Data Scientist Shares his Secrets with You
+Weekly Digest - October 13
+He Tweeted, She Tweeted: A Study on Romantic Breakups on Twitter Using Data Science
+I Just Completed 100 Tableau and Alteryx Focused Blog Posts
+Lesson 8: Graph Databases
+Big Data Technology Vendor Consolidation
+Lesson 9:  Making Your Selection - Final Considerations
+Universal Data Model - A Really Different Look at Data
+Too much talk in Analytics & too little action!
+Top Cities and Other Demographics for Data Scientists
+Data Science and Machine Learning for Preventing Fraud in Mom and Pop Ecommerce Shops
+How Big Data is Revolutionizing Real Estate
+What Are Analytic Marketplaces?
+Weekly Digest - September 22
+Defining Big Data
+Why Zipf's law explains so many big data and physics phenomenons
+Is BYOD Momentum Fading?
+Weekly Digest - October 27
+Big Data is Stupid Data
+Preliminary findings about Zipf's Law (the thick tail distribution)
+Embrace Relationships with Neo4J, R & Java
+Top 2,500 Websites - top of the top
+Weekly Digest - August 25
+Machine Learning: Interview with Spencer Greenberg, CEO of Rebellion Research
+Top 2,500 Websites - not crawlable
+Making D3.js Reusable With Templates
+The Awkward Road
+The Shifting CXO crowns and the changing Analytics leadership requirements
+Six Thinking Hats and the Life of a Data Scientist
+Lesson 2: NoSQL Databases are Good for Everything ?€? Except Maybe this One Thing
+Are You A Data Scientist ?
+Announcing the winner of our second competition - Jackknife regression
+9 Lessons:  Picking the Right NoSQL Tools
+Weekly Digest - September 8
+Lesson 3:  Open Source, Distribution, or Suite
+The Poisson Pill ?€? Just what if we can go beyond the ?€?What ifs?€??
+Lesson 4: Features Common to (Most) NoSQL/NewSQL Databases
+The Month in Data Science
+Lesson 6:  Document Oriented Databases
+Top 10 Capabilities for Exploring Complex Relationships in Data for Scientific Discovery
+Lesson 5:  Key Value Stores (AKA 'Tuple' Stores)
+The "Island of Games" Data Puzzle
+Lesson 7:  Column Oriented Databases (aka Big Table or Wide Column)
+Weekly Digest - September 15
+Gamification: Realizing Elusive Engagement!
+Top 2,500 Websites - not containing seed keywords
+SKOS as a Key Element in Enterprise Linked Data Strategies
+5 Industries That Need Big Data
+Banned on Google: How to fight EU Censorship?
+Beyond the 4 Ms of Manufacturing
+10 Steps for Big data projects
+The Target Security Breach: What Happened and What It Can Teach Us About Cyber Security
+Advanced and Predictive Analytics Vendor Ratings 2014
+Weekly Digest - July 28
+Origins of the Species
+Your Data Science Portfolio: Be An Open Data Curator
+20 short tutorials all data scientists should read (and practice)
+Your Data Science Portfolio: Math Skills Don't Matter
+20 Big Data Opportunities for CFOs and Auditors
+Weekly Digest - August 11
+Data Science Cheat Sheet
+A New YouTube Blog
+ACID concept in DB
+Black-box Confidence Intervals: Excel and Perl Implementation
+Leveraging Predictive Analytics to Avoid a Major Point of Hiring Failure
+Am I marketable?
+Weekly Digest - June 23
+30 interesting statistics about social media
+BigQuery Big Data Visualization With D3.js
+Weekly Digest - July 14
+10 Features all Dashboards Should Have
+Applications of Big Data in Customer Segmentation
+The Best Ways to Segment Customer Data
+Fake traffic un-detected by Google Analytics
+15 interviews with 15 data scientists
+Weekly Digest - July 21
+The fastest growing data science / big data profiles on Twitter
+Top Data Scientists on Twitter
+Ensuring Success of Early Modeling Initiatives
+Participation in Data and the Effectiveness of Intervention
+An Ethics Framework for Big Data
+Can A 50-Person Startup Threaten Oracle, IBM, And Microsoft?
+How big data analytics can help to avoid fx rate fixing & Benchmark rate rigging?
+How many of us think Big Data is Big BS?
+This Just In: How Big Data is Changing Journalism
+Common Pitfalls that Can Doom a BYOD Program
+Social Media for App Capture and Question Answering in Open Vocabulary Executable English over Web Databases.
+Starting down the path of Data Science
+Continuing along the path of Data Science
+Top Three Business Benefits from Big Data
+5 Signs You're Ready for a Data Warehousing Solution
+Being a data scientist in a small country: challenges and solutions
+Geography of Data - Restoring the Transpositional
+The 10 Algorithms That Dominate Our World
+5 Key Big Data Challenges in Banking Industry
+Three interesting but little known programming languages
+List of NoSQL Databases
+77 People Who Truly Have Written Interesting Things About Data
+Data science profession: accredidation, code of conduct
+Dimensional Modelling
+Weekly Digest - June 2
+New batch of 23 great articles and resources
+Doing Data Science - Straight Talk from the Frontline by Cathy O'Neil, Rachel Schutt Book Review
+4 Things to Do with Customer Data
+Roadblocks to Using Big Data: ?€?First Mile?€? and ?€?Last Mile?€? Challenges
+The Data Science Research Center
+Data Shinobi: 1 - The Fundamentals
+Data Science Has Been Using Rebel Statistics for a Long Time
+Data Analysis To Data Science
+10 types of regressions. Which one to use?
+Must read before attending any data science interview
+Unsolicited data scientists solving your problems without using your data
+5 Analytical Constructs for Modelling Energy Prices
+Data Shinobi: 3 - The Shrines & The Deities
+What does it feel like to be the CEO of a start-up?
+Should colleges pay a fine when students default? Not exactly, says data science.
+Causality, Closet Nazis, and the Metrics of Criteria
+Weekly Digest - June 30
+Grand Challenge: Unified Visual Data Representation
+35 books on Data Visualization
+25 Data Scientists Popular on LinkedIn
+Considerations When Selecting a BI Vendor
+Weekly Digest - July 7
+Law and Ethics of Online Human Subject Experiments
+Beyond The Visualization Zoo
+Standardized Performance Friendly to Big Data
+Weekly Digest - August 18
+Wizard of Oz and the new Analytics Fairytale
+Types and Uses of Predictive Analytics, What they are and Where You Can Put Them to Work
+Comparison of statistical software
+Systemic Intelligence - Prelude to a Universal Data Model
+Data analysis software compared
+BNY Mellon, ICICI Bank and M&T Bank are lined-up for the biggest credit risk event of 2014
+Three Fundamental Google rules detected thanks to data science
+How invisible data could provide the tobacco industry a second life
+Business Intelligence Value Chain
+Weekly Digest - May 5 (New Format)
+45 surprising facts about big data
+72 Infographics about big data
+7 Tips to Create Winning Reports and Dashboards
+Strategic Placement for Big Data in Organizations
+Editor's weekly selection of resources and articles, from various blogs and news outlets
+Benefits of Data warehouse and Business Intelligence
+Five must read analytics blogs
+How the gap between data science and statistics grew over time
+Practical Applications of Locality Sensitive Hashing for Unstructured Data
+Data Analytics in Government
+GUI software for database performance management
+Addition of Different Dimensions to Data
+Business Intelligence Architecture
+iPad Program Let's You Touch Your Data
+40 maps that explain the Internet
+Great data challenge: factoring the product of two large primes
+NoSQL & NewSQL Database Adoption 2014
+30 great articles and resources from top news outlets - updated weekly selection
+Bad Data Science and Woody Allen
+Weekly Digest - March 31
+Data science job ads that do not attract candidates, versus those that do
+MapReduce / Map Reduction Strategies Using C#
+Is Data Scientist the right career path for you?
+Two new books in my Data Science and Big Data stack
+Big Data Without Statisticians: BD2K Symposium At UCLA
+Nate Silver's famous run of successful predictions came to an halt
+Illegal drugs: do they really work?
+How can social networks easily generate an extra $200 million per year
+Big Data Timeline
+Data Science Dictionary
+Weekly Digest - April 7
+The Data Science Venn Diagram Revisited
+Big Data -- Seven Meta-Resources for Best Practices, Lessons Learned, Data Stories, Opportunities, and Insights
+Data Science for business hacking
+Weekly Digest, April 14
+Big data: are we making a big mistake? My reaction
+9 "must read" articles
+Another 10 external articles and resources worth reading
+4000 copies of data science book pre-ordered
+How to identify the right data scientist for your company
+Weekly digest - April 21
+Top 10 List ?€? The V's of Big Data
+STEM Education and Big Data
+Weekly digest - March 17
+7 Key Skills of Effective Data Scientists
+Big Data A to ZZ ?€? A Glossary of my Favorite Data Science Things
+Top 10 Business Intelligence Trends for 2014
+Weekly digest, New Data Science Central Competition
+Machine Learning in Parallel with Support Vector Machines, Generalized Linear Models, and Adaptive Boosting
+Jackknife logistic and linear regression for clustering and predictions
+Write a data science research paper and win fame and award
+18 Great external resources and articles from top news outlets
+KDNuggets 2014 Salary Survey (and 10 other salary surveys)
+21 Thought-Leader Professors in Data Science
+The Haboob Clouds Hadoops Future
+The Data Science Toolkit - My Boot Camp Ciriculum
+Interesting chart
+Big Data, Big Savings: Environmentalism and High-Tech Collide
+Cute but flawed API: What your name says about your politics
+The Data Scientist at Work
+Vertical vs. Horizontal Data Scientists
+Trying to restore database
+Moving the goal posts ?€? Variable ticket pricing comes to the NFL
+Weekly Digest - February 17
+Clustering Similar Images Using MapReduce Style Feature Extraction with C# and R
+Interesting cartoons
+The top 1% data users consume 99% of all the data being produced. True or false?
+Proposal for bulk email processing
+Interview with Dr. Roy Marsten, the Man Shaping Big Data
+Big Data Vendor Revenue and Market Forecast 2013-2017
+Salary history and career path of a data scientist
+Weekly Digest - February 24
+Learn experimental design with our live, real-time ongoing analysis
+Risks Posed by Commodified Labour in Complex Fields
+Best Online Educational Programs in U.S.
+Big data: the door to co-operation and communication in telecommunications
+Using Analytics to Solve the Problem of Employability
+R resource guide for quantitative Data scientist
+The Data Science Toolkit - The Future Web Toolkit
+Forecasting with the Baum-Welch Algorithm and Hidden Markov Models
+Read this tutorial before you use Proc Corr
+Is Your Customer Data For Your Customers Benefit?
+California regulator seeks to shut down ?€?learn to code?€? bootcamps
+The reason Facebook paid US$ 19 bn for Whatsapp?€?decoded
+Super Bowl Analytics: A Closer Look at #WhosGonnaWin
+The Data Science Association
+Weekly digest - January 13
+Big Data books - Data Science, Analytics, and Machine Learning. Oh my!
+Banks gain value out of big data focusing on the customer experience
+Three myths about data scientists and big data
+Data Science ?€? the Foundation for Leading Banks
+A Date with a Data Scientist
+Weekly digest - January 27
+Data Science: What goes around comes around
+IPython, RMagic, and Plotly: Graph and Analyze Titanic Passengers
+Article:  Using Data Mining Techniques to Predict the Winter Olympics Medal Counts
+The Data Science Toolkit - taking your first steps towards becoming a Data Scientist
+Not just analyze the log, mine it.
+Survival Analysis (Video)
+Data Analytics: Keeping it Clean with a Nod to History
+Lenders, know thy customer
+Scientific visualizations in early mathematical biology and morphology.
+Practical illustration of Map-Reduce (Hadoop-style), on real data
+Predicting the Super Bowl
+Big Data analytics: Key insights for 2013 and what's ahead for 2014
+Machine learning: an overview
+Your custom MDM solution: Don?€?t make these mistakes (Part 1)
+10 ways for Banks to achieve greater profit and customer satisfaction
+14 articles and resources worth reading
+Weekly digest - February 3
+The Data Triangle: A Simple Framework For Data
+What is the difference between in-memory and in-place computing approach?
+Few Tips to Directorial Job Searching Candidate
+Big Data and 2014
+Why statistical community is disconnected from Big Data and how to fix it
+Big Data Applications Scaling Using Java Architecture in the Cloud
+Weekly Digest - December 16
+Has the pace of information growth started to slow?
+check out the best way to maximize natural gas supply to Boston during winter
+Plotly: Multiple Axes Scales with Old Faithful Data, in R
+Operational Data Science: excerpt from 2 great articles
+My Data Science book: Chapter 7 completed
+Smart Use of Small Data Can Still Have a Big Impact
+The University of Denver
+Twitter Weather Radar - Test Data for Language Analytics
+The Data Bug
+3 Tips Every IT Health Trainer Needs to Know
+Disruptive Technologies: An Opportunity or a Threat?
+Big Data Analytics - 2014 and Beyond
+Data and visualization year in review, 2013
+Harvard classes on data science
+Weekly digest - December 23
+In-place Computing Model: for Big and Complex Data
+The Youngest Data Scientist
+Agile VS Traditional Project Management
+Six categories of Data Scientists
+Markov Logic Networks for Better Decisions
+Data Scientist versus Statistician
+Data Scientist versus Data Architect
+Taxonomy of Data Scientists
+Data Scientist versus Business Analyst
+Data Scientist versus Data Engineer
+Need solution To Crawl 200 million Web Page in 10-1 month Using Perl and hadoop is this possible?
+Healthcare Informatics and Big Data
+SOA, Cloud Computing and Big Data Security
+QlikView usage for full search
+Don't reinvent the wheel!
+Big Data getting bigger in UAE
+Hazards of Institutional Data
+Weekly Digest - Thanksgiving Edition
+A New Source of Revenue for Data Scientists: Selling Data
+Big Data: An Understanding
+New in Plotly: Interactive Graphs with IPython
+Lambda Architecture for Big Data Systems
+?€?GHOST DEVELOPERS?€? AND BI CENTRE OF EXPERTISE: THE BELGACOM GROUP?€?S EXPERIENCE 
+Banks Want More Wallet-Share?  Stop Competing with Each Other.
+Healthcare Informatics and Agile Project Management - Intro
+Introduction to Predictive Analytics (video blog)
+Developing a Big Data Strategy
+Big Data Analytic and Important Question
+Plotly Beta: Graphing and Analytics Platform
+New England Natural gas Supply Dynamic during October 2013
+Visualization - Trading Without Numbers
+A visual solution to a problem of constraints.
+Top 5 Cloud Computing Myths?€?That Just Won?€?t Die
+Oil n Gas Sensor Data + Big Data Analytics = Game Changer !!!
+20 white papers and power point presentations
+Big big love, how big data's influencing the future of the online dating scene
+Data Mining and Cookie Butter - Yes, they're related.
+A little known component that should be part of most data science algorithms
+A Niche for Psychologists in Big Data
+Warm-up exercise before data science.
+" Jobs For Freshers In India "
+The Datification of Life and Business
+Empower Network Analysts with Automated Pattern Discovery
+Big Data Micro-Segmentation Can Help Banks Become Relevant Consumer Commerce Partners
+IBM Distinguished Engineer solves Big Data Conjecture
+Big Data Skills In Demand (Comprehensive List)
+R Tutorial for Beginners: A Quick Start-Up Kit
+A Tail of 3 Models - The Story of Goodness of Fit with Binary Classification
+The BigObject - an Agile Analytic Engine for Big Data
+Reductive Versus Expansive Data
+Creating Complex Encoded Objects from Qualitative Data
+Java Coding Samples for Online Data-mining
+Search for Embodiment in Data Mining
+Big Data and Education Data Mining
+Interesting Data Science Application: Steganography
+Building better search tools: problems and solutions
+Sensors Here, There and Everywhere
+Female Instincts vs. Quantum Entanglement
+Why the Business Gets Frustrated with IT: the Data Warehouse
+Weekly Digest - September 16
+Do not stifle the questions visualized data raises!,Do not stifle the questions visualized data raises!
+Google F1 Database: One Step Closer To Discovering The DB Holy Grail
+Bootstraps, Permutation Tests, and Sampling Orders of Magnitude Faster Using SAS
+High Performance Computing + Data Science = Competitive Advantage
+?€?The Purple People?€? - The conundrum of finding business expertise among Data Scientists.
+Our best data visualization articles
+A Data Science Example: Deciding When to Sell Your House
+Balanced Scorecard Secrets that Book-Smart Professionals Do Not Talk About
+Instructions for guest bloggers
+Your social network profile used in credit scoring models
+A Guide to Mass Shootings in America
+The Data Discovery Platform - Teradata Labs (Webinar)
+Unleashing Intelligence through natural language (Part 4 - Data, Information, Knowledge and Wisdom)
+Big Data Cloud Analytics By Example
+Python Scikit-learn to simplify Machine learning : { Bag of words } To [ TF-IDF ]
+Free NAS eBook: "Frontiers in Massive Data Analysis"
+Random Forests Algorithm
+10 signs that you are a data scientist
+Interesting Inforgraphic about Big Data Across the Industry Sectors
+Critical Data and the Organizational Construct
+Probably Predictive
+A Data Scientist?€?s Guide to Making Money from Start-Ups
+Will Data Science Forever Change Branding Strategies? Here is a Glimpse of The Future Company
+Today's Big Data is Not Yesterday's Big Data
+Democratizing Data Assets: Learning From Data, Big and Small
+BI For Big Data -  Webinar hosted by DSC
+Big Data: Big Dud? or Big Excuse for Nonscientific Thinking?
+Recent Acquisitions In Big Data
+Scholarship Recommendations
+Deriving Maximum Value from your Enterprise Data Warehouse - Webinar
+Tool for Computing Continuous Distributed Representations of Words
+CMO, are You on the Real-Time CRM Big Data Applications Bus?
+How can IT innovate?...  Innovation Management with the Power of Data Science
+Your next interview question: "what hz are you?" - ionospheric calculation across the fields...
+BI vs. Big Data vs. Data Analytics By Example
+An indispensable Python : Data sourcing to Data science.
+Prescriptive Analytics
+Top Languages for analytics, data mining, data science
+Data Scientist Core Skills
+What is a data warehouse? How do we get Business Intelligence?
+Important message to Gmail users
+Weekly digest - November 4
+How to eliminate a trillion dollars in healthcare costs
+Weekly digest - September 2
+Data Science Summer Reading List 2013
+Rapid hadoop development with progressive testing
+The Best Of Open Source For Big Data
+Weekly digest - July 15
+Big Data on the Big Data Conversation: Tracking the NSA Story
+IBM 4690 Supermarket Application Transaction Data
+Demand for Data Scientists and the Datification of Business
+8 M2M  Big Data Use cases in Building Management Systems
+Data Scientists Wanted to Create New Tech Tools for Our Cities
+Hadoop Falcon and Data Lifecycle Management
+Posted Since Monday
+Big Data & Analytics - DJ Patil
+How To Avoid The Big Data Quicksand
+A Sailor's Reflection on the Big Data Lake
+Big Data: Understand the customer course on the net before he buys
+3D Printing and Supply Chain - Impact on Customer Satisfaction? Afterthoughts Radical Abundance
+HR Technology Trends for 2014
+Natural Language Processing (handling unstructrued data)
+Hadoop: What It Is And Why It?€?s Such A Big Deal
+Agile Data Quality Best Practices
+40 selected articles from top news outlets
+Data Science and Predictive Analytics Strategy for Marketing
+Unleashing Intelligence through natural language (Part 3 - Autonomously generated assumptions - with self-adjusting level of uncertainty)
+The Professionalization of Data Science
+Kool Captcha, a Next generation Captcha which truly unleashes the power of Captchas and does advertising, analytics and Entertainment.
+Five data preparation mistakes
+Weekly digest - July 1
+Hello, BigData World !
+R in your browser
+Data Scientists: The Next Generation
+The Data Scientist: Elusive or Illusive?
+How do school ratings correlate with home prices?
+wind power economics, check out the bidding profile of wind power generators
+Big Data Applications to Financial Instituions
+Data Scientists vs. Data Engineers
+Big Data and Meaningful Storage Metrics
+M2M + Big Data Analytics = Unlocking Blue Ocean Opportunities at the intersect
+Information Singularity and the Principles of the Analytics Rock Star
+Join the Data Science Revolution with Alpine
+Data scientists dictate what we eat
+How to detect three types of hidden data, to eliminate opportunity costs
+Interesting database questions
+SAS Dominates Analytics Job Market?
+Data Scientists Sometimes Fool Themselves
+Predictive Modeling is Useless!
+Fundraising Data Analysis: Building Campaign Pyramids to Determine Donor Interest
+Data Science and Perspectives
+Data storage ?€?The suspended data grid?€?
+Which is the best software to build a data mart
+The NSA data privacy scandal: a different point of view
+Hadoop Online Training
+LEVERAGING PRIVACY SETTINGS TO SALES DISTRIBUTION CHANNELS FOR EFFICIENT INSURANCE MARKETING
+Want to predict human behavior? Use these 6 lessons based on data from 10 million households
+How Big Data will disrupt HR and Recruiting--PODCAST
+Data Science: The End of Statistics?
+With Big Data, Context is a Big Issue
+Spark Streaming: Real-time Hadoop
+Weekly Digest - April 29
+CMOS SOON TO HAVE MORE I.T. BUDGET THAN THE CIOS; SHIFT ATTRIBUTED TO MARKETING ANALYTICS
+Hadoop Herd : When to use What...
+How to install MapR M3 on Ubuntu through Ubuntu Partner Archive.
+Accumulo - Sqrrl NoSQL Secure Database
+The Data Scientist Conversation Continues...
+Data Science Revolutionizes Health Care
+Viral program for data science authors and bloggers
+Hadoop+Ubuntu : The Big Fat Wedding.
+How to find First Order effects, Second Order effects and their significance/causality in Data Analysis
+Big Data, Big Relevance
+The Rise of the Data Artist in Business
+Full Tilt Poker: Big Data Fraud Detection and Prevention
+Viability - A New "V" for Big Data
+To Hypothesize or Not to Hypothesize
+Big Data ?€? The Big Picture
+Weekly Digest - May 13
+300 great articles from top news outlets
+Guest blogger invitation
+Unleashing intelligence through natural language (Part 1 - Autonomously generated questions about gaps in the knowledge)
+Smart Data Scientists Virtualize Data
+Question About BI
+Data Science eBook by Analyticbridge - 2nd Edition
+Analytics and the Indian Market- Good things ahead
+Weekly Digest - April 1
+31 selected articles from top news outlets - last 30 days
+10 Forbes articles on visualization, by Naomi Robbins
+The Face of the New University
+Big Data: information, propaganda, disinformation and deception
+Data Scientists Draw Pictures and Tell Short Stories
+BI reporting tools: To Pay or Not To Pay.
+Big data...better decisions.
+Small Data is Beautiful
+Big Data, Fast Data, Smart Data
+Is your data really Big(Data)??
+Unleashing Intelligence through natural language (Part 2 - Autonomously generated conclusions)
+Prestigious Brands Academy Award for Jigsaw Academy
+Weekly Digest - April 15
+New, fast Excel to process billions of rows via the cloud
+Big Data Needs to Tell a Story
+CENTRALIZING CUSTOMER DATA ENSURES EFFECTIVE INSURANCE MARKETING
+Pivotal - A New Company, A New Data Platform
+The Disruptive Power of Big Data in the 2012 Presidential Election
+Looking to hire a Ning Consultant with specialized expertize
+The Big Data Tidal Wave - How Technology is Shaping the way Finanical Services Companies Operate
+Creepy Advertising Fraud Reaches New Levels
+Data Science is a Team Sport
+Real-time Insights on Driving Patterns from Big Data ?€? The Next Frontier for Competitive Advantage for Automakers
+Top 10 Data Scientists from Gil Press A-List
+Weekly Digest - January 26
+Letter from the Editor
+Selecting the Right Business Intelligence and Analytics Platform
+66 job interview questions for data scientists
+18 great articles posted this week on Data Science Central
+Optimizing Merchandising Using Big Data Analytics
+The Impact of Big Data Analytics on Healthcare & Your Health
+Google Spanner : The Future Of NoSQL
+New York City?€?s $15M Big Data Partner
+30 great articles from top news outlets
+The Data Supply Chain and Master Data Management
+Weekly Digest - Feb 18
+Spark, Shark and Mesos Data Analytics Stack
+Book Trailer: Too Big to Ignore
+EMC Greenplum Brings SQL to Hadoop | Forbes
+How to Integrate the Work of the Data Scientist into the Company's Strategy
+40 selected articles from top news outlets
+Weekly Digest - March 4
+Quick! Hire a Data Scientist! Not so fast, perhaps...
+Open for Comment: Proposed "Data Science Code of Professional Conduct"
+The Internet of Things, Data Science and Big Data
+Big Data means to support Buzz Marketing actions
+Big Data: Hadoop is not the universal panacea 
+Disruptive Data Science -- Becoming a DS-Driven Enterprise
+Mobile Analytics Tools
+Vote for the Best Big Data Analytics Platform
+How the Data Scientist Should Navigate Office Politics
+Predicting the chance that your tax return will be audited
+Weekly Digest - Feb 11
+The Need for a Product-Centric Approach to Big Data
+The graveyard of programming languages
+Are You a Data Whisperer?
+Should Data Science Become a Profession?
+Selected articles from top news outlets
+Automatically deskew before machine learning in R
+Unstructured Data Really Isn't
+Stock market: should you buy or sell?
+Overcoming Big Data Challenges in the Enterprise
+In-Memory Data Grids Allow Data Science at Faster Speeds
+Selected articles posted this week
+Weekly digest - March 17
+PAW San Francisco Packs a Punch with Keynotes in 2013
+Great graphic diagrams
+Preparing Millennials to Tackle Big Data Challenges
+Data: It?€?s not the length; it?€?s the width that matters!
+Python Data Tools
+The world is ready for the consumer-grade enterprise
+Business World Learns: Jigsaw trains much needed Data Scientists
+Vibrant, Growing, and Changing - That?€?s Analytics in 2013
+Predictive Analytics Strategy
+What does a data scientist do?
+Business Intelligence ROI Remains Elusive; A next-generation approach to ?€?ease of use?€? may hold the answer
+New articles posted this week
+Data Scientist Demographics
+Prognosis of actions due to analysis of personal movements and actions in massive multi-user (3D) environments
+Universities Offering Business Intelligence and Analytics
+Weekly Digest - May 27
+SAS Dominates Analytics Job Market; R up 42%
+Data scientists making $300,000 a year | Wall Street Journal.
+5 Disuptive Health Care Big Data Use Cases
+High crime rates explained by gasoline lead. Really?
+The Curse of the Bell Curve Part 1
+Database Revolution - The Future of Information Publishing
+Big data startup to fix healthcare
+Data Science Central / AnalyticBridge Update
+Top 5 Opportunities & Challenges in Big Data/Analytics Adoption for 2013
+Data Mining and Airline Safety
+Webcast: Marketing Attribution in a Big Analytics World
+7 big data articles published in mainstream newspapers
+18 great articles from top news outlets
+Data Science Ethics & Big Data Business Models
+Leveraging all data, big and small, for effective insurance marketing
+Weekly Digest - January 11
+Weekly Digest Special Edition: Most Popular Articles of all Time
+The Curse of the Bell Curve ?€? Part 2
+Data Science Technologies Ecosytem
+Data Science Central Weekly Digest - November 30
+Introduction to Classification & Regression Trees (CART)
+No Holy Grail: Moving Beyond the Data Warehouse
+Introduction to the K-Nearest Neighbor (KNN) algorithm
+Giviing Big Data Publishing the Royal Treatment
+What Big Data means at LinkedIn?
+8 TESTS TO DECODE BUSINESS ACCUMEN OF A DATA SCIENTIST
+Big Data pioneers show the way
+Splunk & 451Research on big data best practices
+Three Stages of Analytics Adoption
+The Big Data Analytics Landscape
+Seek the grail up the Knowledge Pyramid, not down
+Pundit Election Forecasts All Wrong, Nate Silver Perfectly Right. | TechCrunch
+Big Data Debunks View That Job-Hoppers Make Bad Hires | Forbes
+Article:  Data Mining Misconceptions - The 50/50 Problem
+Hadoop:- A soft Introduction
+5 great articles from top news outlets
+What makes a good SAS course?
+S3 as Input or Output for Hadoop MR jobs
+Data as Strategic Asset
+Digesting Big Data
+R + Hadoop = Data Analytics Heaven
+Data Science Central Weekly Digest
+An Open Letter to CEOs of US Software Companies
+Data Science Tools
+Data Veracity
+Develop analytical skills to unleash the power of Big Data
+Unstructured content processing with MarkLogic and Tableau
+Do You Really Need a Data Scientist?
+Data Science for Better Business Decisions Formula
+Big data Analytics ?€? A disruptive technology !!
+Is the Data Scientist Really a New Concept?
+15 great big data articles from top news outlets
+Bigger Than Big Data? Mobile User Expectations
+Structured vs. Unstructured Data: The Rise of Data Anarchy
+Political Campaign Data Science
+Proposal for an Apprenticeship in Data Science
+Data Science Central Weekly Digest - Dec 14
+Update About The Data Science Apprenticeship
+Big Data Analytics Infrastructure
+Big Data Platforms as a Service
+Sample: Too Big to Ignore
+Big Data Social Network Analysis fuelling Marketing improvement
+Data Science projects billed $300/hour on Kaggle
+Statistics is Dead - Long Live Statistics!
+Job titles for data scientists
+3 min  Healthcare Big Data Video
+Six Predictive Modeling Mistakes
+Weekly Digest - June 17
+Keeping Singapore Green with Data and Design
+Privacy vs. Security and Data Science
+Hadoop and Perl
+Big Data: Next Best Offer
+Big Data & Associative Technology (the future)
+Data?€?s Beauty: In the Eye of the Beholder
+SparkGrams: compact in-spreadsheet histograms
+Are you a geek or a nerd?
+Measuring Risk
+60+ R resources
+Big Data?€?s Missing Component: Data Suction Appliance
+A new type of weapons-grade secure email
+PJM market data used to reveal demand response market insights
+Batch vs. Real Time Data Processing
+Weekly Digest - August 19
+Playlists for Analysis
+Featured articles posted since Monday
+Botnets in the cloud: the new generation of spammers
+M2M PREDICTION ECONOMICS IN 3 INDUSTRIES
+My first impression about the Microsoft Surface
+Human Factors - Unhappy Truckers
+DUI arrests decrease after state monopoly on liquor sales ends
+Update about our data science competition
+The dark side of Big Data: credit card ID theft, how it has been done...
+Turning visitors into sales: seduction vs. analytics
+Statistical Thinking is not science fiction, but a data science necessity
+How to Avoid Political Blunders in Analytical Discussions
+Choropleth in D3.js and Pandas (iPython Notebook)
+Insight into Forums ?€? Using Big Data to engage customers, preserve your brand
+Hadoop 2 Helps Systems Integration
+My caddie just joined Mensa- Designing Golf through big data
+ERP Tools, Enterprise Data Warehouse and Warranty Management
+The Modern Data Architecture - DSC Webinar
+Marrying computer science, statistics and domain expertize
+Using Big Data to Sell to Individuals Instead of Stereotypes
+Tableau and Data wrangler have a child
+What will America pay for H1-B Jobs?
+Check out the evolving US natural gas consumption stack
+Hadoop vs. NoSql  vs. Sql vs. NewSql By Example
+Can you win a Facebook data science job? Take the test!
+Selected articles from top news outlets
+The Merging of Social Media, Big Data, Perpetually Connected Consumers and AI... Nirvana, or the End of Free-Will?
+?€?The Purple People?€? - The conundrum of finding business expertise among Data Scientists.
+Q&A: Thinking of Data as Information Capital
+Data Science Project: Captcha Attack
+Do you want to solve real world predictive analytics case study and get ranked amongst your peers?
+The Book: Big Data, NoSQL, Cloud A Paradigm Shift
+Analytics In Healthcare Industry
+The assumptions on which the RDBMS is based has changed: data and code
+More than 100 data science, analytics, big data, visualization books
+The assumptions on which the RDBMS is based has changed: the ideal data structure
+A Practical Introduction to Data Science from Zipfian Academy
+Big Data, Analytics and Really Big Data Aanlytics
+Honeybees, Hive, and Presto
+We need your vote for Teradata Aster
+Fast Combinatorial Feature Selection with New Definition of Predictive Power
+Hidden decision trees revisited
+Sports Analytics: Is It Only For Developed Countries?
+Zipfian Academy versus Data Science Apprenticeship
+How to compare and rank data science programs?
+ETL, ELT and Data Hub: Where Hadoop is the right fit ?
+Weekly digest - November 18
+Models vs. Experiments
+New Plotly Gallery: Beautiful, publication-quality graphs in the browser
+Plotly Beta: Gallery of Beautiful Graphs
+The Data Science Equation
+Should Big Data processing matter ?
+Three Announcements
+Weekly digest - January 20
+Introduction to the BigObject?? and In-place Computing Model
+The Power of Bubble Charts
+DATA WAREHOUSE GOVERNANCE 
+Choosing the appropriate Clustering Algorithm (Video)
+The Road to Customer Intelligence
+10 Great Attributes of Jigsaw Academy's HR Analytics Certification Course
+Here's to the Skeptics: Addressing Predictive Modeling Misconceptions
+Replaying the NFL Championships with Twitter Language Analytics
+Weekly digest - September 30
+Should you invest in Big Data? Why that's likely the wrong question?€?
+Possibly the most terrifying fraud scheme to efficiently steal all your money
+DSC Webinar Series
+How Do I Start Learning Hadoop?
+Our 29 best articles about data scientists
+Comprehensive predictive analytics market research (2013-2018)
+Linkedin Jobs, Disappointments and Big Data
+Data + Psychology: The Case for Strategic Talent Management
+Big Data & Social Network Analysis
+Visual Dashboards that Persuade, Inform, and Engage
+Selling data becoming hot business with government shutdown
+Fooled by Twitter Data
+5 Data Science Sins To Beware
+Basic Understanding of Big Data. What is this and How it is going to solve complex problems
+Salary surveys for data scientists and related job titles
+11 Features any database, SQL or NoSQL, should have
+Weekly digest - October 14
+Gather technical & business world
+Data Science course from  MITX
+Selection of data science articles from top news outlets
+7 ways Big Data can help your BI solution
+2013 Data Science Salary Survey, by O'Reilly
+Weekly Digest - February 10
+Bring Data Science to Everyday Life
+(R + Python)
+Data Science Book: We Need your Resume or your Job Ad!
+Plotly Graphs with LaTeX
+Plotly and R: Collaborative, publication-quality graphing
+Big Data - naughty or nice?
+What is Wrong with the Definition of Data Science
+Weekly Digest - December 30
+Facebook missing revenue because of poor data science integration
+Big data sets available for free
+Last chapter of my data science book completed
+Searching for Intangibles - Data Embodiment Using Protocols
+Boosting Algorithms for Better Predictions
+Master Data Management Solutions
+Time Series Forecasting Overview (Video Blog)
+Big Data from Small Devices?
+Jigsaw Academy Announces Predictions for the Analytics Industry in 2014
+Text Analytics: ?€?Mangalyaan?€? as Seen on Twitter
+Viz - Does your water contain fluoride?
+Combining Employee Expertise with Big Data Technical Skills
+Big data is cheap and easy
+Data Silos Obstruct Quest for Competitive Advantage
+Internship in data scientist or statitic
+Data Science for Business: Interview with NYU Stern?€?s Foster Provost
+10 questions about big data and data science
+Data Science programs and training currently available
+Good paper on multidimensional outlier detection on time series
+From the trenches: 360-degree data science
+A Method for Predicting Fishing Activity Based on Geospatial Motion Behaviors - Summarized from an Analyze Technical Report
+Recommender Systems - past, present, and future
+Data Scientist, please meet the Data Artist
+Introduction to my data science book
+Is data science dead?
+Weekly Digest - March 10
+How to compete against data scientists charging $30/hour
+Sometimes outliers are real data
+The Present and the Future of Big Data and Mobile Technology
+The multiple facets of data science
+Big Data Logistics: data transfer using Apache Sqoop from RDBMS
+Data Interaction in Organizational Systems
+Great example of root cause analysis
+Three Myths About Today?€?s In-Memory Databases
+Oil and Gas Solution built on Data-Tactics?€? Big Data Engine
+Life Cycle of Data Science Projects
+17 areas to benefit from big data analytics in next 10 years
+With highest penetration of smartphones in the world, big data market to grow in UAE.
+Two big datasets to challenge your data science expertise
+The Texas Sharpshooter Deception
+The best kept secret about linear and logistic regression
+Employee Churn 201: Calculating Employee Value
+Business Intelligence and Data Warehousing
+The data science alphabet
+Data Embodiment ?€? an Ecosystemic Approach
+Manage performance of enterprise applications
+Nine new, great articles and resources posted externally
+Data sets and other machine learning resources from UC Irvine
+This page has been moved
+Data science displacing traditional science
+Interesting new contests on Kaggle
+The Deadly Data Science Sin of Confirmation Bias
+Weekly Digest - April 28
+Take Me Out to the Data
+Bridging the gap by raising the bar
+The Algorithmic Man - Epic Battle Against Headless Apparitions
+The Dangers of the "Talent Shortage" Myth
+Building a house and building a data-analytic model
+Weekly digest - June 9
+About the Curse of Dimensionality
+A Tour of Machine Learning Algorithms
+Thresholds, Butterflies, and the Metrics of Phenomena
+100+ Interesting Data Sets for Data Science
+Data Shinobi: 2 - The Tree of the Data Shinobi
+Modelling a Data Warehouse
+How Cross Pollination Helps Organizations to Ideate & Innovate?
+Free stuff for data science publishers, authors, bloggers, professors, alumni, event organizers and more
+Comprehensive list of data science resources
+Weekly digest - June 16
+Interview with Prof. Dr. Bart Baesens - Author of Multiple Business Analytics Books
+My book "Getting Started with Greenplum for Big Data Analytics"
+Internet of Things? Maybe. Maybe Not.
+Success factor of the data warehouse and business intelligence implementation
+22 Non Statistical Questions for a Statistician
+Employee Churn 202: Good and Bad Churn
+Data Science Summer Reading List 2014
+The Science News Cycle
+Weekly Digest - May 19
+7 articles worth reading
+Reduce operational costs and improve data driven decision making in Big data Era!
+Biggest Potential for Big Data:  The Expanding Universe of Unknown Unknowns
+R as Ad Hoc
+Proposal for a new type of scoring system
+Data Warehouse Architecture
+Research Brief:  Four Functional Clusters of Analytics Professionals
+Automatic Identification of Replicated Criminal Websites Using Combined Clustering Methods
+50 big data companies to follow
+Tutorial: How to detect spurious correlations, and how to find the real ones
+Weekly Digest - May 26
+Acronyms of Big Data Analytics from A to Z !
+A quick introduction
+Are You Data Literate: Education for the Information Economy
+Tutorial: How to detect spurious correlations, and how to find the real ones
+From Data Analyst to Predictive Modelers to Data Scientists
+Rants from a great under-paid data scientist
+16 analytic disciplines compared to data science
+Huge Trello List of Great Data Science Resources
+Why analysts should master public speaking
+Introduction to Predictive Analytics for the absolute beginner (animated video)
+50 free copies of data science book, signed by the author: get yours!
+Word Clouds of Big Data, Data Science and Other Buzz Words
+Announcement for Data Science Central Subscribers
+How Self-Service BI Can Make You a Data Analyst
+Cassandra Modeling for Real-Time Analytics
+Big Data for CFOs, Auditors and Other Finance Professionals
+Weekly Digest - August 4
+Difference between Machine Learning and Statistics
+Five expert tips to bring your employee churn to a halt
+Weekly Digest, May 12
+The law of series: why 4 plane crashing in 6 months is a coincidence
+Caveat Data Scientist: Public Trust Low for Science
+Weekly Digest - September 29
+How Tracking Analytics Can Improve Content Marketing
+Data Instrumentalism
+Decipher Neo4J Cypher Query Language (CQL)
+Apache Spark: distributed data processing faster than Hadoop
+Keeping Corporate Data Safe: 5 Ways Lax BYOD Policies Create Security Risks
+New Beginnings in Facial Recognition
+More about Shifting Culture, Less about Investing in Potential
+Elements of machine learning
+The 22 Skills of a Data Scientist
+Hadoop is Dead.  DataFlow is Alive!
+Weekly Digest, October 6
+The end of the Data Scientist Bubble
+Optimizing Disease Management Programs Using Predictive Modeling
+Is data science bad at detecting bogus Amazon or Yelp reviews?
+Top 30 DSC blogs, based on new scoring technology
+The most expensive data science textbook
+Crazy Data Science Tutorial: Classification and Clustering
+High Value Talent Analytics Projects: ?€?Fishing?€? or Solving Business Problems?
+Protecting Data with Data: Predicting Cyber Threats Before they Happen
+Data Scientists by Education 2014
+Big Data Divide: The challenge of a modern-day data & analytics platform when you?€?re not Google (Part 1 of 2)
+Should we all have two ID's (one for backup purposes)?
+Synthetic criterion to choose the right variables for your predictive algorithm
+5 levels of machine learning
+How to Become a Data Scientist
+Weekly Digest - September 1
+Crowdsourced Q&A with Peter Norvig on Data Science
+My Top Websites For Big Data
+Big Data: What?€?s the Buzz Mean Beyond the Hype?
+Frozen versus liquid analytics - or the competitive advantage of data science
+33 unusual problems that can be solved with data science
+Top 2,500 Websites - mentioned a few times (Page 1)
+Top 2,500 Websites - mentioned a few times (Page 2)
+Thoughts of the week
+Announcement to Data Science Central subscribers
+3 Trends in Embedded Analytics
+Top 2,500 Websites - mentioned a few times
+Don't Get Hadooped
+Developer Vs Coder
+Weekly Digest - November 3
+Predictions - Effect of unique number of target classes on accuracy
+My Data Science Apprenticeship Project
+Treasure in the defects
+4 types of Big Data as a Service
+Data Science Helps Businesses to Become Data-driven
+Do we really have a data obesity problem?
+Why Paddy Cosgrave hired Data Scientists to grow websummit from 400 to 20k attendees in just 4 years
+Data Science Apprenticeship: Announcing our First Graduate
+Data Science is Dead - Long Live the Data Scientist
+Data Science for Improved Democracy
+Big Data Problem: Could Fake Reviews Kill Amazon?
+Data Science: Paving the Way For More Open, Interactive Data Analysis
+Start with Good Science on Good Data, Then we'll Talk 'Big Data'
+Data Scientist, The Magician?
+Business Domain Experts and Advanced Analytics Design
+Bringing Silicon Valley to the ICU: My Vision of Data for Good
+Next Steps to a Career in Data Science
+Data Scientist: Owning Up to the Title
+Introducing the Linked Data Business Cube
+Understanding the Real Problem - Enterprise Complaints Analytics
+Trends in Big Data Vs Hadoop Vs Business Intelligence
+Survey Reminder: What are the actual challenges and opportunities data scientists face?
+Big Data & Haute Cuisine
+Weekly Digest - December 8
+Predictability ?€? Get everything as a service ?€? from IaaS, PaaS and SaaS to XaaS
+86% of companies do not have any HR analytics capabilities
+Untestable & Unreasonable Assumptions in Models is Data Science Malpractice
+History, Music, and the Depth of Data
+How Many "V's" in Big Data?  The Characteristics that Define Big Data
+Question: How to start in Big Data Analytics
+The data science project lifecycle
+Are Earthquakes becoming more severe?
+Top Down or Bottom Up? (5 tips to make the most of your data assets)
+Weekly Digest - December 29
+Data Science Meets Bubbly: What Data Says About Champagne Buying Patterns
+Common Problems with Data
+New Model for Scientific Research
+Interactive Visualization enabled Feature Selection and Model Creation
+Understanding Linear Regression
+Rigorous Generalized L^p Variance
+Weekly Digest, January 5
+What?€?s Hot & What?€?s Not in Data Science 2015
+'Datalogix like?€? insights: A new #IoT #Retail #Beacon business model? which ties the social to the physical through Data Science and IoT
+How to start in Big Data Analytics if I come from IBM zOS arena?
+Get Started with the Data Science Bowl
+Get started with Hadoop and Spark in 10 minutes
+Engineering a far worse attack than Sony, without hacking
+The Changing Nature of Predictive Analytics in the Enterprise
+The Problem with Recommenders
+Weekly Digest, January 19
+VC investment analytics with data visualization
+Drake, AC/DC, and...Steely Dan?! Twitter Reacts to Coachella 2015
+The Cognitive Cost of Switching Technology Stacks
+The Thrill of the [Data Science] Chase
+Is Hans Zimmer secretly a Super Data Scientist?
+Structural Data Objects
+The 2 Types Of Data Scientists Everyone Should Know About
+Bigdata Analytics and Supply chain management
+The 5 Essential Skills Any Data Scientist Needs
+Latest Project for my current Coursera course is published
+The impact of asking the wrong question
+Actionable HR analytics
+Poster about data science
+Weekly Digest, January 26
+Data Science 2.0.
+Bigdata for Big Agriculture - Insights for Green revolution
+Data Science for IoT: The role of hardware in analytics
+Data Veracity vs. Data Quality
+6000 Companies Hiring Data Scientists
+Financial Modeling Best Practices
+The Free 'Big Data' Sources Everyone Should Know
+Best Articles of DSC in 2014
+Poster about process mining
+Solving Poisson Distribution Problems Using SciPy
+How to: Parallel Programming in R and Python [Video]
+Crime Data - the Dark Figure
+The Art of Data Science Part 1
+Weekly Digest - February 2
+4 Questions to Consider When Making Your Next Analytics Hire
+R Spatial Representation
+Who are the Top Hirers for Data Scientists?
+Is Microsoft Putting Big Data At The Heart Of Their Business?
+Digital Banking ?€? Lessons from channel integration
+Why Women Make Great Data Scientists
+4 Ways Big Data Is Transforming Healthcare
+Building blocks of data science
+Book review: About Time Series Databases and a New look at Anomaly detection by Ted Dunning and Ellen Friedman
+Discovering the relationship of the G20 members using Data Mining
+Introduction to Data Science Central Community
+What is big data - Infographics by Bernard Marr
+Top Mistakes Developers Make When Using Python for Big Data Analytics
+Why We Should Be Openly Sharing Our Personal Data With The World...
+In-Memory Technology?€?s Petabyte-Sized Headache
+40+ Interviews on Data Science Industry
+Framing Ambiguity, Incentives, and Actions
+5 Big Security Trends That Today?€?s Tech Users Need to Watch
+Understanding the Now - The Role of Data in Adaptive Organizations
+Weekly Digest - February 23
+The One Thing We Can Agree On as Political Polling Begins: Understanding Statistics
+Big Data, a promised land where the Big Bucks grow
+Value-Liquidity Cycle
+The Real Life Consequences of a Losing Oscar Pool: How We Misunderstand Statistics and Make Bad Choices
+How Big Data Can Change Our Lives: A Powerful Final Plea
+Weekly Digest - March 9
+Salary Trends for Data Science Professionals
+Why Competitive Intelligence needs its own wargame now
+Avoiding a common mistake with time series
+The Awesome Ways Big Data Is Used Today To Change Our World
+Infographics on data quality
+All Machine Learning Models Have Flaws
+The Interview with Yann Lecun of Facebook Artificial Intelligence
+Data Science Fellowship Focused on Practical Experience
+Algorithmic Sensitivity to Social Phenomena Using Fractals
+CrowdFlower 's Open Source Data Library
+How Data can Help Law School Applicants Get Into the Program of Their Dream
+Mass Compromise of IIS Shared Web Hosting for Blackhat SEO: A Case Study
+Infographics: The Half Life of Data
+Two periodic tables for data scientists
+Data Integrity - A Sequence of Words Lost in the World of Big Data
+Three periodic tables for data scientists
+27 free data mining books
+The Data Science Ecosystem in One Tidy Infographic
+Can you Be a Growth Hacker Without Being a Data Scientist?
+A 5-Step Approach to Manage Marketing Data (For Manufacturers)
+Weekly Digest - March 30
+Do data scientists need to be domain experts to deliver good analytics?
+How a Chief Data Officer Can Make Your Data Great
+Model Management and Deployment
+Predicting Flights Delay Using Supervised Learning, Logistic Regression
+10 Modern Statistical Concepts Discovered by Data Scientists
+ETL as A New Data Fusion Paradigm
+Weekly Digest - April 6
+The Art of Data Science Part 1
+Drill Data with Apache Drill
+50 great data visualizations
+Abridged List of Machine Learning Topics
+Top 16 articles for week ending October 2
+Big Data: Opinions & Sentiments Analysis
+6 Cloud Based Machine Learning Services
+Doing Market Research using Social Media
+Sponsored Webinar: How can big data help you?
+The Art of Data Science ?€? Part 2
+Big Data Analytics Maturity Model
+ACM Data Mining Talk: Representing Predictive Solutions with PMML
+The Hastings Effect:  How The Netflix Big Data Approach Is Transforming Education
+From Data to Insight: Uncovering the Hidden Costs of Data
+Sensitivity Mapping of Document Databases
+Analyzing customer data in sales & marketing ?€? part 2
+Early reviews for my upcoming publication on Machine learning
+Are You A Data Hoarder? Learn How to Manage the Clutter
+Data Scientists Thoughts that Inspired Me
+Selecting a Remote DBA Professional over a Full-Time Consultant
+How to Analyze Your Predictable Data: Anomaly Detection
+Good Cloud. Bad Cloud. Why Cloud?
+Using Python on Azure Machine Learning Studio
+Weekly Digest - May 11
+From Farming To Big Data: The Amazing Story of John Deere
+Giving away 1,000 copies of Big Data In Action.
+The Amazing Ways Uber Is Using Big Data
+Data Science and the Open World Assumption
+Polyglot Persistence?
+Are You Becoming a Digital Dinosaur?
+Understanding Analytics Professionals: Participate in the IIA/Talent Analytics Study
+Warranty Analytics - Increase Product quality, Customer satisfaction & Brand perception
+Deploy Hadoop Cluster
+US Training for RapidMiner and RapidAnalytics
+Baseball + Big Data is actually DATABALL
+Successful Text Analytics Case Studies
+Telecom : 4 Steps to build a Network Graph in Hadoop
+Past performance IS indicative of future results
+Optimizing Direct Mail Campaigns
+Apple. Big Data. Big Design.
+Top 17 articles for week ending October 9
+The Emerging Data Stack and Mobile Access
+Simplifying Big Data Analytics
+Row vs Columnar vs NoSQL Databases
+32 Big data "gotchas" from the trenches in exactly 3 words
+Splunk for Hadoop ?€? Real Time Analytics
+Top 16 articles for week ending October 24
+Application of Analytics
+History of Analytics
+Data Analytics in India
+Science of Analytics
+3 Degrees that Will Prepare You for a Career in Analytics
+Traditional BI vs Data Analytics Approach
+Creating an Analytics Driven Culture - The ProMorphics Approach
+Data Science Central Weekly Digest
+Assessing the Damage From Hurricane Sandy | New York Times
+Yo-Yo Ma Social Scientist or Data Scientist
+5 Thing You Need to Know about Hadoop
+Retail Analytics - Practical Issues to be considered
+Webinar: The Path from BI to Data Science
+"Common Mistakes in practice" of analytics
+Feature selection for efficient modeling
+Start-up? Start with a Big Data mindset
+An Introduction to Social Network Analysis
+New job ads from AnalyticTalent.com
+Stop!  Listen to what your data isn't saying
+Gale-Shapley Algorithm
+Free trial: Real-time analytic database, purpose-built for big data
+Webinar: Analytics as a Service for Decision Makers
+Analytics on Unstructured data ?€? Twitter, Facebook and Social Media
+Scientists get 6 years in prison for making wrong predictions | CBS News
+The Perfect Storm - Missed Opportunites with Mobile and Big Weather Data
+Top 27 articles for week ending October 18
+Greenplum & Kaggle partnership, and OpenChorus
+Business case or Business phrase for BI ?
+From Revolution to Evolution
+10 Digital Big Data Use Cases
+Less data, more insight, better decisions
+ACM SIGKDD Innovation and Service Awards: The Nobels of Data Mining - Nominations due July 1
+The Power of Cross-Functional Predictive Analytics (DataScienceCentral Webinar - June 27)
+Webcast: MapReduce, Hadoop & the Data Scientist (June 21st)
+Advanced Analytics with Acceptable Runtimes
+5 Specific Questions to ask before embarking on a Big Data Project
+Finding the value
+Ford Opens Silicon Valley Lab to Mine Big Data | Wall Street Journal
+Your credit card purchases mined by insurance companies | The Economist
+S3 instead of HDFS with Hadoop
+The Fallacy of the Data Scientist Shortage
+Fraud detection in Medicaid / Medicare
+How to Analyze Data Without SQL Experience
+3 Game Changing Big Data Use Cases in Telecom
+How to Develop Big Data Solutions with Apache Hadoop
+How do I update my resume on AnalyticTalent?
+What's The Difference between Data Scientists and Rocket Scientists?
+Announcing Datastream: The Official Greenplum Blog
+Data Science Central Launches Big Data Job Board
+To Recruiters and hiring managers: important notice
+Hadoop on Windows Server and Azure
+Creating a learning organisation in the "Age of the Customer"
+Which IT infrastructure for Big Data?
+Seven tricky sentences for NLP and text mining algorithms
+KDNuggets Poll results: Top languages for analytics/data mining programming
+Social recommendation websites potential mob target
+Big Data Analytics 2012 Conference, London 20th June 2012
+New Research on Big Data
+When to hire a data scientist: before or after a big crisis?
+Machine Data - Two White Papers
+3 Big Data Startups: Locu, Essess, Coursera
+Best of Analyticbridge and DSC - April 2012
+Data Science Summit Las Vegas 2012: Agenda, Speakers, Registration, Recently Added, etc.
+Big Data Isn?€?t Analytics | Hrexaminer.com
+Data science jobs not requiring human interactions
+Selected blog posts from DataScienceCentral
+Data visualization: example of a great, interactive chart
+Great Github list of public data sets
+From Data to Insight: Seven Tips for a Great Data Strategy
+How do I learn machine learning?
+Sexing up Big Data's Dodgy Dossier
+You are Your Own Worst Enemy. Maybe.
+Weekly Digest - April 27
+RethinkDB for Advanced Analytics
+Using Big Data to Target In-Market Shoppers
+Visualize Your Data Using Silk.co
+Data governance 101
+Analyzing customer data in sales & marketing - part 1
+Making MySQL 5,888 times faster
+36 Computer and Data Science Concepts Explained In Layman?€?s Terms
+1,300 Technical Data Science / Algorithm Terms Defined
+What Is The Profession Of Data Science Really About Now And In The Future?
+Interesting big data opportunity
+Data Analytics in Business
+Webinar: next generation of big data analytics
+Percolator, Dremel and Pregel: Alternatives to Hadoop
+10 data mining books from the CRC Press
+Top 30 articles for week ending on August 19
+Hadoop Technology Stack
+Romney Said to Use Secretive Data Mining | WallStreetJournal
+Announcing Data Community DC!
+The Data Scientist Will Be Replaced By Tools | Forbes
+Big Data Vendor Landscape
+Did your business intelligence experts have the right tools for text analytics?
+Eight Levels of Analytics for Competitive Advantage
+10 great data science / big data articles from influential news outlets
+Letter to All Bloggers, Consultants, Graduates and Job Seekers
+Facebook's new privacy violation: what do you think?
+How do I become a data scientist?
+Modern BI Architecture & Analytical Ecosystems
+Understanding And Interpreting Gain And Lift Charts
+Taming Big Data
+How big data can terrorize global terrorism
+Biostatistics Careers for Data Scientists
+Analysis of Insurance Analytics Careers & Job Postings
+Survey of Data Science / Analytics / Big Data / Applied Stats / Machine Learning etc. Practitioners
+Latest Contest - Predicting the Euro 2012
+Big Analytics 2012: Boston / Chicago
+Big Data Will Make IT the New Intel Inside
+Understanding the Reality of Real-Time Analytics
+15 great data science articles from influential news outlets
+History about 24 analytic software over the last 30 years
+J. Edgar and analytical leaders
+Big Data Mining and Big Data Analytics
+Weekly Digest, June 22
+Taking Control of your CRM Data
+Python NLTK Tools List for Natural Language Processing (NLP)
+Hadoop and Productivity Boosting
+Big Data Analytics - Visualization Tools
+11 Core Big Data Workload Design Patterns
+Big Data might just mean Big Traffic
+Only One-Third of Companies Making Effective Use of Data
+Healthcare fraud detection still uses cave-man data mining techniques
+Cloud Integration Issues
+Analysts' Joyful anticipation for 2012 - Cool Tools
+Social Networks: How to Measure User Engagement?
+Big Data Retention for Structured and Unstructured Data
+New Zealand's Plan to Realize Big Data Opportunities
+Sales forecasts: how to improve accuracy while simplifying models?
+Data Analytics for Smart Grid Development and Deployment
+5 Big Data Startups That Matter: Platfora, DataStax, Visual.ly, Domo, and Metamarkets
+Data Integration...Might be getting a bit easier thanks to SAP
+Big Data in the Enterprise
+Ooyala Video Index Report Provides Big Data Insight
+News from the Wharton Customer Analytics Initiative
+Missing Values Imputation with Bayesian Networks
+Another idea to help Amazon increase ROI
+DataScienceCentral.com Announces Content Partnership with Visual.ly to Expand Big Data Ecosystem
+WSJ Reports: New Skills Needed For Big Data (Data Scientists)
+Estimating Operational Risk Capital: the Challenges of Truncation, the Hazards of MLE, and the Promise of Robust Statistics
+10+ Great Metrics and Strategies for Email Campaign Optimization
+Key update for Social Media Analytics Summit
+Example of Bad Analytics and How to Remedy it
+[Book] Big Data - Principles and best practices of scalable realtime data systems
+Seeking PHD Candidates and Alumni from Top Universities in Computational Science and Mathematics
+Why Midsize Businesses Shouldn't Leave Big Data to Big Businesses
+Industry Heavyweights Battle in the "The Data Science Debate"
+Big Data vs Privacy - where is the line?
+Data Science Central Exclusive: Get Featured in Rick Smolan's "The Human Face of Big Data"
+Video: Ooyala Data Scientist, Matt Pisienski
+Big Data for the Public Good - Seminar Series
+Six keywords characterizing milestones in the history of analytic engineering: from 1988 to 2033
+Excel to HTML, and other data format conversions
+Survey: 'Big Data Paralysis' Is Holding Companies Back
+Weekly Digest - July 20
+NoSQL and RDBMS are on a Collision Course
+Companies Devising New Strategies to Recruit Analytics Talent
+7 Common Biases That Skew Big Data Results
+What is the most dangerous dish at Olive Garden?
+IoT analytics, Edge Computing and Smart Objects
+Big Data Analytics in a Snap
+A pletora of big data infographics
+The Big Data Contrarians: The Agora for Big Data dialogue on LinkedIn
+Bigfoot vs UFO - Analyzing and Visualizing Keywords Trends
+What to do With Data - infographic
+What to do Once we Have Data in Our Hands?
+The Big 'Big Data' Question: Hadoop or Spark?
+Analytical Data Marts ?€? data analyst?€?s indispensable tool
+Invitation to join Data Science Central
+Top analytic blogs and websites, with trending information
+J.D. Opdyke, Author: A Powerful and Robust Nonparametric Statistic for Joint Mean-Variance Quality Control
+Social Meets Big Data - EMC/Greenplum (Webcast, March 20)
+50 unusual ways analytics are used to make our lives better
+Berkeley course on Data Science
+Twitter Data Scientist Takes on McDonald's Entire Menu, Survives
+Machine Learning Resources for Spam Detection
+How Do I Become a Data Scientist? / Data Science Aspects
+What Defines a Big Data Scenario?
+Weekly Digest - May 25
+100 Best Data Science Companies to Work for in 2015
+9 Python Analytics Libraries
+6 Reasons Why I Like KeystoneML
+Top Data Mining Algorithms Identified by IEEE & Related Python Resources
+Its Time to Unleash the Semantic Layer
+Measuring Information Retrieval Performance Using Extrapolated Precision
+What are the most demanding skills in the 'Analytics' domain ?
+Impact of Fostering a Data and Analytics culture:  Case Study | MIT Sloan
+How Much Do Data Scientists Really Earn?
+Teradata Aster: Principal Component Analysis and Unsupervised Machine Learning
+Magnum Opus Dolus Eventualis
+Look it up! Codes Associated with Public Data Sets
+Statistical Modeling steps
+Disney's "Inside Out" and the missing"D" in Data Science
+Data Science as a profession ?€? Time is Now
+Why Protecting Data Privacy Matters, and When
+How to score data in Hadoop/Hive in a flash
+Weekly Digest - July 6
+Tutorial: How to determine the quality and correctness of classification models? Introduction
+Machine learning is not better than Human learning.
+The seven people you need on your Big Data team
+How to assess quality and correctness of classification models? Part 4 - ROC Curve
+So You Want to be a Data Scientist
+3 Tips to Tame the Big Data Beast
+Data Integrity: The Rest of the Story Part II
+Tell us: as a data scientist, what is your super power?
+10 Python Machine Learning Projects on GitHub
+Predictive Analytics Demystified
+Big Data: Uncovering The Secrets of Our Universe At CERN
+How Apple Uses Big Data To Drive Success
+Virtual Org and Behaviour by Transaction
+Four successful big data / analytics startups in Seattle
+How to determine the quality and correctness of classification models? Part 2 - Quantitative quality indicators
+Simple Regression use in Big Data
+What clustering method is required for text documents
+Alchemy and Algorithmic lawyers
+Machine Learning is Not the Boogie Man!  Gates and Musk Are Wrong.
+Data Scientists: Do You Want to Deliver More Than Business as Usual Workforce Insights?
+Obama administration to push big data agenda | Gigaom
+The Top 10 Business Analysis Skills for 2012 | Batimes
+Weekly Digest - June 1
+Question: Where is the happiest place in New York City?
+A Telescope That Generates More Data Than the Entire Internet
+Can Apple give police a key to your encrypted iPhone data? ARS
+Let's Get MAD! (and share your analytic genius)
+Vestas Wind Systems Turns to IBM Big Data Analytics for Smarter Wind Energy
+BIG Data Mining and Predictive Modeling - Plate Tectonics, But Not an Earth Quake
+Data Scientists... and the Rest of Us
+The key factor to optimize analytic recruiting, based on job board data
+To Sample Or Not To Sample?€? Does It Even Matter?
+30 unusual applications of data sciences, analytics and big data
+13 great articles about analytics / data science from major news outlets
