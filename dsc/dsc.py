@@ -42,6 +42,20 @@ print("The total number of words in title of dsc is: " + str(total_words))
 avg_words = fdist_title.N() / total_words
 print("Each word appears in title of dsc is: " + str(int(avg_words)))
 
+# bigrams, trigrams
+from nltk import bigrams
+from nltk import trigrams
+word_pair = list(bigrams(nostop_title))
+word_triple = list(trigrams(nostop_title))
+bigrams_title = FreqDist(word_pair)
+trigrams_title = FreqDist(word_triple)
+bigrams_title.most_common(50)
+bigrams_title.plot(50,cumulative=True)
+trigrams_title.most_common(20)
+bigrams_title.plot(50)
+trigrams_title.plot(20)
+trigrams_title.plot(50,cumulative=True)
+
 
 # stem function that only keep stem of the words
 def stem(word):
@@ -96,3 +110,14 @@ total_textwords = len(set(nostop_text))
 print("The total number of words in text of dsc is: " + str(total_textwords))
 avg_text = fdist_text.N() / total_textwords
 print("Each word appears in text " + str(int(avg_text)) + " times")
+
+word_pair_text = list(bigrams(nostop_text))
+word_triple_text = list(trigrams(nostop_text))
+bigrams_text = FreqDist(word_pair_text)
+trigrams_text = FreqDist(word_triple_text)
+bigrams_text.most_common(50)
+bigrams_text.plot(50,cumulative=True)
+trigrams_text.most_common(20)
+bigrams_text.plot(50)
+trigrams_text.plot(20)
+trigrams_text.plot(50,cumulative=True)
