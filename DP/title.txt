@@ -5,14 +5,14 @@ My Data Science Book - Table of Contents
 7 Python Tools All Data Scientists Should Know How to Use
 How to Become a Data Scientist for Free
 A Guide to the Internet of Things - Infographic
-Why So Many ?€?Fake?€? Data Scientists?
+Why So Many ?â‚¬?Fake?â‚¬? Data Scientists?
 Analytics Domain using UI-based Tools Vs. Coding
 The Next Big Thing In Big Data: BDaaS
 "You need an algorithm, not a Data Scientist". Um...not quite
 31 external machine learning / data science resources and articles
 Weekly Digest - July 27
 7 Skills/Attitudes to Become a Better Data Scientist
-The Ultimate Beginner?€?s Guide to Data Quality and Business Intelligence
+The Ultimate Beginner?â‚¬?s Guide to Data Quality and Business Intelligence
 Average attorney rate jumps 85% after first year in practice
 Are You Concerned Over Systems Security? Cloud Systems Can Be Vulnerable.
 Getting a Data Science Education
@@ -117,12 +117,12 @@ Decision Boundaries for Deep Learning and other Machine Learning classifiers
 Feature Scaling and Normalization
 Reducing Data Cleansing Time to Get Actionable Insights Faster
 Data Structure Gaph - The application of Graph theory to Architecture
-Elastic Is a Great Paradigm When ?€?All You Can Eat Data Consumption?€? Is the Goal
+Elastic Is a Great Paradigm When ?â‚¬?All You Can Eat Data Consumption?â‚¬? Is the Goal
 How to Avoid a Data Disaster- Infographic
 Making the Business Case for Text Analytics
 Visualize your Social Media Analytics
 R Functions for Exploratory Analysis, Data Frame Merging & Map Displays
-Quality and correctness of classification models. Part 3 ?€? Confusion Matrix
+Quality and correctness of classification models. Part 3 ?â‚¬? Confusion Matrix
 How To Make A Billion Dollars From Big Data
 Where Big Data Projects Fail
 Data Science Wars: R versus Python
@@ -140,10 +140,10 @@ The Handbook Of Data science
 Experimenting with AWS Machine Learning for Classification
 Web Crawling & Analytics Case Study - Database Vs Self Hosted Message Queuing Vs Cloud Message Queuing
 Self-learning Machines & Deep Convolutional Neural Networks Classify Scenes & Identify Objects
-An Introduction to Deep Learning and it?€?s role for IoT/ future cities
+An Introduction to Deep Learning and it?â‚¬?s role for IoT/ future cities
 Data science to understand and fight cancer
 Welcome to Sparkling Land
-Splunk, Big Data?€?s First IPO, Begins Trading on Nasdaq Today
+Splunk, Big Data?â‚¬?s First IPO, Begins Trading on Nasdaq Today
 What is real OLAP for practical use?
 Target's methodology for predicting which customers are pregnant.
 How to Solve Complex Computations in the Report
@@ -152,14 +152,14 @@ Interactive Analysis and Related Tools
 Data Science and Big Data Course from EMC
 Visualizing Nepal Earthquake: The Human Side of Data Science
 Using Historical Data in the Age of Real Time Decision Making
-The Big Data and Business Intelligence twins! To the rescue of Defined Benefits Pension Plans (DBPP?€?s)
+The Big Data and Business Intelligence twins! To the rescue of Defined Benefits Pension Plans (DBPP?â‚¬?s)
 OpenStreetMap Visualization Case Study & Sample Code
 What is the Internet of Everything (IoE)?
 Clustering Arabic Tweets to seize the reputation of a Brand in the Middle-East
 The 3Ms of Marketing Data Analytics
 Big Data, Meet Dynamic Semantic Publishing:  Altering the Media & Publishing Landscape
 Short story on scaling an NLP problem without using a ton of hardware.
-Mobile Banking ?€? Can Analytics help banks innovate?
+Mobile Banking ?â‚¬? Can Analytics help banks innovate?
 How we survived a near death experience in a Big Data Project ? A Story from the trenches
 Do Your Customers Hide Their Data?
 Text Analysis 101: Explicit Semantic Analysis (ESA) Explained
@@ -182,11 +182,11 @@ The 5 V's of Big Data by Bernard Marr
 A Data Scientist's Advice to Business Schools
 40 Excel Tricks
 Top 5 Disruptive Technologies that Will Change the World
-That?€?s Data Science: Airbus Puts 10,000 Sensors in Every Single Wing!
+That?â‚¬?s Data Science: Airbus Puts 10,000 Sensors in Every Single Wing!
 Evaluating RF for Survival Analysis Using Prediction Error Curves
 Driving Behaviour as a Telematic Fingerprint
-The 7 Most Unusual Applications of Big Data You?€?ve Ever Seen!
-Calculate Cosine Similarity Using Scipy ?€? Data Sets & Sample Code
+The 7 Most Unusual Applications of Big Data You?â‚¬?ve Ever Seen!
+Calculate Cosine Similarity Using Scipy ?â‚¬? Data Sets & Sample Code
 Weekly Digest - April 20
 An Excel Tutorial on  Analyzing Large Data Sets
 It's Time to Bring Your Own Data!
@@ -207,7 +207,7 @@ Top 23 articles for week ending on September 26
 An Introduction to Text Analytics
 19 big data articles that you must read
 Big Data: From a junk yard to a gold mine
-Ideal Qualifications ?€? Govt. Data Scientist (DS)
+Ideal Qualifications ?â‚¬? Govt. Data Scientist (DS)
 Participate in 2015 Data Science / Data Miner Survey
 What Technology & Tool Skills Do Data Scientists Jobs Require?
 1,000 New Functions for Your Spreadsheet
@@ -221,7 +221,7 @@ Finding Group Structures in Data using Unsupervised Machine Learning
 The Hot Hand Rises Again
 Lambda Complexity: Why Fast Data Needs New Thinking
 Five Characteristics of the Big Data Bang
-Building an NCAA Men?€?s Basketball Predictive Model
+Building an NCAA Men?â‚¬?s Basketball Predictive Model
 Tuning Machine Learning Models Using the Caret R Package
 The Hype Around Graph Databases And Why It Matters
 Predicting Car Prices Part 2: Using Neural Network
@@ -271,11 +271,11 @@ Data Visualization: A Day in the Life of Worldreader
 Big data and the retail industry: infographics
 7500 companies hiring data scientists
 Improving Network Security with Big Data
-Building credibility for your analytics team?€?and why it matters
+Building credibility for your analytics team?â‚¬?and why it matters
 Data Scientists: Where do you all live?
 At What Time in the Day Are We Most Productive?
 Will Big Data Make Data Scientists Redundant?
-Big Data Humor: Top 10 Conversations That You Don?€?t Want to Have on Data Innovation Day
+Big Data Humor: Top 10 Conversations That You Don?â‚¬?t Want to Have on Data Innovation Day
 Caltrain Quantified: An Exploration in IoT
 Weekly Digest - February 9
 Analyzing Analysts To Build Better Analysis Software
@@ -324,7 +324,7 @@ What can be predicted, and what can't?
 5 basic rules of data organization
 What is the future of Data visualization and Dashboard solutions?
 Quick Survey-Journey to become a Data Scientist
-Don?€?t Judge a Tweet by its 140 Characters: How One App is Using Machine-Learning to Tackle Credibility on Twitter
+Don?â‚¬?t Judge a Tweet by its 140 Characters: How One App is Using Machine-Learning to Tackle Credibility on Twitter
 Data science without statistics is possible, even desirable
 Big Data, IOT and Security - OH MY!
 Weekly Digest - December 15
@@ -339,7 +339,7 @@ Data Visualization of Employee metrics at the top Tech companies
 The Future of Big Data is Wearables
 Infographic: Data Science 2015 -- What's Hot & What's Not
 Can Analysis be Open-Source?
-Key Takeaways: Pivotal?€?s Top 10 2015 Predictions
+Key Takeaways: Pivotal?â‚¬?s Top 10 2015 Predictions
 Data Science + Behavioral Science = Force Multiplier ! 3 User Stories
 High versus low-level data science
 Data Science Musings: We Make Better Health Choices When We Think We're in Control
@@ -347,7 +347,7 @@ Data Diversity and Integration Trumps Big Data for Better Decision-making
 Weekly Digest - November 24
 Earthwatch to Look at Climate Change in Acadia National Park
 Field Report Day 2: How a Data Lake Could Fast-Forward Our Understanding of Climate Change
-Don?€?t Expect A Large Salary Increase If You Didn?€?t Go To College
+Don?â‚¬?t Expect A Large Salary Increase If You Didn?â‚¬?t Go To College
 Field Report Day 3: Applying Data Science to Speed the Study of Climate Change
 Field Report Day 4 (Final): How a Data Lake Could Help Solve for Climate Change
 Top data scientist forecasts the UK's energy consumption in 2020
@@ -360,7 +360,7 @@ Misbehaving Demographics and their Data Science Implications
 Where The Cloud Meets The Grid
 5 Change Management Tips for Pervasive Analytics Success
 Implementing a Distributed Deep Learning Network over Spark
-CERN Open Data Portal?€?working environments, virtual machines and datasets
+CERN Open Data Portal?â‚¬?working environments, virtual machines and datasets
 Weekly Digest - December 22
 The Richness and Reality of World Data
 Choosing a classifier for predictions
@@ -388,15 +388,15 @@ The Business Value of Pervasive Analytics
 To build a MEL, you need a Private Detective
 Do you know what is bigger than Big Data?
 Unraveling Real-Time Predictive Analytics
-Cloud based Analytics Service ?€? Future of Analytics?
+Cloud based Analytics Service ?â‚¬? Future of Analytics?
 Can historical data save Olive Garden from its 2008 erosion?
 Top 2,500 Data Science, Big Data and Analytics Websites
 4 easy steps to becoming a data scientist
 Conrad Wolfram talks data and democracy at the TEDx Houses of Parliament
 200 Top Bloggers on Data Science Central
-Experts Debate ?€?Building the Next Big App?€? [Part 1]
-Experts Debate ?€?Building the Next Big App?€? [Part 2]
-Experts Debate ?€?Building the Next Big App?€? [Part 3]
+Experts Debate ?â‚¬?Building the Next Big App?â‚¬? [Part 1]
+Experts Debate ?â‚¬?Building the Next Big App?â‚¬? [Part 2]
+Experts Debate ?â‚¬?Building the Next Big App?â‚¬? [Part 3]
 The Value of Accuracy in Predictive Analytics
 Startups Innovating Data Science Platforms
 Popular predictive apps and APIs
@@ -452,13 +452,13 @@ Making D3.js Reusable With Templates
 The Awkward Road
 The Shifting CXO crowns and the changing Analytics leadership requirements
 Six Thinking Hats and the Life of a Data Scientist
-Lesson 2: NoSQL Databases are Good for Everything ?€? Except Maybe this One Thing
+Lesson 2: NoSQL Databases are Good for Everything ?â‚¬? Except Maybe this One Thing
 Are You A Data Scientist ?
 Announcing the winner of our second competition - Jackknife regression
 9 Lessons:  Picking the Right NoSQL Tools
 Weekly Digest - September 8
 Lesson 3:  Open Source, Distribution, or Suite
-The Poisson Pill ?€? Just what if we can go beyond the ?€?What ifs?€??
+The Poisson Pill ?â‚¬? Just what if we can go beyond the ?â‚¬?What ifs?â‚¬??
 Lesson 4: Features Common to (Most) NoSQL/NewSQL Databases
 The Month in Data Science
 Lesson 6:  Document Oriented Databases
@@ -527,7 +527,7 @@ Weekly Digest - June 2
 New batch of 23 great articles and resources
 Doing Data Science - Straight Talk from the Frontline by Cathy O'Neil, Rachel Schutt Book Review
 4 Things to Do with Customer Data
-Roadblocks to Using Big Data: ?€?First Mile?€? and ?€?Last Mile?€? Challenges
+Roadblocks to Using Big Data: ?â‚¬?First Mile?â‚¬? and ?â‚¬?Last Mile?â‚¬? Challenges
 The Data Science Research Center
 Data Shinobi: 1 - The Fundamentals
 Data Science Has Been Using Rebel Statistics for a Long Time
@@ -601,11 +601,11 @@ Another 10 external articles and resources worth reading
 4000 copies of data science book pre-ordered
 How to identify the right data scientist for your company
 Weekly digest - April 21
-Top 10 List ?€? The V's of Big Data
+Top 10 List ?â‚¬? The V's of Big Data
 STEM Education and Big Data
 Weekly digest - March 17
 7 Key Skills of Effective Data Scientists
-Big Data A to ZZ ?€? A Glossary of my Favorite Data Science Things
+Big Data A to ZZ ?â‚¬? A Glossary of my Favorite Data Science Things
 Top 10 Business Intelligence Trends for 2014
 Weekly digest, New Data Science Central Competition
 Machine Learning in Parallel with Support Vector Machines, Generalized Linear Models, and Adaptive Boosting
@@ -622,7 +622,7 @@ Cute but flawed API: What your name says about your politics
 The Data Scientist at Work
 Vertical vs. Horizontal Data Scientists
 Trying to restore database
-Moving the goal posts ?€? Variable ticket pricing comes to the NFL
+Moving the goal posts ?â‚¬? Variable ticket pricing comes to the NFL
 Weekly Digest - February 17
 Clustering Similar Images Using MapReduce Style Feature Extraction with C# and R
 Interesting cartoons
@@ -642,15 +642,15 @@ The Data Science Toolkit - The Future Web Toolkit
 Forecasting with the Baum-Welch Algorithm and Hidden Markov Models
 Read this tutorial before you use Proc Corr
 Is Your Customer Data For Your Customers Benefit?
-California regulator seeks to shut down ?€?learn to code?€? bootcamps
-The reason Facebook paid US$ 19 bn for Whatsapp?€?decoded
+California regulator seeks to shut down ?â‚¬?learn to code?â‚¬? bootcamps
+The reason Facebook paid US$ 19 bn for Whatsapp?â‚¬?decoded
 Super Bowl Analytics: A Closer Look at #WhosGonnaWin
 The Data Science Association
 Weekly digest - January 13
 Big Data books - Data Science, Analytics, and Machine Learning. Oh my!
 Banks gain value out of big data focusing on the customer experience
 Three myths about data scientists and big data
-Data Science ?€? the Foundation for Leading Banks
+Data Science ?â‚¬? the Foundation for Leading Banks
 A Date with a Data Scientist
 Weekly digest - January 27
 Data Science: What goes around comes around
@@ -666,7 +666,7 @@ Practical illustration of Map-Reduce (Hadoop-style), on real data
 Predicting the Super Bowl
 Big Data analytics: Key insights for 2013 and what's ahead for 2014
 Machine learning: an overview
-Your custom MDM solution: Don?€?t make these mistakes (Part 1)
+Your custom MDM solution: Don?â‚¬?t make these mistakes (Part 1)
 10 ways for Banks to achieve greater profit and customer satisfaction
 14 articles and resources worth reading
 Weekly digest - February 3
@@ -714,7 +714,7 @@ A New Source of Revenue for Data Scientists: Selling Data
 Big Data: An Understanding
 New in Plotly: Interactive Graphs with IPython
 Lambda Architecture for Big Data Systems
-?€?GHOST DEVELOPERS?€? AND BI CENTRE OF EXPERTISE: THE BELGACOM GROUP?€?S EXPERIENCE 
+?â‚¬?GHOST DEVELOPERS?â‚¬? AND BI CENTRE OF EXPERTISE: THE BELGACOM GROUP?â‚¬?S EXPERIENCE 
 Banks Want More Wallet-Share?  Stop Competing with Each Other.
 Healthcare Informatics and Agile Project Management - Intro
 Introduction to Predictive Analytics (video blog)
@@ -724,7 +724,7 @@ Plotly Beta: Graphing and Analytics Platform
 New England Natural gas Supply Dynamic during October 2013
 Visualization - Trading Without Numbers
 A visual solution to a problem of constraints.
-Top 5 Cloud Computing Myths?€?That Just Won?€?t Die
+Top 5 Cloud Computing Myths?â‚¬?That Just Won?â‚¬?t Die
 Oil n Gas Sensor Data + Big Data Analytics = Game Changer !!!
 20 white papers and power point presentations
 Big big love, how big data's influencing the future of the online dating scene
@@ -756,7 +756,7 @@ Do not stifle the questions visualized data raises!,Do not stifle the questions 
 Google F1 Database: One Step Closer To Discovering The DB Holy Grail
 Bootstraps, Permutation Tests, and Sampling Orders of Magnitude Faster Using SAS
 High Performance Computing + Data Science = Competitive Advantage
-?€?The Purple People?€? - The conundrum of finding business expertise among Data Scientists.
+?â‚¬?The Purple People?â‚¬? - The conundrum of finding business expertise among Data Scientists.
 Our best data visualization articles
 A Data Science Example: Deciding When to Sell Your House
 Balanced Scorecard Secrets that Book-Smart Professionals Do Not Talk About
@@ -773,7 +773,7 @@ Random Forests Algorithm
 Interesting Inforgraphic about Big Data Across the Industry Sectors
 Critical Data and the Organizational Construct
 Probably Predictive
-A Data Scientist?€?s Guide to Making Money from Start-Ups
+A Data Scientist?â‚¬?s Guide to Making Money from Start-Ups
 Will Data Science Forever Change Branding Strategies? Here is a Glimpse of The Future Company
 Today's Big Data is Not Yesterday's Big Data
 Democratizing Data Assets: Learning From Data, Big and Small
@@ -814,7 +814,7 @@ Big Data: Understand the customer course on the net before he buys
 3D Printing and Supply Chain - Impact on Customer Satisfaction? Afterthoughts Radical Abundance
 HR Technology Trends for 2014
 Natural Language Processing (handling unstructrued data)
-Hadoop: What It Is And Why It?€?s Such A Big Deal
+Hadoop: What It Is And Why It?â‚¬?s Such A Big Deal
 Agile Data Quality Best Practices
 40 selected articles from top news outlets
 Data Science and Predictive Analytics Strategy for Marketing
@@ -843,7 +843,7 @@ Data Scientists Sometimes Fool Themselves
 Predictive Modeling is Useless!
 Fundraising Data Analysis: Building Campaign Pyramids to Determine Donor Interest
 Data Science and Perspectives
-Data storage ?€?The suspended data grid?€?
+Data storage ?â‚¬?The suspended data grid?â‚¬?
 Which is the best software to build a data mart
 The NSA data privacy scandal: a different point of view
 Hadoop Online Training
@@ -868,7 +868,7 @@ The Rise of the Data Artist in Business
 Full Tilt Poker: Big Data Fraud Detection and Prevention
 Viability - A New "V" for Big Data
 To Hypothesize or Not to Hypothesize
-Big Data ?€? The Big Picture
+Big Data ?â‚¬? The Big Picture
 Weekly Digest - May 13
 300 great articles from top news outlets
 Guest blogger invitation
@@ -900,7 +900,7 @@ Looking to hire a Ning Consultant with specialized expertize
 The Big Data Tidal Wave - How Technology is Shaping the way Finanical Services Companies Operate
 Creepy Advertising Fraud Reaches New Levels
 Data Science is a Team Sport
-Real-time Insights on Driving Patterns from Big Data ?€? The Next Frontier for Competitive Advantage for Automakers
+Real-time Insights on Driving Patterns from Big Data ?â‚¬? The Next Frontier for Competitive Advantage for Automakers
 Top 10 Data Scientists from Gil Press A-List
 Weekly Digest - January 26
 Letter from the Editor
@@ -910,7 +910,7 @@ Selecting the Right Business Intelligence and Analytics Platform
 Optimizing Merchandising Using Big Data Analytics
 The Impact of Big Data Analytics on Healthcare & Your Health
 Google Spanner : The Future Of NoSQL
-New York City?€?s $15M Big Data Partner
+New York City?â‚¬?s $15M Big Data Partner
 30 great articles from top news outlets
 The Data Supply Chain and Master Data Management
 Weekly Digest - Feb 18
@@ -946,14 +946,14 @@ Weekly digest - March 17
 PAW San Francisco Packs a Punch with Keynotes in 2013
 Great graphic diagrams
 Preparing Millennials to Tackle Big Data Challenges
-Data: It?€?s not the length; it?€?s the width that matters!
+Data: It?â‚¬?s not the length; it?â‚¬?s the width that matters!
 Python Data Tools
 The world is ready for the consumer-grade enterprise
 Business World Learns: Jigsaw trains much needed Data Scientists
-Vibrant, Growing, and Changing - That?€?s Analytics in 2013
+Vibrant, Growing, and Changing - That?â‚¬?s Analytics in 2013
 Predictive Analytics Strategy
 What does a data scientist do?
-Business Intelligence ROI Remains Elusive; A next-generation approach to ?€?ease of use?€? may hold the answer
+Business Intelligence ROI Remains Elusive; A next-generation approach to ?â‚¬?ease of use?â‚¬? may hold the answer
 New articles posted this week
 Data Scientist Demographics
 Prognosis of actions due to analysis of personal movements and actions in massive multi-user (3D) environments
@@ -976,7 +976,7 @@ Data Science Ethics & Big Data Business Models
 Leveraging all data, big and small, for effective insurance marketing
 Weekly Digest - January 11
 Weekly Digest Special Edition: Most Popular Articles of all Time
-The Curse of the Bell Curve ?€? Part 2
+The Curse of the Bell Curve ?â‚¬? Part 2
 Data Science Technologies Ecosytem
 Data Science Central Weekly Digest - November 30
 Introduction to Classification & Regression Trees (CART)
@@ -1008,7 +1008,7 @@ Develop analytical skills to unleash the power of Big Data
 Unstructured content processing with MarkLogic and Tableau
 Do You Really Need a Data Scientist?
 Data Science for Better Business Decisions Formula
-Big data Analytics ?€? A disruptive technology !!
+Big data Analytics ?â‚¬? A disruptive technology !!
 Is the Data Scientist Really a New Concept?
 15 great big data articles from top news outlets
 Bigger Than Big Data? Mobile User Expectations
@@ -1032,12 +1032,12 @@ Privacy vs. Security and Data Science
 Hadoop and Perl
 Big Data: Next Best Offer
 Big Data & Associative Technology (the future)
-Data?€?s Beauty: In the Eye of the Beholder
+Data?â‚¬?s Beauty: In the Eye of the Beholder
 SparkGrams: compact in-spreadsheet histograms
 Are you a geek or a nerd?
 Measuring Risk
 60+ R resources
-Big Data?€?s Missing Component: Data Suction Appliance
+Big Data?â‚¬?s Missing Component: Data Suction Appliance
 A new type of weapons-grade secure email
 PJM market data used to reveal demand response market insights
 Batch vs. Real Time Data Processing
@@ -1055,7 +1055,7 @@ Turning visitors into sales: seduction vs. analytics
 Statistical Thinking is not science fiction, but a data science necessity
 How to Avoid Political Blunders in Analytical Discussions
 Choropleth in D3.js and Pandas (iPython Notebook)
-Insight into Forums ?€? Using Big Data to engage customers, preserve your brand
+Insight into Forums ?â‚¬? Using Big Data to engage customers, preserve your brand
 Hadoop 2 Helps Systems Integration
 My caddie just joined Mensa- Designing Golf through big data
 ERP Tools, Enterprise Data Warehouse and Warranty Management
@@ -1069,7 +1069,7 @@ Hadoop vs. NoSql  vs. Sql vs. NewSql By Example
 Can you win a Facebook data science job? Take the test!
 Selected articles from top news outlets
 The Merging of Social Media, Big Data, Perpetually Connected Consumers and AI... Nirvana, or the End of Free-Will?
-?€?The Purple People?€? - The conundrum of finding business expertise among Data Scientists.
+?â‚¬?The Purple People?â‚¬? - The conundrum of finding business expertise among Data Scientists.
 Q&A: Thinking of Data as Information Capital
 Data Science Project: Captcha Attack
 Do you want to solve real world predictive analytics case study and get ranked amongst your peers?
@@ -1105,7 +1105,7 @@ The Road to Customer Intelligence
 Here's to the Skeptics: Addressing Predictive Modeling Misconceptions
 Replaying the NFL Championships with Twitter Language Analytics
 Weekly digest - September 30
-Should you invest in Big Data? Why that's likely the wrong question?€?
+Should you invest in Big Data? Why that's likely the wrong question?â‚¬?
 Possibly the most terrifying fraud scheme to efficiently steal all your money
 DSC Webinar Series
 How Do I Start Learning Hadoop?
@@ -1145,13 +1145,13 @@ Master Data Management Solutions
 Time Series Forecasting Overview (Video Blog)
 Big Data from Small Devices?
 Jigsaw Academy Announces Predictions for the Analytics Industry in 2014
-Text Analytics: ?€?Mangalyaan?€? as Seen on Twitter
+Text Analytics: ?â‚¬?Mangalyaan?â‚¬? as Seen on Twitter
 Viz - Does your water contain fluoride?
 Combining Employee Expertise with Big Data Technical Skills
 Big data is cheap and easy
 Data Silos Obstruct Quest for Competitive Advantage
 Internship in data scientist or statitic
-Data Science for Business: Interview with NYU Stern?€?s Foster Provost
+Data Science for Business: Interview with NYU Stern?â‚¬?s Foster Provost
 10 questions about big data and data science
 Data Science programs and training currently available
 Good paper on multidimensional outlier detection on time series
@@ -1169,8 +1169,8 @@ The multiple facets of data science
 Big Data Logistics: data transfer using Apache Sqoop from RDBMS
 Data Interaction in Organizational Systems
 Great example of root cause analysis
-Three Myths About Today?€?s In-Memory Databases
-Oil and Gas Solution built on Data-Tactics?€? Big Data Engine
+Three Myths About Today?â‚¬?s In-Memory Databases
+Oil and Gas Solution built on Data-Tactics?â‚¬? Big Data Engine
 Life Cycle of Data Science Projects
 17 areas to benefit from big data analytics in next 10 years
 With highest penetration of smartphones in the world, big data market to grow in UAE.
@@ -1180,7 +1180,7 @@ The best kept secret about linear and logistic regression
 Employee Churn 201: Calculating Employee Value
 Business Intelligence and Data Warehousing
 The data science alphabet
-Data Embodiment ?€? an Ecosystemic Approach
+Data Embodiment ?â‚¬? an Ecosystemic Approach
 Manage performance of enterprise applications
 Nine new, great articles and resources posted externally
 Data sets and other machine learning resources from UC Irvine
@@ -1265,10 +1265,10 @@ Is data science bad at detecting bogus Amazon or Yelp reviews?
 Top 30 DSC blogs, based on new scoring technology
 The most expensive data science textbook
 Crazy Data Science Tutorial: Classification and Clustering
-High Value Talent Analytics Projects: ?€?Fishing?€? or Solving Business Problems?
+High Value Talent Analytics Projects: ?â‚¬?Fishing?â‚¬? or Solving Business Problems?
 Protecting Data with Data: Predicting Cyber Threats Before they Happen
 Data Scientists by Education 2014
-Big Data Divide: The challenge of a modern-day data & analytics platform when you?€?re not Google (Part 1 of 2)
+Big Data Divide: The challenge of a modern-day data & analytics platform when you?â‚¬?re not Google (Part 1 of 2)
 Should we all have two ID's (one for backup purposes)?
 Synthetic criterion to choose the right variables for your predictive algorithm
 5 levels of machine learning
@@ -1276,7 +1276,7 @@ How to Become a Data Scientist
 Weekly Digest - September 1
 Crowdsourced Q&A with Peter Norvig on Data Science
 My Top Websites For Big Data
-Big Data: What?€?s the Buzz Mean Beyond the Hype?
+Big Data: What?â‚¬?s the Buzz Mean Beyond the Hype?
 Frozen versus liquid analytics - or the competitive advantage of data science
 33 unusual problems that can be solved with data science
 Top 2,500 Websites - mentioned a few times (Page 1)
@@ -1312,7 +1312,7 @@ Trends in Big Data Vs Hadoop Vs Business Intelligence
 Survey Reminder: What are the actual challenges and opportunities data scientists face?
 Big Data & Haute Cuisine
 Weekly Digest - December 8
-Predictability ?€? Get everything as a service ?€? from IaaS, PaaS and SaaS to XaaS
+Predictability ?â‚¬? Get everything as a service ?â‚¬? from IaaS, PaaS and SaaS to XaaS
 86% of companies do not have any HR analytics capabilities
 Untestable & Unreasonable Assumptions in Models is Data Science Malpractice
 History, Music, and the Depth of Data
@@ -1329,8 +1329,8 @@ Interactive Visualization enabled Feature Selection and Model Creation
 Understanding Linear Regression
 Rigorous Generalized L^p Variance
 Weekly Digest, January 5
-What?€?s Hot & What?€?s Not in Data Science 2015
-'Datalogix like?€? insights: A new #IoT #Retail #Beacon business model? which ties the social to the physical through Data Science and IoT
+What?â‚¬?s Hot & What?â‚¬?s Not in Data Science 2015
+'Datalogix like?â‚¬? insights: A new #IoT #Retail #Beacon business model? which ties the social to the physical through Data Science and IoT
 How to start in Big Data Analytics if I come from IBM zOS arena?
 Get Started with the Data Science Bowl
 Get started with Hadoop and Spark in 10 minutes
@@ -1370,7 +1370,7 @@ Weekly Digest - February 2
 R Spatial Representation
 Who are the Top Hirers for Data Scientists?
 Is Microsoft Putting Big Data At The Heart Of Their Business?
-Digital Banking ?€? Lessons from channel integration
+Digital Banking ?â‚¬? Lessons from channel integration
 Why Women Make Great Data Scientists
 4 Ways Big Data Is Transforming Healthcare
 Building blocks of data science
@@ -1380,10 +1380,10 @@ Introduction to Data Science Central Community
 What is big data - Infographics by Bernard Marr
 Top Mistakes Developers Make When Using Python for Big Data Analytics
 Why We Should Be Openly Sharing Our Personal Data With The World...
-In-Memory Technology?€?s Petabyte-Sized Headache
+In-Memory Technology?â‚¬?s Petabyte-Sized Headache
 40+ Interviews on Data Science Industry
 Framing Ambiguity, Incentives, and Actions
-5 Big Security Trends That Today?€?s Tech Users Need to Watch
+5 Big Security Trends That Today?â‚¬?s Tech Users Need to Watch
 Understanding the Now - The Role of Data in Adaptive Organizations
 Weekly Digest - February 23
 The One Thing We Can Agree On as Political Polling Begins: Understanding Statistics
@@ -1429,13 +1429,13 @@ Big Data: Opinions & Sentiments Analysis
 6 Cloud Based Machine Learning Services
 Doing Market Research using Social Media
 Sponsored Webinar: How can big data help you?
-The Art of Data Science ?€? Part 2
+The Art of Data Science ?â‚¬? Part 2
 Big Data Analytics Maturity Model
 ACM Data Mining Talk: Representing Predictive Solutions with PMML
 The Hastings Effect:  How The Netflix Big Data Approach Is Transforming Education
 From Data to Insight: Uncovering the Hidden Costs of Data
 Sensitivity Mapping of Document Databases
-Analyzing customer data in sales & marketing ?€? part 2
+Analyzing customer data in sales & marketing ?â‚¬? part 2
 Early reviews for my upcoming publication on Machine learning
 Are You A Data Hoarder? Learn How to Manage the Clutter
 Data Scientists Thoughts that Inspired Me
@@ -1465,7 +1465,7 @@ The Emerging Data Stack and Mobile Access
 Simplifying Big Data Analytics
 Row vs Columnar vs NoSQL Databases
 32 Big data "gotchas" from the trenches in exactly 3 words
-Splunk for Hadoop ?€? Real Time Analytics
+Splunk for Hadoop ?â‚¬? Real Time Analytics
 Top 16 articles for week ending October 24
 Application of Analytics
 History of Analytics
@@ -1489,7 +1489,7 @@ Stop!  Listen to what your data isn't saying
 Gale-Shapley Algorithm
 Free trial: Real-time analytic database, purpose-built for big data
 Webinar: Analytics as a Service for Decision Makers
-Analytics on Unstructured data ?€? Twitter, Facebook and Social Media
+Analytics on Unstructured data ?â‚¬? Twitter, Facebook and Social Media
 Scientists get 6 years in prison for making wrong predictions | CBS News
 The Perfect Storm - Missed Opportunites with Mobile and Big Weather Data
 Top 27 articles for week ending October 18
@@ -1530,7 +1530,7 @@ Machine Data - Two White Papers
 3 Big Data Startups: Locu, Essess, Coursera
 Best of Analyticbridge and DSC - April 2012
 Data Science Summit Las Vegas 2012: Agenda, Speakers, Registration, Recently Added, etc.
-Big Data Isn?€?t Analytics | Hrexaminer.com
+Big Data Isn?â‚¬?t Analytics | Hrexaminer.com
 Data science jobs not requiring human interactions
 Selected blog posts from DataScienceCentral
 Data visualization: example of a great, interactive chart
@@ -1546,7 +1546,7 @@ Visualize Your Data Using Silk.co
 Data governance 101
 Analyzing customer data in sales & marketing - part 1
 Making MySQL 5,888 times faster
-36 Computer and Data Science Concepts Explained In Layman?€?s Terms
+36 Computer and Data Science Concepts Explained In Layman?â‚¬?s Terms
 1,300 Technical Data Science / Algorithm Terms Defined
 What Is The Profession Of Data Science Really About Now And In The Future?
 Interesting big data opportunity
@@ -1634,7 +1634,7 @@ Bigfoot vs UFO - Analyzing and Visualizing Keywords Trends
 What to do With Data - infographic
 What to do Once we Have Data in Our Hands?
 The Big 'Big Data' Question: Hadoop or Spark?
-Analytical Data Marts ?€? data analyst?€?s indispensable tool
+Analytical Data Marts ?â‚¬? data analyst?â‚¬?s indispensable tool
 Invitation to join Data Science Central
 Top analytic blogs and websites, with trending information
 J.D. Opdyke, Author: A Powerful and Robust Nonparametric Statistic for Joint Mean-Variance Quality Control
@@ -1660,7 +1660,7 @@ Magnum Opus Dolus Eventualis
 Look it up! Codes Associated with Public Data Sets
 Statistical Modeling steps
 Disney's "Inside Out" and the missing"D" in Data Science
-Data Science as a profession ?€? Time is Now
+Data Science as a profession ?â‚¬? Time is Now
 Why Protecting Data Privacy Matters, and When
 How to score data in Hadoop/Hive in a flash
 Weekly Digest - July 6
@@ -1695,6 +1695,6 @@ Vestas Wind Systems Turns to IBM Big Data Analytics for Smarter Wind Energy
 BIG Data Mining and Predictive Modeling - Plate Tectonics, But Not an Earth Quake
 Data Scientists... and the Rest of Us
 The key factor to optimize analytic recruiting, based on job board data
-To Sample Or Not To Sample?€? Does It Even Matter?
+To Sample Or Not To Sample?â‚¬? Does It Even Matter?
 30 unusual applications of data sciences, analytics and big data
 13 great articles about analytics / data science from major news outlets
