@@ -4,12 +4,11 @@ library(twitteR)
 library(ROAuth)
 library(ggplot2)
 
-api_key <- '9HGsrsNSw1v6UjVltErHfm3uN'
-api_secret <- 'GBoTdBksdcvBsHcZjOgG4ponWbJR5ZgzWshZzFKV3NeAGY1wNL'
-access_token <- '479179704-xsxCRYmwb6c02SIAt00NIHN44A7xnafoLo2SbhTh'
-access_token_secret <- '3neJ2ocWYMALl57gFpQhUgHwydjrzaEYybNWUjT8RIADg' 
+api_key <- omitted
+api_secret <- omitted
+access_token <- omitted
+access_token_secret <- omitted
 setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
-
 
 trump.list <- searchTwitter('#Trump', n=1000)  
 trump.df = twListToDF(trump.list)  
