@@ -1,0 +1,129 @@
+# Input tweets for Trump and Hillary
+
+library(twitteR)
+library(ROAuth)
+library(ggplot2)
+
+api_key <- '9HGsrsNSw1v6UjVltErHfm3uN'
+api_secret <- 'GBoTdBksdcvBsHcZjOgG4ponWbJR5ZgzWshZzFKV3NeAGY1wNL'
+access_token <- '479179704-xsxCRYmwb6c02SIAt00NIHN44A7xnafoLo2SbhTh'
+access_token_secret <- '3neJ2ocWYMALl57gFpQhUgHwydjrzaEYybNWUjT8RIADg' 
+setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
+
+
+trump.list <- searchTwitter('#Trump', n=1000)  
+trump.df = twListToDF(trump.list)  
+
+hillary.list <- searchTwitter('#Hillary', n=1000)  
+hillary.df = twListToDF(hillary.list)  
+
+# Import all other libraries
+library (plyr)
+library (stringr)
+
+#Generate the function
+score.sentiment = function(sentences, pos.words, neg.words,.progress='none')  
+{  
+  require(plyr)  
+  require(stringr)       
+  
+  # we got a vector of sentences. plyr will handle a list  
+  # or a vector as an "l" for us  
+  # we want a simple array ("a") of scores back, so we use   
+  # "l" + "a" + "ply" = "laply":  
+  
+  good.smiley <- c(":)")
+  bad.smiley <- c(":(",";)",":'",":P") 
+  
+  scores = laply(sentences, function(sentence, pos.words, neg.words) {  
+    
+    # clean up sentences with R's regex-driven global substitute, gsub():  
+    
+    sentence = gsub(":)", 'awsum', sentence)
+    
+    sentence = gsub('[[:punct:]]', '', sentence)  
+    
+    sentence = gsub('[[:cntrl:]]', '', sentence)  
+    
+    sentence = gsub('\\d+', '', sentence)  
+    
+    # and convert to lower case:  
+    
+    sentence = tolower(sentence)  
+    
+    # split into words. str_split is in the stringr package  
+    
+    word.list = str_split(sentence, '\\s+')  
+    
+    # sometimes a list() is one level of hierarchy too much  
+    
+    words = unlist(word.list)  
+    
+    # compare our words to the dictionaries of positive & negative terms  
+    
+    pos.matches = match(words, pos.words)  
+    neg.matches = match(words, neg.words)  
+    
+    # match() returns the position of the matched term or NA  
+    # we just want a TRUE/FALSE:  
+    
+    pos.matches = !is.na(pos.matches)  
+    
+    neg.matches = !is.na(neg.matches)  
+    
+    # and conveniently enough, TRUE/FALSE will be treated as 1/0 by sum():  
+    
+    score = sum(pos.matches) - sum(neg.matches)  
+    
+    return(score)  
+    
+  }, pos.words, neg.words, .progress=.progress )  
+  scores.df = data.frame(score=scores, text=sentences)  
+  return(scores.df)  
+} 
+
+
+#Load sentiment word lists
+hu.liu.pos = scan('C:/Users/xz/desktop/positive-words.txt', what='character', comment.char=';')
+hu.liu.neg = scan('C:/Users/xz/desktop/negative-words.txt', what='character', comment.char=';')
+
+#Add words to list
+pos.words = c(hu.liu.pos, 'upgrade', 'awsum')
+neg.words = c(hu.liu.neg, 'wtf', 'wait','waiting', 'epicfail', 'mechanical',"suspension","no")
+
+#convert text to factor
+trump.df$text<-as.factor(trump.df$text)
+hillary.df$text<-as.factor(hillary.df$text)
+
+#calculate all the scores
+trump.scores = score.sentiment(trump.df$text, pos.words,neg.words, .progress='text')
+hillary.scores = score.sentiment(hillary.df$text, pos.words,neg.words, .progress='text')
+
+trump.scores$Name = 'TRUMP'
+hillary.scores$Name = 'HILLARY'
+
+#Check the negative tweets. What made them negative
+trump.scores.2 = subset(trump.scores,trump.scores$score < 0)
+
+head(trump.scores.2)
+
+
+# Final outputs
+hist(trump.scores$score)
+hist(hillary.scores$score)
+qplot(trump.scores$score)
+qplot(hillary.scores$score)
+
+table(trump.scores$score)
+table(hillary.scores$score)
+
+
+all.scores = rbind(trump.scores, hillary.scores)
+head(all.scores)
+
+table(all.scores$score,all.scores$Name)
+
+ggplot(data=all.scores) + # ggplot works on data.frames, always
+  geom_bar(mapping=aes(x=score, fill=Name)) +
+  facet_grid(Name~.) + # make a separate plot for each hashtag
+  theme_bw() + scale_fill_brewer() # plain display, nicer colors
